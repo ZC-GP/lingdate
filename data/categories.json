@@ -4,7 +4,7 @@
     "name": "Social",
     "displayName": "社交通讯",
     "description": "社交与通讯应用",
-    "icon": "people",
+    "icon": "icons/categories/v2/people.png",
     "order": 1,
     "isActive": true
   },
@@ -13,7 +13,7 @@
     "name": "Games",
     "displayName": "游戏",
     "description": "各类游戏",
-    "icon": "games",
+    "icon": "icons/categories/v2/games.png",
     "order": 2,
     "isActive": true
   },
@@ -22,7 +22,7 @@
     "name": "Tools",
     "displayName": "实用工具",
     "description": "系统工具与效率工具",
-    "icon": "build",
+    "icon": "icons/categories/v2/build.png",
     "order": 3,
     "isActive": true
   },
@@ -31,7 +31,7 @@
     "name": "Media",
     "displayName": "视频应用",
     "description": "",
-    "icon": "movie",
+    "icon": "icons/categories/v2/movie.png",
     "order": 4,
     "isActive": true
   },
@@ -40,7 +40,7 @@
     "name": "news",
     "displayName": "图文阅读",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/article.png",
     "order": 5,
     "isActive": true
   },
@@ -49,7 +49,7 @@
     "name": "Education",
     "displayName": "教育学习",
     "description": "学习与教育相关应用",
-    "icon": "school",
+    "icon": "icons/categories/v2/school.png",
     "order": 6,
     "isActive": true
   },
@@ -58,7 +58,7 @@
     "name": "music",
     "displayName": "音乐听书",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/music_note.png",
     "order": 8,
     "isActive": true
   },
@@ -67,7 +67,7 @@
     "name": "Customization",
     "displayName": "启动器",
     "description": "主题、美化与个性化应用",
-    "icon": "palette",
+    "icon": "icons/categories/v2/palette.png",
     "order": 9,
     "isActive": true
   },
@@ -76,7 +76,7 @@
     "name": "srf",
     "displayName": "输入法",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/language.png",
     "order": 10,
     "isActive": true
   },
@@ -85,7 +85,7 @@
     "name": "market",
     "displayName": "购物金融",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/shopping_cart.png",
     "order": 11,
     "isActive": true
   },
@@ -94,7 +94,7 @@
     "name": "browser",
     "displayName": "浏览器",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/explore.png",
     "order": 12,
     "isActive": true
   },
@@ -103,7 +103,7 @@
     "name": "Apps",
     "displayName": "应用商店",
     "description": "常规应用",
-    "icon": "apps",
+    "icon": "icons/categories/v2/apps.png",
     "order": 13,
     "isActive": true
   },
@@ -112,7 +112,7 @@
     "name": "file",
     "displayName": "文件管理",
     "description": null,
-    "icon": null,
+    "icon": "icons/categories/v2/folder.png",
     "order": 14,
     "isActive": true
   },
@@ -121,7 +121,7 @@
     "name": "watchfacenew",
     "displayName": "表盘（wearOS4+）",
     "description": null,
-    "icon": null,
+    "icon": "icons/categories/v2/watch.png",
     "order": 15,
     "isActive": true
   },
@@ -130,7 +130,7 @@
     "name": "watchfaceold",
     "displayName": "表盘（wearOS4-）",
     "description": null,
-    "icon": null,
+    "icon": "icons/categories/v2/watch_later.png",
     "order": 16,
     "isActive": true
   },
@@ -139,7 +139,7 @@
     "name": "System",
     "displayName": "系统优化",
     "description": "系统级工具与设置",
-    "icon": "settings",
+    "icon": "icons/categories/v2/settings.png",
     "order": 17,
     "isActive": true
   },
@@ -148,7 +148,7 @@
     "name": "travel",
     "displayName": "便利出行",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/directions_car.png",
     "order": 18,
     "isActive": true
   },
@@ -157,7 +157,7 @@
     "name": "trick",
     "displayName": "整活搞怪",
     "description": null,
-    "icon": null,
+    "icon": "icons/categories/v2/mood.png",
     "order": 19,
     "isActive": true
   },
@@ -166,7 +166,7 @@
     "name": "Xposed",
     "displayName": "Xposed模块",
     "description": null,
-    "icon": null,
+    "icon": "icons/categories/v2/extension.png",
     "order": 20,
     "isActive": true
   },
@@ -175,7 +175,7 @@
     "name": "talk",
     "displayName": "兴趣社区",
     "description": "",
-    "icon": null,
+    "icon": "icons/categories/v2/forum.png",
     "order": 24,
     "isActive": true
   },
@@ -184,7 +184,7 @@
     "name": "Unclear",
     "displayName": "不确定分类",
     "description": "未归类的应用",
-    "icon": "help",
+    "icon": "icons/categories/v2/help.png",
     "order": 99,
     "isActive": true
   },
@@ -193,7 +193,7 @@
     "name": "Uncategorized",
     "displayName": "未分类",
     "description": "未归类的应用",
-    "icon": "help",
+    "icon": "icons/categories/v2/help.png",
     "order": 99,
     "isActive": true
   }
