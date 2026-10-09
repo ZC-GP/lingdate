@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-08T22:34:54.660Z",
+  "updatedAt": "2026-10-09T21:57:21.571Z",
   "totalApps": 990,
-  "detailCount": 593,
-  "cycleDay": 10,
+  "detailCount": 602,
+  "cycleDay": 11,
   "apps": {
     "69da022e3fc1e71efb60f91b": {
       "_id": "69da022e3fc1e71efb60f91b",
@@ -35047,92 +35047,378 @@
     },
     "6a10e64c766567fc7e572eef": {
       "_id": "6a10e64c766567fc7e572eef",
-      "owner": "69d66cd825674e3066735666",
+      "name": "Ko工具箱",
       "packageName": "com.zcg.tools",
       "variantKey": "default",
-      "versionCode": 251028,
-      "versionName": "1.0",
-      "minSdk": 19,
-      "targetSdk": 33,
-      "architectures": [],
-      "name": "Ko工具箱",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+      "logoKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
       "category": "System",
       "tags": [],
       "description": "专门KO各种电子垃圾的工具箱，有root和免root模式，可以强制旋转屏幕，调节屏幕dpi等",
       "developer": "早茶光  可泺",
-      "source": "苏打",
-      "supportedDevices": [
-        "watch"
-      ],
-      "isWearOS": false,
-      "isApks": false,
-      "supportedLanguages": [],
-      "supportedDensities": [],
-      "iconKey": "apk-logos-v2/com.zcg.tools/42611939e3b31e40-251028.png",
-      "iconSource": "parsed",
-      "apkKey": "APK/cf3494ac-c2b0-45ae-9219-6221ccf9ef55.apk",
-      "screenshotKeys": [],
-      "downloadLines": [],
-      "downloadUrl": "/download/6a10e64c766567fc7e572eef",
-      "size": 4555359,
-      "apkSize": 4555359,
+      "versionName": "2.3",
+      "versionCode": 251101,
+      "size": 4472211,
+      "apkSize": 4472211,
+      "downloads": 216,
+      "rating": 5,
+      "ratingCount": 1,
+      "status": "active",
+      "createdAt": "2026-05-22T23:27:08.860Z",
+      "updatedAt": "2026-09-11T19:45:02.944Z",
+      "latestVersionAt": "2026-09-11T19:45:02.944Z",
       "uploader": {
-        "_id": "69d66cd825674e3066735666",
-        "username": "shisan",
-        "nickname": "拾三yu",
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
         "avatarUrl": ""
       },
-      "downloads": 124,
-      "viewCount": 327,
-      "ratingAvg": 5,
-      "ratingCount": 1,
-      "status": "approved",
-      "auditLog": [
-        {
-          "action": "approved",
-          "reason": "Approved",
-          "reviewer": {
-            "_id": "69d66cd825674e3066735666",
-            "username": "shisan",
-            "nickname": "拾三yu",
-            "avatarKey": "avatars/ad128476-f69b-45de-8f6b-5af62353893d.png"
-          },
-          "timestamp": "2026-05-22T23:27:08.854Z",
-          "_id": "6a10e64c766567fc7e572ef4"
-        }
-      ],
-      "lastVersionUpdateAt": "2026-05-22T23:27:08.856Z",
-      "createdAt": "2026-05-22T23:27:08.860Z",
-      "updatedAt": "2026-06-29T07:14:14.808Z",
-      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/42611939e3b31e40-251028.png",
-      "logoKey": "apk-logos-v2/com.zcg.tools/42611939e3b31e40-251028.png",
-      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/42611939e3b31e40-251028.png",
-      "versions": [
-        {
-          "_id": "6a10e64c766567fc7e572ef1",
-          "versionCode": 251028,
-          "versionName": "1.0",
-          "uploadedAt": "2026-05-22T23:27:08.854Z",
-          "downloads": 123,
-          "changelog": ""
-        }
-      ],
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a10e64c766567fc7e572eef?versionId=6aa45a3e63071608c3e4d7fb",
+      "source": "苏打",
+      "apkKey": "APK/9dc54ee5-1689-4031-8571-5cb6c501fe33.apk",
+      "apkHash": "d6f1e81adeb51232ec02b1a495b701b59a94b1bc881b82996b81d4d0582c483f",
+      "sha256": "d6f1e81adeb51232ec02b1a495b701b59a94b1bc881b82996b81d4d0582c483f",
+      "architectures": [],
+      "minSdk": 19,
+      "targetSdk": 33,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45a3e63071608c3e4d7fb",
+      "currentMetaId": "6aa45a3e63071608c3e4d7fa",
+      "versions": [],
       "variants": [
         {
           "_id": "6a10e64c766567fc7e572eef",
           "name": "Ko工具箱",
           "packageName": "com.zcg.tools",
           "variantKey": "default",
-          "versionCode": 251028,
-          "versionName": "1.0",
-          "status": "approved",
-          "iconKey": "apk-logos-v2/com.zcg.tools/42611939e3b31e40-251028.png",
+          "variantName": null,
+          "versionCode": 251101,
+          "versionName": "2.3",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
           "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/42611939e3b31e40-251028.png",
-          "size": 4555359,
-          "apkSize": 4555359,
-          "downloads": 124,
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "downloads": 216,
           "createdAt": "2026-05-22T23:27:08.860Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45a3e63071608c3e4d7fb",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45a3e63071608c3e4d7fb",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/9dc54ee5-1689-4031-8571-5cb6c501fe33.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/9dc54ee5-1689-4031-8571-5cb6c501fe33.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "android.permission.WRITE_SETTINGS",
+        "com.zcg.tools.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CAMERA",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.QUERY_ALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_BOOT_COMPLETED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_SECURE_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.zcg.tools.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a0264bb764a5273e6ccfcd4",
+          "name": "dynamic​Spot",
+          "packageName": "com.jamworks.dynamicspot",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "logoKey": "icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "category": "System",
+          "tags": [],
+          "description": "dynamicSpot 是一款安卓端的第三方 App，由开发者 Jawomo 开发，核心功能是在安卓手机上模拟 iPhone 的\"灵动岛\"效果——在屏幕顶部挖孔区域生成一个黑色药丸状浮动窗口，用来展示通知、音乐控制、电量提醒等信息。\n\n️ 重要提醒：dynamicSpot 必须搭配 popupControl 一起使用！ 因为单独开启灵动岛后，系统的原生横幅通知依然会弹出来，导致同一个通知在灵动岛和系统横幅上各弹一次，非常难受。popupControl 的作用就是屏蔽系统原生的横幅通知弹窗，让通知统一由灵动岛来展示。简单来说：dynamicSpot 负责\"展示\"，popupControl 负责\"屏蔽\"，两个缺一不可。dynamicSpot 应用内也内置了 popupControl 的快捷入口，可以直接跳转安装（中国大陆版的应用商店一般没有 显示该区域不提供该应用）。popupControl也在我的上传名单中 可以去我的主页看",
+          "developer": "Jawomo",
+          "versionName": "2.01",
+          "versionCode": 200142,
+          "size": 7782286,
+          "apkSize": 7782286,
+          "downloads": 60,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-11T23:22:35.827Z",
+          "updatedAt": "2026-09-11T19:49:11.107Z",
+          "latestVersionAt": "2026-09-11T19:49:11.107Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": true,
+          "downloadUrl": "https://market.ziling.xin/download/6a0264bb764a5273e6ccfcd4?versionId=6aa45b3763071608c3e4d82d"
+        },
+        {
+          "_id": "6aa3c4ba72ec224d9fe7f622",
+          "name": "Key Mapper",
+          "packageName": "io.github.sds100.keymapper",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "logoKey": "apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "category": "System",
+          "tags": [],
+          "description": "这是一个可以把不常用的按键赋予功能的应用，需要无障碍可以搭配Shizuku激活专家模式",
+          "developer": "",
+          "versionName": "4.3.0-foss",
+          "versionCode": 257,
+          "size": 18156663,
+          "apkSize": 18156663,
+          "downloads": 29,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T09:07:06.572Z",
+          "updatedAt": "2026-09-11T09:07:06.578Z",
+          "latestVersionAt": "2026-09-11T09:07:06.578Z",
+          "uploader": {
+            "_id": "6a1a947fab7dc62715ca2022",
+            "username": "12345678xzq",
+            "nickname": "117还我命来！！！"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c4ba72ec224d9fe7f622?versionId=6aa3c4ba72ec224d9fe7f623"
+        },
+        {
+          "_id": "6aa3c39772ec224d9fe7f59d",
+          "name": "Kitsune Mask",
+          "packageName": "io.github.huskydg.magisk",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "logoKey": "apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "category": "System",
+          "tags": [],
+          "description": "华强北8541e手表通用面具(别的狐狸面具用不了否则刷入变砖)",
+          "developer": "GitHub二次分发",
+          "versionName": "R65C33E4F-kitsune",
+          "versionCode": 27001,
+          "size": 12872134,
+          "apkSize": 12872134,
+          "downloads": 107,
+          "rating": 4.8,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-09-11T09:02:15.500Z",
+          "updatedAt": "2026-09-11T09:02:15.504Z",
+          "latestVersionAt": "2026-09-11T09:02:15.504Z",
+          "uploader": {
+            "_id": "6a2d8a601a529fb5f20ab10d",
+            "username": "3567214702",
+            "nickname": "绪山真寻"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c39772ec224d9fe7f59d?versionId=6aa3c39772ec224d9fe7f59e"
+        },
+        {
+          "_id": "6a0a644944d220db9aee1d9e",
+          "name": "流体手势导航",
+          "packageName": "com.fb.fluid",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "logoKey": "apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "category": "System",
+          "tags": [],
+          "description": "流体手势导航是一款专为Android用户设计的手机操作手势修改软件，支持高度自定义操作手势，让用户能够更加自如地操控手机。它提供了丰富的手势操作功能，包括快速滑动和滑动并保持两种主要手势，可以从屏幕底部或侧边触发。此外，该应用还具备截图功能、主题设置以及一键分屏等实用功能，为用户带来便捷的使用体验。",
+          "developer": "Breccia",
+          "versionName": "2.0-beta11",
+          "versionCode": 178,
+          "size": 9815212,
+          "apkSize": 9815212,
+          "downloads": 353,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-18T00:58:49.905Z",
+          "updatedAt": "2026-07-20T00:45:14.235Z",
+          "latestVersionAt": "2026-05-18T00:58:49.902Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0a644944d220db9aee1d9e?versionId=6a0a644944d220db9aee1da0"
+        },
+        {
+          "_id": "6a3dc79073c5b6569cf17285",
+          "name": "X 桌面 Pro",
+          "packageName": "com.ioslauncher.pro",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "logoKey": "apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "category": "System",
+          "tags": [
+            "iOS风格",
+            "主题美化",
+            "仿苹果",
+            "极简",
+            "桌面启动器",
+            "高流畅度"
+          ],
+          "description": "X Launcher Pro 是一款高度模仿iOS风格的精简桌面启动器，为你带来流畅、简洁、优雅的iPhone式操作体验。它去除了冗余的安卓原生元素，提供经典的图标布局、平滑的过渡动画以及便捷的快捷操作，让你的安卓手机秒变iOS风格，同时保留安卓的个性化自定义能力。",
+          "developer": "X Launcher Team",
+          "versionName": "3.4.4",
+          "versionCode": 1123,
+          "size": 4665359,
+          "apkSize": 4665359,
+          "downloads": 309,
+          "rating": 5,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-06-26T00:28:00.213Z",
+          "updatedAt": "2026-08-11T17:34:03.414Z",
+          "latestVersionAt": "2026-06-26T00:28:00.210Z",
+          "uploader": {
+            "_id": "6a08753944d220db9ae2642d",
+            "username": "QTDYD",
+            "nickname": "QTDYD"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a3dc79073c5b6569cf17285?versionId=6a3dc79073c5b6569cf17287"
+        },
+        {
+          "_id": "69d9b6496f4cf61734815481",
+          "name": "XB清理器",
+          "packageName": "com.xuebinduan.xbcleaner",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xuebinduan.xbcleaner/4b8ddd9bf02e2447-159.png",
+          "logoKey": "apk-logos-v2/com.xuebinduan.xbcleaner/4b8ddd9bf02e2447-159.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xuebinduan.xbcleaner/4b8ddd9bf02e2447-159.png",
+          "category": "System",
+          "tags": [],
+          "description": "一款清理效果强大，可以查看设备真实内存（去掉了系统占用内存的部分），也可以用于基础的文件管理。\n\n推荐方屏手表使用",
+          "developer": "为之科技",
+          "versionName": "Bac2o2o 11.2.2",
+          "versionCode": 159,
+          "size": 6073865,
+          "apkSize": 6073865,
+          "downloads": 222,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-04-11T02:47:37.204Z",
+          "updatedAt": "2026-08-07T19:13:08.988Z",
+          "latestVersionAt": "2026-08-07T19:13:08.988Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d9b6496f4cf61734815481?versionId=69d9b6496f4cf61734815483"
         }
       ]
     },
@@ -53474,11 +53760,11 @@
       "packageName": "cn.luern0313.wristvideoplayer",
       "variantKey": "default",
       "variantName": null,
-      "iconKey": "icons/cn.luern0313.wristvideoplayer/c3166df7-fee4-4e79-b37e-7634429f0a64.png",
-      "iconSource": "custom",
-      "iconUrl": "https://market.ziling.xin/download/icon/icons/cn.luern0313.wristvideoplayer/c3166df7-fee4-4e79-b37e-7634429f0a64.png",
-      "logoKey": "apk-logos-v2/cn.luern0313.wristvideoplayer/72c3266907080c19-11.png",
-      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.luern0313.wristvideoplayer/72c3266907080c19-11.png",
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.luern0313.wristvideoplayer/5cfeb61dca75520d-11.png",
+      "logoKey": "apk-logos-v2/cn.luern0313.wristvideoplayer/5cfeb61dca75520d-11.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.luern0313.wristvideoplayer/5cfeb61dca75520d-11.png",
       "category": "Media",
       "tags": [
         "视频，播放器"
@@ -53489,25 +53775,25 @@
       "versionCode": 11,
       "size": 10889390,
       "apkSize": 10889390,
-      "downloads": 250,
-      "rating": 4,
-      "ratingCount": 4,
+      "downloads": 364,
+      "rating": 3.4,
+      "ratingCount": 5,
       "status": "active",
       "createdAt": "2026-04-14T11:21:45.877Z",
-      "updatedAt": "2026-05-03T17:54:44.218Z",
-      "latestVersionAt": "2026-04-14T11:21:45.874Z",
+      "updatedAt": "2026-09-11T19:46:44.633Z",
+      "latestVersionAt": "2026-09-11T19:46:44.633Z",
       "uploader": {
-        "_id": "69d6642425674e3066734d64",
-        "username": "helloworld",
-        "nickname": "helloworld",
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
         "avatarUrl": ""
       },
       "isApks": false,
-      "downloadUrl": "/download/69de2349323db2fd87c3b544",
+      "downloadUrl": "https://market.ziling.xin/download/69de2349323db2fd87c3b544?versionId=69de2349323db2fd87c3b546",
       "source": "QQ群/各大应用商店/网盘链接",
-      "apkKey": "APK/5d321327-fe46-4a8e-b55c-41171de9c8c9.apk",
-      "apkHash": "72c3266907080c199a9e69422669d7422e79bc32b5870a36eb9053dc9506dffb",
-      "sha256": "72c3266907080c199a9e69422669d7422e79bc32b5870a36eb9053dc9506dffb",
+      "apkKey": "APK/a1842aaa-ea39-477d-99dc-5c9ab1575927.apk",
+      "apkHash": "5cfeb61dca75520d5179a552bbc8a041c9166592c106a9b8f023e96c0db003de",
+      "sha256": "5cfeb61dca75520d5179a552bbc8a041c9166592c106a9b8f023e96c0db003de",
       "architectures": [
         "armeabi",
         "armeabi-v7a",
@@ -53517,7 +53803,7 @@
       "targetSdk": 26,
       "screenshotKeys": [],
       "currentVersionId": "69de2349323db2fd87c3b546",
-      "currentMetaId": "69de2349323db2fd87c3b542",
+      "currentMetaId": "6aa45aa463071608c3e4d814",
       "versions": [],
       "variants": [
         {
@@ -53529,10 +53815,10 @@
           "versionCode": 11,
           "versionName": "1.6.5",
           "status": "active",
-          "iconKey": "icons/cn.luern0313.wristvideoplayer/c3166df7-fee4-4e79-b37e-7634429f0a64.png",
-          "iconSource": "custom",
-          "iconUrl": "https://market.ziling.xin/download/icon/icons/cn.luern0313.wristvideoplayer/c3166df7-fee4-4e79-b37e-7634429f0a64.png",
-          "downloads": 250,
+          "iconKey": "apk-logos-v2/cn.luern0313.wristvideoplayer/5cfeb61dca75520d-11.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.luern0313.wristvideoplayer/5cfeb61dca75520d-11.png",
+          "downloads": 364,
           "createdAt": "2026-04-14T11:21:45.877Z"
         }
       ],
@@ -53546,14 +53832,159 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/69de2349323db2fd87c3b546",
           "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/a1842aaa-ea39-477d-99dc-5c9ab1575927.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/a1842aaa-ea39-477d-99dc-5c9ab1575927.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
-      "permissions": [],
-      "permissionDetails": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_CONFIGURATION",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.INTERNET",
+        "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_CONFIGURATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
       "hasInAppPurchases": false,
       "iapDescription": null,
       "recommendedApps": [
+        {
+          "_id": "69d79b239d9050ee237133e1",
+          "name": "哔哩终端",
+          "packageName": "com.RobinNotBad.BiliClient",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.RobinNotBad.BiliClient/b754a0a571cbf8b7-20260722.png",
+          "logoKey": "apk-logos-v2/com.RobinNotBad.BiliClient/b754a0a571cbf8b7-20260722.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.RobinNotBad.BiliClient/b754a0a571cbf8b7-20260722.png",
+          "category": "Media",
+          "tags": [],
+          "description": "兼容性强、开源免费的B站第三方客户端，功能尚在不断完善中，目前已能满足大部分浏览需求，兼容至安卓4.0.4，内置播放器可放大画面，还能调整应用内界面大小\n此版本为琴弦的非官方分支，使用过程中出现的问题请勿在官方群聊反馈，本项目开源地址：https://github.com/PianoEthan/BiliTerminal",
+          "developer": "琴弦上的小医生",
+          "versionName": "3.0.4-Qx",
+          "versionCode": 20260722,
+          "size": 9434176,
+          "apkSize": 9434176,
+          "downloads": 3987,
+          "rating": 4.3977272727272725,
+          "ratingCount": 88,
+          "status": "active",
+          "createdAt": "2026-04-09T12:27:15.773Z",
+          "updatedAt": "2026-10-07T07:57:52.738Z",
+          "latestVersionAt": "2026-10-07T07:57:52.738Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d79b239d9050ee237133e1?versionId=6ac5fb80cafe6590f41616de"
+        },
+        {
+          "_id": "6aa95f2bcce755a7bb00a35c",
+          "name": "PiliPlus Fork",
+          "packageName": "test.piliplus.com",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/test.piliplus.com/a339f0d29b77121b-5383.png",
+          "logoKey": "apk-logos-v2/test.piliplus.com/a339f0d29b77121b-5383.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/test.piliplus.com/a339f0d29b77121b-5383.png",
+          "category": "Media",
+          "tags": [
+            "哔哩哔哩",
+            "b站",
+            "第三方",
+            "修改版"
+          ],
+          "description": "本版本包名与原版不同，可共存\n\n相对于原版新增功能:\n \n视频 TAG 屏蔽：可在设置中按视频标签过滤推荐的视频，支持屏蔽词列表式管理。\n​\n缓存「听视频」：离线缓存支持仅音频播放。\n​\n仅下载音频：缓存时可只下载音频流，缓存列表以音质角标区分。\n​\n缓存音质选择：勾选「仅下载音频」后，画质选项切换为音质/码率选项。\n​\n自定义缓存路径：支持自定义缓存目录。\n​\n合并 / 分离缓存（安卓）：将 DASH 分离的音画在本地合成为单个 MP4，也可选择分离保存。\n​\n播放列表排序：本地缓存播放列表支持正序 / 倒序切换。\n​\n耳机媒体键控制：音乐播放器支持（有线/蓝牙）耳机播放、暂停与切换上下首。",
+          "developer": "bggRGjQaUbCoE/silverwolf-lv9999",
+          "versionName": "2.1.4x2",
+          "versionCode": 5383,
+          "size": 23992037,
+          "apkSize": 23992037,
+          "downloads": 106,
+          "rating": 4.75,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-09-15T15:07:23.438Z",
+          "updatedAt": "2026-09-15T15:07:23.442Z",
+          "latestVersionAt": "2026-09-15T15:07:23.442Z",
+          "uploader": {
+            "_id": "69e59967cd7e3d62df1635f9",
+            "username": "silverwolf",
+            "nickname": "银狼Lv999"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa95f2bcce755a7bb00a35c?versionId=6aa95f2bcce755a7bb00a35d"
+        },
         {
           "_id": "6a5b516ba50094624fbbb72b",
           "name": "BT",
@@ -53562,183 +53993,31 @@
           "variantName": null,
           "iconKey": null,
           "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.chinasoul.bt/d8bbbde14edfb3bd-59.png",
-          "logoKey": "apk-logos-v2/com.chinasoul.bt/d8bbbde14edfb3bd-59.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.chinasoul.bt/d8bbbde14edfb3bd-59.png",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.chinasoul.bt/d53c5e46bc700719-60.png",
+          "logoKey": "apk-logos-v2/com.chinasoul.bt/d53c5e46bc700719-60.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.chinasoul.bt/d53c5e46bc700719-60.png",
           "category": "Media",
-          "tags": [
-            "b站tv"
-          ],
-          "description": "一款以Material Design3为风格开发的电视bilbil 所有���卓端通用\n\n\n\n\n\n",
-          "developer": "BT TM",
-          "versionName": "0.9.28",
-          "versionCode": 59,
-          "size": 3038529,
-          "apkSize": 3038529,
-          "downloads": 344,
-          "rating": 5,
-          "ratingCount": 10,
+          "tags": [],
+          "description": "新",
+          "developer": "",
+          "versionName": "0.9.36-preview",
+          "versionCode": 60,
+          "size": 3292744,
+          "apkSize": 3292744,
+          "downloads": 532,
+          "rating": 4.5,
+          "ratingCount": 16,
           "status": "active",
           "createdAt": "2026-07-18T10:11:55.272Z",
-          "updatedAt": "2026-09-07T16:42:09.237Z",
-          "latestVersionAt": "2026-09-07T16:42:09.237Z",
+          "updatedAt": "2026-09-18T11:00:47.215Z",
+          "latestVersionAt": "2026-09-13T05:56:30.704Z",
           "uploader": {
-            "_id": "6a7b148096afe2a9743f0596",
-            "username": "ltyyzhxxr",
-            "nickname": "ltyyzhxxr"
+            "_id": "6a49c4b3dc4eb29bada063a2",
+            "username": "oznb",
+            "nickname": "？"
           },
           "isApks": false,
-          "downloadUrl": "/download/6a5b516ba50094624fbbb72b"
-        },
-        {
-          "_id": "6a882722cf3de263ad39d2ee",
-          "name": "动漫共和国",
-          "packageName": "com.shizi.tool.p3",
-          "variantKey": "default",
-          "variantName": null,
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v3/com.shizi.tool.p3/0ce092fa2ee6393d-9.png",
-          "logoKey": "apk-logos-v3/com.shizi.tool.p3/0ce092fa2ee6393d-9.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v3/com.shizi.tool.p3/0ce092fa2ee6393d-9.png",
-          "category": "Media",
-          "tags": [
-            "修改版"
-          ],
-          "description": "二次元天堂，这里几乎包含网络上所有的番剧，并且全部免费，此版本为修改版，纯净无广告弹窗，手表修改dpi可使用",
-          "developer": "",
-          "versionName": "1.0.0.8",
-          "versionCode": 9,
-          "size": 48490037,
-          "apkSize": 48490037,
-          "downloads": 340,
-          "rating": 5,
-          "ratingCount": 3,
-          "status": "active",
-          "createdAt": "2026-08-21T10:23:30.420Z",
-          "updatedAt": "2026-08-21T10:23:30.424Z",
-          "latestVersionAt": "2026-08-21T10:23:30.424Z",
-          "uploader": {
-            "_id": "6a7f0f7b1375ae1366dd34c4",
-            "username": "1552",
-            "nickname": "难小言"
-          },
-          "isApks": false,
-          "downloadUrl": "/download/6a882722cf3de263ad39d2ee"
-        },
-        {
-          "_id": "6a9d0e63102f9ee974dad765",
-          "name": "抖音圆屏版",
-          "packageName": "com.ss.android.ugc.aweme.watch",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.ss.android.ugc.aweme.watch/3fb6de9d502075212deffcbc22e71d8f.png",
-          "logoKey": "icons/com.ss.android.ugc.aweme.watch/3fb6de9d502075212deffcbc22e71d8f.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.ss.android.ugc.aweme.watch/3fb6de9d502075212deffcbc22e71d8f.png",
-          "category": "Media",
-          "tags": [
-            "抖音",
-            "圆屏"
-          ],
-          "description": "抖圆屏版，（完美适配oppowatchx系列",
-          "developer": "匿名",
-          "versionName": "9.9.90",
-          "versionCode": 991090,
-          "size": 17602291,
-          "apkSize": 17602291,
-          "downloads": 183,
-          "rating": 5,
-          "ratingCount": 3,
-          "status": "active",
-          "createdAt": "2026-09-06T06:55:31.177Z",
-          "updatedAt": "2026-09-06T06:55:31.181Z",
-          "latestVersionAt": "2026-09-06T06:55:31.181Z",
-          "uploader": {
-            "_id": "6a7c0abea888dac3f3831d73",
-            "username": "SUN_PLAYER",
-            "nickname": "我是佐助"
-          },
-          "isApks": false,
-          "downloadUrl": "/download/6a9d0e63102f9ee974dad765"
-        },
-        {
-          "_id": "69d79b239d9050ee237133e1",
-          "name": "哔哩终端复活版",
-          "packageName": "com.RobinNotBad.BiliClient",
-          "variantKey": "default",
-          "variantName": null,
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.RobinNotBad.BiliClient/29a15437-6297-4e26-8d6c-c3ce8bfb49a9.png",
-          "logoKey": "icons/com.RobinNotBad.BiliClient/29a15437-6297-4e26-8d6c-c3ce8bfb49a9.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.RobinNotBad.BiliClient/29a15437-6297-4e26-8d6c-c3ce8bfb49a9.png",
-          "category": "Media",
-          "tags": [
-            "哔哩哔哩",
-            "哔哩终端",
-            "复活版",
-            "手表",
-            "视频"
-          ],
-          "description": "专门为手表开发的第三方哔哩哔哩，非官方版本，该版本为复活版，基于2.9.5版本，会持续更新优化和兼容，拂袖深藏功与名",
-          "developer": "爅峫（moye）",
-          "versionName": "1.1.1",
-          "versionCode": 2026080201,
-          "size": 10108073,
-          "apkSize": 10108073,
-          "downloads": 2532,
-          "rating": 4.568965517241379,
-          "ratingCount": 58,
-          "status": "active",
-          "createdAt": "2026-04-09T12:27:15.773Z",
-          "updatedAt": "2026-08-13T23:41:22.108Z",
-          "latestVersionAt": "2026-08-13T23:41:22.108Z",
-          "uploader": {
-            "_id": "6a1a947fab7dc62715ca2022",
-            "username": "12345678xzq",
-            "nickname": "117还我命来！！！"
-          },
-          "isApks": false,
-          "downloadUrl": "/download/69d79b239d9050ee237133e1"
-        },
-        {
-          "_id": "6a92e4885e00ddbd7ad2a9f0",
-          "name": "Orbit",
-          "packageName": "com.qx.orbit.bili",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.orbit.bili/fc80da9e706bca05-510.png",
-          "logoKey": "apk-logos-v2/com.qx.orbit.bili/fc80da9e706bca05-510.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.orbit.bili/fc80da9e706bca05-510.png",
-          "category": "Media",
-          "tags": [
-            "视频应用",
-            "开源应用"
-          ],
-          "description": "Orbit 是一个运行在 Wear OS 智能手表上的第三方哔哩哔哩客户端，使用Compose + Wear Material 3实现\n目前已经实现大部分基本功能，如看视频、浏览弹幕、发送评论、查看动态、观看直播、离线缓存等等\n内置播放器支持双模切换，支持单/双指缩放平移手势，可开关弹幕、拖动全屏调节进度等，点击标题区域退出\n拥有一些首创的特色功能，比如推荐页左滑视频可一键净化（隐藏+报告不感兴趣+拉黑UP主），评论区长按评论可隐藏评论+拉黑发送者\n注意：项目仍在开发阶段，部分功能仍处于实验性，有Bug请到仓库 issue 反馈，有能力欢迎提交pr\n\n本项目使用 GPL-3.0 协议开源，仓库地址：https://github.com/PianoEthan/Orbit",
-          "developer": "琴弦上的小医生",
-          "versionName": "0.5.20-Alpha-full",
-          "versionCode": 510,
-          "size": 18865305,
-          "apkSize": 18865305,
-          "downloads": 103,
-          "rating": 4.75,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-08-29T13:54:16.066Z",
-          "updatedAt": "2026-08-29T13:54:16.070Z",
-          "latestVersionAt": "2026-08-29T13:54:16.070Z",
-          "uploader": {
-            "_id": "69e1ffddcd7e3d62df02711e",
-            "username": "ChengHao",
-            "nickname": "ChengHao_ha"
-          },
-          "isApks": false,
-          "downloadUrl": "/download/6a92e4885e00ddbd7ad2a9f0"
+          "downloadUrl": "https://market.ziling.xin/download/6a5b516ba50094624fbbb72b?versionId=6a5b516ba50094624fbbb72d"
         },
         {
           "_id": "69de2347323db2fd87c3b52b",
@@ -53761,7 +54040,7 @@
           "versionCode": 31,
           "size": 12400412,
           "apkSize": 12400412,
-          "downloads": 373,
+          "downloads": 489,
           "rating": 2.2,
           "ratingCount": 15,
           "status": "active",
@@ -53774,7 +54053,80 @@
             "nickname": "helloworld"
           },
           "isApks": false,
-          "downloadUrl": "/download/69de2347323db2fd87c3b52b"
+          "downloadUrl": "https://market.ziling.xin/download/69de2347323db2fd87c3b52b?versionId=69de2347323db2fd87c3b52d"
+        },
+        {
+          "_id": "6a92e4885e00ddbd7ad2a9f0",
+          "name": "Orbit",
+          "packageName": "com.qx.orbit.bili",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.orbit.bili/51ee955561383b70-521.png",
+          "logoKey": "apk-logos-v2/com.qx.orbit.bili/51ee955561383b70-521.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.orbit.bili/51ee955561383b70-521.png",
+          "category": "Media",
+          "tags": [
+            "影音",
+            "bili"
+          ],
+          "description": "Orbit 是一个运行在 Wear OS 智能手表上的第三方哔哩哔哩客户端，使用Compose + Wear Material 3实现\n目前已经实现大部分基本功能，如看视频、浏览弹幕、发送评论、查看动态、观看直播、离线缓存等等\n内置播放器支持双模切换，支持单/双指缩放平移手势，可开关弹幕、拖动全屏调节进度等，点击标题区域退出\n拥有一些首创的特色功能，比如推荐页左滑视频可一键净化（隐藏+报告不感兴趣+拉黑UP主），评论区长按评论可隐藏评论+拉黑发送者\n注意：项目仍在开发阶段，部分功能仍处于实验性，有Bug请到仓库 issue 反馈，有能力欢迎提交pr\n\n本项目使用 GPL-3.0 协议开源，仓库地址：https://github.com/PianoEthan/Orbit",
+          "developer": "琴弦上的小医生",
+          "versionName": "0.5.21-Alpha-full",
+          "versionCode": 521,
+          "size": 10591024,
+          "apkSize": 10591024,
+          "downloads": 260,
+          "rating": 4.25,
+          "ratingCount": 8,
+          "status": "active",
+          "createdAt": "2026-08-29T13:54:16.066Z",
+          "updatedAt": "2026-09-24T18:40:03.652Z",
+          "latestVersionAt": "2026-09-24T18:40:03.652Z",
+          "uploader": {
+            "_id": "6a7d2fe37ddab1968ebc9057",
+            "username": "张浩铭",
+            "nickname": "张浩铭"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a92e4885e00ddbd7ad2a9f0?versionId=6ab56e83f22cb9d18c4f4ace"
+        },
+        {
+          "_id": "6a882722cf3de263ad39d2ee",
+          "name": "动漫共和国",
+          "packageName": "com.shizi.tool.p3",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.shizi.tool.p3/0ce092fa2ee6393d-9.png",
+          "logoKey": "apk-logos-v2/com.shizi.tool.p3/0ce092fa2ee6393d-9.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.shizi.tool.p3/0ce092fa2ee6393d-9.png",
+          "category": "Media",
+          "tags": [
+            "修改版"
+          ],
+          "description": "二次元天堂，这里几乎包含网络上所有的番剧，并且全部免费，此版本为修改版，纯净无广告弹窗，手表修改dpi可使用",
+          "developer": "",
+          "versionName": "1.0.0.8",
+          "versionCode": 9,
+          "size": 48490037,
+          "apkSize": 48490037,
+          "downloads": 584,
+          "rating": 5,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-08-21T10:23:30.420Z",
+          "updatedAt": "2026-08-21T10:23:30.424Z",
+          "latestVersionAt": "2026-08-21T10:23:30.424Z",
+          "uploader": {
+            "_id": "6a7f0f7b1375ae1366dd34c4",
+            "username": "1552",
+            "nickname": "难小言"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a882722cf3de263ad39d2ee?versionId=6a882722cf3de263ad39d2ef"
         }
       ]
     },
@@ -122543,6 +122895,3774 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6a19152eab7dc627159499c6?versionId=6a19152eab7dc627159499c8"
+        }
+      ]
+    },
+    "69d784ed3737ed64443bd95b": {
+      "_id": "69d784ed3737ed64443bd95b",
+      "name": "WxWear",
+      "packageName": "com.tencent.wechatkids",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.wechatkids/b5725ba7d7cd819d-10703.png",
+      "logoKey": "apk-logos-v2/com.tencent.wechatkids/b5725ba7d7cd819d-10703.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.wechatkids/b5725ba7d7cd819d-10703.png",
+      "category": "Social",
+      "tags": [],
+      "description": "一款基于原版手表微信修改的手表微信，功能丰富",
+      "developer": "腾讯 Java233 HAOZI",
+      "versionName": "1.7.3",
+      "versionCode": 10703,
+      "size": 63502240,
+      "apkSize": 63502240,
+      "downloads": 5382,
+      "rating": 3.8271604938271606,
+      "ratingCount": 81,
+      "status": "active",
+      "createdAt": "2026-04-09T10:52:29.602Z",
+      "updatedAt": "2026-09-11T19:49:52.502Z",
+      "latestVersionAt": "2026-09-11T19:49:52.502Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/69d784ed3737ed64443bd95b?versionId=6aa45b6063071608c3e4d834",
+      "source": "微思",
+      "apkKey": "APK/25223660-d483-4f65-a98e-58215b08a153.apk",
+      "apkHash": "b5725ba7d7cd819dcd33009dd65f0fa8af1debc3556f4eabbfe4a2eb0d9bca31",
+      "sha256": "b5725ba7d7cd819dcd33009dd65f0fa8af1debc3556f4eabbfe4a2eb0d9bca31",
+      "architectures": [
+        "armeabi-v7a"
+      ],
+      "minSdk": 19,
+      "targetSdk": 33,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45b6063071608c3e4d834",
+      "currentMetaId": "6aa45b6063071608c3e4d833",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "69d784ed3737ed64443bd95b",
+          "name": "WxWear",
+          "packageName": "com.tencent.wechatkids",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 10703,
+          "versionName": "1.7.3",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.tencent.wechatkids/b5725ba7d7cd819d-10703.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.wechatkids/b5725ba7d7cd819d-10703.png",
+          "downloads": 5382,
+          "createdAt": "2026-04-09T10:52:29.602Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45b6063071608c3e4d834",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45b6063071608c3e4d834",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/25223660-d483-4f65-a98e-58215b08a153.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/25223660-d483-4f65-a98e-58215b08a153.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_DOWNLOAD_MANAGER",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_SUPERUSER",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ALARM_LOCK",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.CAMERA",
+        "android.permission.DEVICE_POWER",
+        "android.permission.DISABLE_KEYGUARD",
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.KILL_BACKGROUND_PROCESSES",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_LOGS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.tencent.wechatkids.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_COARSE_LOCATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_DOWNLOAD_MANAGER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_FINE_LOCATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_SUPERUSER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ALARM_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_ADMIN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CAMERA",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.DEVICE_POWER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.DISABLE_KEYGUARD",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.KILL_BACKGROUND_PROCESSES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_LOGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PRIVILEGED_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_SMS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECORD_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.USE_FULL_SCREEN_INTENT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.tencent.wechatkids.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6aa45f6663071608c3e4d8c5",
+          "name": "漂流瓶",
+          "packageName": "com.xiaoyunsha.driftbottle",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xiaoyunsha.driftbottle/f2e3758f60c1838e-1.png",
+          "logoKey": "apk-logos-v2/com.xiaoyunsha.driftbottle/f2e3758f60c1838e-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xiaoyunsha.driftbottle/f2e3758f60c1838e-1.png",
+          "category": "Social",
+          "tags": [],
+          "description": "可以捡别人的漂流瓶，也可以自己扔漂流瓶。",
+          "developer": "",
+          "versionName": "1.0",
+          "versionCode": 1,
+          "size": 1655694,
+          "apkSize": 1655694,
+          "downloads": 120,
+          "rating": 5,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-09-11T20:07:02.228Z",
+          "updatedAt": "2026-09-11T20:07:02.232Z",
+          "latestVersionAt": "2026-09-11T20:07:02.232Z",
+          "uploader": {
+            "_id": "6a54cd9ca50094624f211985",
+            "username": "xhw",
+            "nickname": "xhw"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa45f6663071608c3e4d8c5?versionId=6aa45f6663071608c3e4d8c6"
+        },
+        {
+          "_id": "69d784eb3737ed64443bd94b",
+          "name": "QQ Ω",
+          "packageName": "com.tencent.qqlite",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.qqlite/80aa50aa723952a6-2465.png",
+          "logoKey": "apk-logos-v2/com.tencent.qqlite/80aa50aa723952a6-2465.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.qqlite/80aa50aa723952a6-2465.png",
+          "category": "Social",
+          "tags": [
+            "QQ",
+            "Omega",
+            "Ω",
+            "ω"
+          ],
+          "description": "QQ Ω ω1.1！",
+          "developer": "",
+          "versionName": "ω1.1",
+          "versionCode": 2465,
+          "size": 51794969,
+          "apkSize": 51794969,
+          "downloads": 2697,
+          "rating": 3.6818181818181817,
+          "ratingCount": 110,
+          "status": "active",
+          "createdAt": "2026-04-09T10:52:27.532Z",
+          "updatedAt": "2026-10-03T07:36:52.804Z",
+          "latestVersionAt": "2026-10-03T07:36:52.804Z",
+          "uploader": {
+            "_id": "6a5064bda50094624fbbe7fc",
+            "username": "RobinJBK",
+            "nickname": null
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d784eb3737ed64443bd94b?versionId=69d784eb3737ed64443bd94d"
+        },
+        {
+          "_id": "6a476428dc4eb29bad441c90",
+          "name": "滔滔对讲",
+          "packageName": "com.kylindev.totalk",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kylindev.totalk/f4168ee6e47d35ce-168.png",
+          "logoKey": "apk-logos-v2/com.kylindev.totalk/f4168ee6e47d35ce-168.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kylindev.totalk/f4168ee6e47d35ce-168.png",
+          "category": "Social",
+          "tags": [
+            "实用",
+            "工具",
+            "通信"
+          ],
+          "description": "一款对讲软件，类似南山对讲，可能适配部分手表，需自行测试",
+          "developer": "totalk",
+          "versionName": "3.0.8.1",
+          "versionCode": 168,
+          "size": 30739365,
+          "apkSize": 30739365,
+          "downloads": 90,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-07-03T07:26:32.938Z",
+          "updatedAt": "2026-07-03T07:26:32.960Z",
+          "latestVersionAt": "2026-07-03T07:26:32.933Z",
+          "uploader": {
+            "_id": "6a44fb22dc4eb29bad2d9512",
+            "username": "yyishappy",
+            "nickname": "欧阳噢耶"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a476428dc4eb29bad441c90?versionId=6a476428dc4eb29bad441c92"
+        },
+        {
+          "_id": "6a00ccfc764a5273e6c48d29",
+          "name": "米坛社区",
+          "packageName": "com.bandbbs.mobileapp",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": "icons/com.bandbbs.mobileapp/5e0db8d1-6813-4ce6-8dde-a39fba9f7a9b.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.bandbbs.mobileapp/5e0db8d1-6813-4ce6-8dde-a39fba9f7a9b.png",
+          "logoKey": "apk-logos-v2/com.bandbbs.mobileapp/34313a7084ca4f1e-144.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bandbbs.mobileapp/34313a7084ca4f1e-144.png",
+          "category": "Social",
+          "tags": [],
+          "description": "米坛社区是一个智能��戴圈交流社区",
+          "developer": null,
+          "versionName": "1.0.10.1.RELEASE",
+          "versionCode": 144,
+          "size": 48303047,
+          "apkSize": 48303047,
+          "downloads": 79,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-10T18:22:52.718Z",
+          "updatedAt": "2026-05-10T18:22:52.721Z",
+          "latestVersionAt": "2026-05-10T18:22:52.713Z",
+          "uploader": {
+            "_id": "69d65fad25674e306673470f",
+            "username": "ziling",
+            "nickname": "灵"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a00ccfc764a5273e6c48d29?versionId=6a00ccfc764a5273e6c48d2b"
+        },
+        {
+          "_id": "6a315d835326b2e79b1baae6",
+          "name": "QQ Max",
+          "packageName": "com.tencent.qqlite",
+          "variantKey": "variant-1781618829318",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.qqlite/acc97caf8bb2c0d6-2465.png",
+          "logoKey": "apk-logos-v2/com.tencent.qqlite/acc97caf8bb2c0d6-2465.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.qqlite/acc97caf8bb2c0d6-2465.png",
+          "category": "Social",
+          "tags": [],
+          "description": "QQmax是一款参考wearQQPro基于QQPro而开发的QQ\n特点:手机TIM化\n完全行内输入",
+          "developer": "AI LIFE与基于此改版的开发者",
+          "versionName": "M1.1",
+          "versionCode": 2465,
+          "size": 48570579,
+          "apkSize": 48570579,
+          "downloads": 79,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-06-16T14:28:19.952Z",
+          "updatedAt": "2026-06-17T12:50:05.267Z",
+          "latestVersionAt": "2026-06-16T14:28:19.948Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a315d835326b2e79b1baae6?versionId=6a315d835326b2e79b1baae8"
+        },
+        {
+          "_id": "6a2a8f5172a92ec23dde86c3",
+          "name": "QQ Max",
+          "packageName": "com.tencent.qqlite",
+          "variantKey": "variant-1781173984949",
+          "variantName": null,
+          "iconKey": "icons/com.tencent.qqlite/64996a33-ddfb-4f14-859d-eff9b550ae7c.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.tencent.qqlite/64996a33-ddfb-4f14-859d-eff9b550ae7c.png",
+          "logoKey": "apk-logos-v2/com.tencent.qqlite/830249888e080230-2465.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.qqlite/830249888e080230-2465.png",
+          "category": "Social",
+          "tags": [],
+          "description": "一款基于QQPro基于nwearQQ基于wearQQ基于QQ9.0.3的版本",
+          "developer": "AI LIFE",
+          "versionName": "M1.0",
+          "versionCode": 2465,
+          "size": 48754955,
+          "apkSize": 48754955,
+          "downloads": 78,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-06-11T10:34:57.093Z",
+          "updatedAt": "2026-06-14T14:47:30.264Z",
+          "latestVersionAt": "2026-06-11T10:34:57.090Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a2a8f5172a92ec23dde86c3?versionId=6a2a8f5172a92ec23dde86c5"
+        }
+      ]
+    },
+    "6a0264bb764a5273e6ccfcd4": {
+      "_id": "6a0264bb764a5273e6ccfcd4",
+      "name": "dynamic​Spot",
+      "packageName": "com.jamworks.dynamicspot",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+      "logoKey": "icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+      "category": "System",
+      "tags": [],
+      "description": "dynamicSpot 是一款安卓端的第三方 App，由开发者 Jawomo 开发，核心功能是在安卓手机上模拟 iPhone 的\"灵动岛\"效果——在屏幕顶部挖孔区域生成一个黑色药丸状浮动窗口，用来展示通知、音乐控制、电量提醒等信息。\n\n️ 重要提醒：dynamicSpot 必须搭配 popupControl 一起使用！ 因为单独开启灵动岛后，系统的原生横幅通知依然会弹出来，导致同一个通知在灵动岛和系统横幅上各弹一次，非常难受。popupControl 的作用就是屏蔽系统原生的横幅通知弹窗，让通知统一由灵动岛来展示。简单来说：dynamicSpot 负责\"展示\"，popupControl 负责\"屏蔽\"，两个缺一不可。dynamicSpot 应用内也内置了 popupControl 的快捷入口，可以直接跳转安装（中国大陆版的应用商店一般没有 显示该区域不提供该应用）。popupControl也在我的上传名单中 可以去我的主页看",
+      "developer": "Jawomo",
+      "versionName": "2.01",
+      "versionCode": 200142,
+      "size": 7782286,
+      "apkSize": 7782286,
+      "downloads": 60,
+      "rating": 5,
+      "ratingCount": 2,
+      "status": "active",
+      "createdAt": "2026-05-11T23:22:35.827Z",
+      "updatedAt": "2026-09-11T19:49:11.107Z",
+      "latestVersionAt": "2026-09-11T19:49:11.107Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": true,
+      "downloadUrl": "https://market.ziling.xin/download/6a0264bb764a5273e6ccfcd4?versionId=6aa45b3763071608c3e4d82d",
+      "source": "Google Play",
+      "apkKey": "APK/9691cd71-1353-4691-a240-2e0337ecb5c3.apks",
+      "apkHash": "0c2c9cf5af2a96126255c4a77315f004bc36918f813d4faba469734d3e6b9320",
+      "sha256": "0c2c9cf5af2a96126255c4a77315f004bc36918f813d4faba469734d3e6b9320",
+      "architectures": [
+        "arm64-v8a"
+      ],
+      "minSdk": 28,
+      "targetSdk": 36,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45b3763071608c3e4d82d",
+      "currentMetaId": "6aa45b3763071608c3e4d82c",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a0264bb764a5273e6ccfcd4",
+          "name": "dynamic​Spot",
+          "packageName": "com.jamworks.dynamicspot",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 200142,
+          "versionName": "2.01",
+          "status": "active",
+          "iconKey": "icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "downloads": 60,
+          "createdAt": "2026-05-11T23:22:35.827Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45b3763071608c3e4d82d",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45b3763071608c3e4d82d",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/9691cd71-1353-4691-a240-2e0337ecb5c3.apks",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/9691cd71-1353-4691-a240-2e0337ecb5c3.apks",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [],
+      "permissionDetails": [],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a10e64c766567fc7e572eef",
+          "name": "Ko工具箱",
+          "packageName": "com.zcg.tools",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "category": "System",
+          "tags": [],
+          "description": "专门KO各种电子垃圾的工具箱，有root和免root模式，可以强制旋转屏幕，调节屏幕dpi等",
+          "developer": "早茶光  可泺",
+          "versionName": "2.3",
+          "versionCode": 251101,
+          "size": 4472211,
+          "apkSize": 4472211,
+          "downloads": 216,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-22T23:27:08.860Z",
+          "updatedAt": "2026-09-11T19:45:02.944Z",
+          "latestVersionAt": "2026-09-11T19:45:02.944Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a10e64c766567fc7e572eef?versionId=6aa45a3e63071608c3e4d7fb"
+        },
+        {
+          "_id": "6aa3c4ba72ec224d9fe7f622",
+          "name": "Key Mapper",
+          "packageName": "io.github.sds100.keymapper",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "logoKey": "apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "category": "System",
+          "tags": [],
+          "description": "这是一个可以把不常用的按键赋予功能的应用，需要无障碍可以搭配Shizuku激活专家模式",
+          "developer": "",
+          "versionName": "4.3.0-foss",
+          "versionCode": 257,
+          "size": 18156663,
+          "apkSize": 18156663,
+          "downloads": 29,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T09:07:06.572Z",
+          "updatedAt": "2026-09-11T09:07:06.578Z",
+          "latestVersionAt": "2026-09-11T09:07:06.578Z",
+          "uploader": {
+            "_id": "6a1a947fab7dc62715ca2022",
+            "username": "12345678xzq",
+            "nickname": "117还我命来！！！"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c4ba72ec224d9fe7f622?versionId=6aa3c4ba72ec224d9fe7f623"
+        },
+        {
+          "_id": "6aa3c39772ec224d9fe7f59d",
+          "name": "Kitsune Mask",
+          "packageName": "io.github.huskydg.magisk",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "logoKey": "apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "category": "System",
+          "tags": [],
+          "description": "华强北8541e手表通用面具(别的狐狸面具用不了否则刷入变砖)",
+          "developer": "GitHub二次分发",
+          "versionName": "R65C33E4F-kitsune",
+          "versionCode": 27001,
+          "size": 12872134,
+          "apkSize": 12872134,
+          "downloads": 107,
+          "rating": 4.8,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-09-11T09:02:15.500Z",
+          "updatedAt": "2026-09-11T09:02:15.504Z",
+          "latestVersionAt": "2026-09-11T09:02:15.504Z",
+          "uploader": {
+            "_id": "6a2d8a601a529fb5f20ab10d",
+            "username": "3567214702",
+            "nickname": "绪山真寻"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c39772ec224d9fe7f59d?versionId=6aa3c39772ec224d9fe7f59e"
+        },
+        {
+          "_id": "6a0a644944d220db9aee1d9e",
+          "name": "流体手势导航",
+          "packageName": "com.fb.fluid",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "logoKey": "apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "category": "System",
+          "tags": [],
+          "description": "流体手势导航是一款专为Android用户设计的手机操作手势修改软件，支持高度自定义操作手势，让用户能够更加自如地操控手机。它提供了丰富的手势操作功能，包括快速滑动和滑动并保持两种主要手势，可以从屏幕底部或侧边触发。此外，该应用还具备截图功能、主题设置以及一键分屏等实用功能，为用户带来便捷的使用体验。",
+          "developer": "Breccia",
+          "versionName": "2.0-beta11",
+          "versionCode": 178,
+          "size": 9815212,
+          "apkSize": 9815212,
+          "downloads": 353,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-18T00:58:49.905Z",
+          "updatedAt": "2026-07-20T00:45:14.235Z",
+          "latestVersionAt": "2026-05-18T00:58:49.902Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0a644944d220db9aee1d9e?versionId=6a0a644944d220db9aee1da0"
+        },
+        {
+          "_id": "6a3dc79073c5b6569cf17285",
+          "name": "X 桌面 Pro",
+          "packageName": "com.ioslauncher.pro",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "logoKey": "apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "category": "System",
+          "tags": [
+            "iOS风格",
+            "主题美化",
+            "仿苹果",
+            "极简",
+            "桌面启动器",
+            "高流畅度"
+          ],
+          "description": "X Launcher Pro 是一款高度模仿iOS风格的精简桌面启动器，为你带来流畅、简洁、优雅的iPhone式操作体验。它去除了冗余的安卓原生元素，提供经典的图标布局、平滑的过渡动画以及便捷的快捷操作，让你的安卓手机秒变iOS风格，同时保留安卓的个性化自定义能力。",
+          "developer": "X Launcher Team",
+          "versionName": "3.4.4",
+          "versionCode": 1123,
+          "size": 4665359,
+          "apkSize": 4665359,
+          "downloads": 309,
+          "rating": 5,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-06-26T00:28:00.213Z",
+          "updatedAt": "2026-08-11T17:34:03.414Z",
+          "latestVersionAt": "2026-06-26T00:28:00.210Z",
+          "uploader": {
+            "_id": "6a08753944d220db9ae2642d",
+            "username": "QTDYD",
+            "nickname": "QTDYD"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a3dc79073c5b6569cf17285?versionId=6a3dc79073c5b6569cf17287"
+        },
+        {
+          "_id": "69d9b6496f4cf61734815481",
+          "name": "XB清理器",
+          "packageName": "com.xuebinduan.xbcleaner",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xuebinduan.xbcleaner/4b8ddd9bf02e2447-159.png",
+          "logoKey": "apk-logos-v2/com.xuebinduan.xbcleaner/4b8ddd9bf02e2447-159.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xuebinduan.xbcleaner/4b8ddd9bf02e2447-159.png",
+          "category": "System",
+          "tags": [],
+          "description": "一款清理效果强大，可以查看设备真实内存（去掉了系统占用内存的部分），也可以用于基础的文件管理。\n\n推荐方屏手表使用",
+          "developer": "为之科技",
+          "versionName": "Bac2o2o 11.2.2",
+          "versionCode": 159,
+          "size": 6073865,
+          "apkSize": 6073865,
+          "downloads": 222,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-04-11T02:47:37.204Z",
+          "updatedAt": "2026-08-07T19:13:08.988Z",
+          "latestVersionAt": "2026-08-07T19:13:08.988Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d9b6496f4cf61734815481?versionId=69d9b6496f4cf61734815483"
+        }
+      ]
+    },
+    "6aa45b2a63071608c3e4d825": {
+      "_id": "6aa45b2a63071608c3e4d825",
+      "name": "酷安",
+      "packageName": "com.coolapk.market",
+      "variantKey": "default",
+      "variantName": "default",
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.coolapk.market/63c706b32a909162-2607271.png",
+      "logoKey": "apk-logos-v2/com.coolapk.market/63c706b32a909162-2607271.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.coolapk.market/63c706b32a909162-2607271.png",
+      "category": "talk",
+      "tags": [],
+      "description": "酷安（CoolApk） 是深圳酷安网络科技有限公司旗下的泛科技数码社区，前身为知名第三方安卓应用市场\"酷市场\"，口号为\"发现科技新生活\"。截至 2026 年 6 月，其注册用户已超 6000 万，是国内极具影响力的极客平台之一。",
+      "developer": "泛科技数码社区",
+      "versionName": "16.5.1",
+      "versionCode": 2607271,
+      "size": 116389418,
+      "apkSize": 116389418,
+      "downloads": 81,
+      "rating": 0,
+      "ratingCount": 0,
+      "status": "active",
+      "createdAt": "2026-09-11T19:48:58.028Z",
+      "updatedAt": "2026-09-11T19:48:58.030Z",
+      "latestVersionAt": "2026-09-11T19:48:58.030Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6aa45b2a63071608c3e4d825?versionId=6aa45b2a63071608c3e4d826",
+      "source": "各大应用商店下载",
+      "apkKey": "APK/e352ae0e-3062-4c51-8001-f3331e959ed0.apk",
+      "apkHash": "63c706b32a909162b9507d42d33401f38ead42328b7da9a9e57a1aae7a31b84d",
+      "sha256": "63c706b32a909162b9507d42d33401f38ead42328b7da9a9e57a1aae7a31b84d",
+      "architectures": [
+        "arm64-v8a"
+      ],
+      "minSdk": 24,
+      "targetSdk": 34,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45b2a63071608c3e4d826",
+      "currentMetaId": "6aa45b2a63071608c3e4d824",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6aa45b2a63071608c3e4d825",
+          "name": "酷安",
+          "packageName": "com.coolapk.market",
+          "variantKey": "default",
+          "variantName": "default",
+          "versionCode": 2607271,
+          "versionName": "16.5.1",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.coolapk.market/63c706b32a909162-2607271.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.coolapk.market/63c706b32a909162-2607271.png",
+          "downloads": 81,
+          "createdAt": "2026-09-11T19:48:58.028Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45b2a63071608c3e4d826",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/e352ae0e-3062-4c51-8001-f3331e959ed0.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.FLASHLIGHT",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.INTERNET",
+        "android.permission.KILL_BACKGROUND_PROCESSES",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECEIVE_USER_PRESENT",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.RESTART_PACKAGES",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.SET_WALLPAPER",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.permission.GET_INSTALLED_APPS",
+        "com.asus.msa.SupplementaryDID.ACCESS",
+        "com.asus.permission.READ_SDID_PROVIDER",
+        "com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE",
+        "com.coolapk.market.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.coolapk.market.openadsdk.permission.TT_PANGOLIN",
+        "com.coolapk.market.permission.C2D_MESSAGE",
+        "com.coolapk.market.permission.MIPUSH_RECEIVE",
+        "com.coolapk.market.permission.PROCESS_PUSH_MSG",
+        "com.coolapk.market.permission.PUSH_PROVIDER",
+        "com.coolapk.market.permission.XGPUSH_RECEIVE",
+        "com.coolapk.market.push.permission.MESSAGE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+        "com.hihonor.android.launcher.permission.CHANGE_BADGE",
+        "com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO",
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        "com.meizu.c2dm.permission.RECEIVE",
+        "com.meizu.flyme.permission.PUSH",
+        "com.meizu.flyme.push.permission.RECEIVE",
+        "com.miui.systemAdSolution.adSwitch.PROVIDER",
+        "com.miui.systemAdSolution.permission.MSA_CACHE",
+        "com.nemu.oaid.permission.read",
+        "com.vivo.notification.permission.BADGE_ICON",
+        "freemme.permission.msa",
+        "freemme.permission.msa.SECURITY_ACCESS"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_COARSE_LOCATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CAMERA",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FLASHLIGHT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.KILL_BACKGROUND_PROCESSES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MODIFY_AUDIO_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.POST_NOTIFICATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.QUERY_ALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_IMAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_VIDEO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_USER_PRESENT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECORD_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_DELETE_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RESTART_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SCHEDULE_EXACT_ALARM",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SET_WALLPAPER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.android.permission.GET_INSTALLED_APPS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.asus.msa.SupplementaryDID.ACCESS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.asus.permission.READ_SDID_PROVIDER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.openadsdk.permission.TT_PANGOLIN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.permission.C2D_MESSAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.permission.MIPUSH_RECEIVE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.permission.PROCESS_PUSH_MSG",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.permission.PUSH_PROVIDER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.permission.XGPUSH_RECEIVE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.coolapk.market.push.permission.MESSAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.google.android.gms.permission.AD_ID",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.hihonor.android.launcher.permission.CHANGE_BADGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.huawei.android.launcher.permission.CHANGE_BADGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.meizu.c2dm.permission.RECEIVE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.meizu.flyme.permission.PUSH",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.meizu.flyme.push.permission.RECEIVE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.miui.systemAdSolution.adSwitch.PROVIDER",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.miui.systemAdSolution.permission.MSA_CACHE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.nemu.oaid.permission.read",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.vivo.notification.permission.BADGE_ICON",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "freemme.permission.msa",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "freemme.permission.msa.SECURITY_ACCESS",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6aa458e463071608c3e4d7bc",
+          "name": "画世界",
+          "packageName": "net.huanci.hsj",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/net.huanci.hsj/ac50a9fc967f4b79-269.png",
+          "logoKey": "apk-logos-v2/net.huanci.hsj/ac50a9fc967f4b79-269.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/net.huanci.hsj/ac50a9fc967f4b79-269.png",
+          "category": "talk",
+          "tags": [
+            "画画"
+          ],
+          "description": "手机、手表，平板都能用的画画应用，存储小，功能丰富。里面有各种笔刷，画板，还有茶会，圈子。",
+          "developer": "",
+          "versionName": "2.9.14",
+          "versionCode": 269,
+          "size": 47076858,
+          "apkSize": 47076858,
+          "downloads": 42,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T19:39:16.687Z",
+          "updatedAt": "2026-09-11T19:39:16.690Z",
+          "latestVersionAt": "2026-09-11T19:39:16.690Z",
+          "uploader": {
+            "_id": "6a74903c4f71c43f9965f9a8",
+            "username": "Xlq",
+            "nickname": "Qht"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa458e463071608c3e4d7bc?versionId=6aa458e463071608c3e4d7bd"
+        },
+        {
+          "_id": "6a26e77672a92ec23d4aa0a8",
+          "name": "LOFTER",
+          "packageName": "com.lofter.android",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.lofter.android/26fabd75fbc85aad-207.png",
+          "logoKey": "apk-logos-v2/com.lofter.android/26fabd75fbc85aad-207.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.lofter.android/26fabd75fbc85aad-207.png",
+          "category": "talk",
+          "tags": [],
+          "description": "lofter是大型二次元交流社区",
+          "developer": null,
+          "versionName": "6.9.3",
+          "versionCode": 207,
+          "size": 48581323,
+          "apkSize": 48581323,
+          "downloads": 70,
+          "rating": 1,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-06-08T16:01:58.348Z",
+          "updatedAt": "2026-07-15T03:01:06.848Z",
+          "latestVersionAt": "2026-06-08T16:01:58.345Z",
+          "uploader": {
+            "_id": "69d65fad25674e306673470f",
+            "username": "ziling",
+            "nickname": "灵"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a26e77672a92ec23d4aa0a8?versionId=6a26e77672a92ec23d4aa0ab"
+        },
+        {
+          "_id": "69d8500007d4cd10ca63b478",
+          "name": "Via",
+          "packageName": "mark.via",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/mark.via/c64c71458df03ef9-20260823.png",
+          "logoKey": "apk-logos-v2/mark.via/c64c71458df03ef9-20260823.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/mark.via/c64c71458df03ef9-20260823.png",
+          "category": "browser",
+          "tags": [],
+          "description": "Via浏览器是由上海知为网络科技有限公司开发的一款安卓平台轻量化浏览器应用。该浏览器具备毫秒级启动速度与低内存占用特性，通过沙盒机制降低权限需求，减少隐私泄露风险，内置广告标记拦截、无图模式及离线保存功能以节省流量，支持自定义搜索引擎、资源嗅探与插件扩展。用户可切换电脑模式加载网页，并利用网页翻译、网页内查找等功能提升浏览效率。云同步、隐私防追踪及数据清除功能进一步保障使用安全，广告数据库持续更新以优化拦截效果，高级选项添加自定义标签页开关，优化了Cookies管理和下载机制，谷歌Play版额外提供AI功能自由度和沉浸式阅读模式，区别于国内版的搜索引擎自定义支持\n\n更新内容：\nv7.3.3\n- 新增搜索快捷词功能\n- 视频播放方向新增跟随设备\n- 操作设定新增打开书签弹窗\n- 优先使用 HTTPS\n- 优化应用页面切换动画\n- 优化搜索建议\n- 优化元素过滤器的加载\n- 调整主页交互\n- 支持预测返回手势\n- 适配 Android16\n- 修复壁纸可能形变的问题\n- 部分错误修复",
+          "developer": "上海知为网络科技有限公司",
+          "versionName": "7.3.3",
+          "versionCode": 20260823,
+          "size": 2628334,
+          "apkSize": 2628334,
+          "downloads": 685,
+          "rating": 5,
+          "ratingCount": 14,
+          "status": "active",
+          "createdAt": "2026-04-10T01:18:56.291Z",
+          "updatedAt": "2026-09-11T20:27:54.392Z",
+          "latestVersionAt": "2026-09-11T20:27:54.392Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d8500007d4cd10ca63b478?versionId=6aa3c2cf72ec224d9fe7f560"
+        },
+        {
+          "_id": "6aae52fa66f82c44fb657ba2",
+          "name": "MCPE0.10汉化版",
+          "packageName": "me.mcpe.old.zh_cn.byxwbhhh",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "logoKey": "apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "category": "Games",
+          "tags": [
+            "老游戏移植"
+          ],
+          "description": "MCPE0.10汉化版，作者尽量汉化了部分界面，以及汉化了全部游戏内物品名称，让大家在怀旧的同时不用死磕全英文界面和英文物品，同时进行了逆向重打包，兼容Android 5~Android 14，且支持32位应用的设备游玩",
+          "developer": "Mojang AB",
+          "versionName": "0.10.5",
+          "versionCode": 740100501,
+          "size": 17918890,
+          "apkSize": 17918890,
+          "downloads": 284,
+          "rating": 5,
+          "ratingCount": 6,
+          "status": "active",
+          "createdAt": "2026-09-19T09:16:42.564Z",
+          "updatedAt": "2026-09-19T09:16:42.567Z",
+          "latestVersionAt": "2026-09-19T09:16:42.567Z",
+          "uploader": {
+            "_id": "69ff019c764a5273e6b72ff5",
+            "username": "XWB",
+            "nickname": "xwbhhh"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aae52fa66f82c44fb657ba2?versionId=6aae52fa66f82c44fb657ba3"
+        },
+        {
+          "_id": "6a4111e1dc4eb29bad3505af",
+          "name": "暮光工具箱",
+          "packageName": "com.twilight.toolsapp",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoKey": "icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "category": "Tools",
+          "tags": [
+            "综合工具",
+            "多功能"
+          ],
+          "description": "暮光工具箱是一款由暮光工作室独立开发的安卓综合工具软件，集合多媒体资源、图片处理、生活查询、手机管理等多种实用功能于一体。软件坚持免费维护，无广告干扰，通过轻量化设计帮助用户在一个应用内完成壁纸获取、短视频解析、图片编辑、文本处理以及日常查询等操作。\n\n暮光工具箱软件内置丰富工具模块，支持高清壁纸、头像���表情包资源浏览，以及短视频平台内容解析下载；同时提供图片压缩裁剪、取色调色、文本处理、格式化工具、单位换算、设备信息查看、主题美化等功能。极简界面搭配多工具整合设计，让用户无需安装多个独立应用即可满足日常使用需求，适合喜欢实用工具和手机个性化管理的安卓用户下载体验。",
+          "developer": "暮光开发组",
+          "versionName": "4.0.4",
+          "versionCode": 80,
+          "size": 9334946,
+          "apkSize": 9334946,
+          "downloads": 240,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-06-28T12:21:53.596Z",
+          "updatedAt": "2026-09-11T19:42:31.213Z",
+          "latestVersionAt": "2026-09-11T19:42:31.213Z",
+          "uploader": {
+            "_id": "6a408429dc4eb29badbcd962",
+            "username": "Slinkur",
+            "nickname": "墨泽Kur"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a4111e1dc4eb29bad3505af?versionId=6aa459a763071608c3e4d7db"
+        },
+        {
+          "_id": "6a10e64c766567fc7e572eef",
+          "name": "Ko工具箱",
+          "packageName": "com.zcg.tools",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "category": "System",
+          "tags": [],
+          "description": "专门KO各种电子垃圾的工具箱，有root和免root模式，可以强制旋转屏幕，调节屏幕dpi等",
+          "developer": "早茶光  可泺",
+          "versionName": "2.3",
+          "versionCode": 251101,
+          "size": 4472211,
+          "apkSize": 4472211,
+          "downloads": 216,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-22T23:27:08.860Z",
+          "updatedAt": "2026-09-11T19:45:02.944Z",
+          "latestVersionAt": "2026-09-11T19:45:02.944Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a10e64c766567fc7e572eef?versionId=6aa45a3e63071608c3e4d7fb"
+        }
+      ]
+    },
+    "69de2452323db2fd87c3c000": {
+      "_id": "69de2452323db2fd87c3c000",
+      "name": "小黑屋",
+      "packageName": "web1n.stopapp",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/web1n.stopapp/bdf5628eabdf54a0-297.png",
+      "logoKey": "apk-logos-v2/web1n.stopapp/bdf5628eabdf54a0-297.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/web1n.stopapp/bdf5628eabdf54a0-297.png",
+      "category": "System",
+      "tags": [],
+      "description": "一款禁止应用后台进程的应用，需要shizuku或root权限",
+      "developer": "web1n",
+      "versionName": "1.9.18c",
+      "versionCode": 297,
+      "size": 1910777,
+      "apkSize": 1910777,
+      "downloads": 100,
+      "rating": 1,
+      "ratingCount": 1,
+      "status": "active",
+      "createdAt": "2026-04-14T11:26:10.837Z",
+      "updatedAt": "2026-09-11T19:48:45.025Z",
+      "latestVersionAt": "2026-09-11T19:48:45.025Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/69de2452323db2fd87c3c000?versionId=69de2452323db2fd87c3c002",
+      "source": null,
+      "apkKey": "APK/59a88cb1-e513-4462-8115-bf24bcd7f4c3.apk",
+      "apkHash": "bdf5628eabdf54a0010e79285f823bf69906ecc5f25908f5d7c999744013744e",
+      "sha256": "bdf5628eabdf54a0010e79285f823bf69906ecc5f25908f5d7c999744013744e",
+      "architectures": [
+        "arm64-v8a",
+        "armeabi",
+        "armeabi-v7a",
+        "mips",
+        "mips64",
+        "x86",
+        "x86_64"
+      ],
+      "minSdk": 23,
+      "targetSdk": 29,
+      "screenshotKeys": [],
+      "currentVersionId": "69de2452323db2fd87c3c002",
+      "currentMetaId": "6aa45b1d63071608c3e4d821",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "69de2452323db2fd87c3c000",
+          "name": "小黑屋",
+          "packageName": "web1n.stopapp",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 297,
+          "versionName": "1.9.18c",
+          "status": "active",
+          "iconKey": "apk-logos-v2/web1n.stopapp/bdf5628eabdf54a0-297.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/web1n.stopapp/bdf5628eabdf54a0-297.png",
+          "downloads": 100,
+          "createdAt": "2026-04-14T11:26:10.837Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/69de2452323db2fd87c3c002",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/69de2452323db2fd87c3c002",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/59a88cb1-e513-4462-8115-bf24bcd7f4c3.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/59a88cb1-e513-4462-8115-bf24bcd7f4c3.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.BATTERY_STATS",
+        "android.permission.BROADCAST_STICKY",
+        "android.permission.EXPAND_STATUS_BAR",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.GET_APP_OPS_STATS",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.INTERNET",
+        "android.permission.PACKAGE_USAGE_STATS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_USER_PRESENT",
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.vending.BILLING",
+        "com.catchingnow.icebox.SDK",
+        "com.catchingnow.icebox.STATE",
+        "me.piebridge.brevent.permission.BREVENT_DISABLED",
+        "moe.shizuku.manager.permission.API_V23"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BATTERY_STATS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BROADCAST_STICKY",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.EXPAND_STATUS_BAR",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.GET_APP_OPS_STATS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERACT_ACROSS_USERS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.PACKAGE_USAGE_STATS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_USER_PRESENT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_DELETE_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.USE_BIOMETRIC",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.USE_FINGERPRINT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.android.launcher.permission.INSTALL_SHORTCUT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.android.vending.BILLING",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.catchingnow.icebox.SDK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.catchingnow.icebox.STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "me.piebridge.brevent.permission.BREVENT_DISABLED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "moe.shizuku.manager.permission.API_V23",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a10e64c766567fc7e572eef",
+          "name": "Ko工具箱",
+          "packageName": "com.zcg.tools",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "category": "System",
+          "tags": [],
+          "description": "专门KO各种电子垃圾的工具箱，有root和免root模式，可以强制旋转屏幕，调节屏幕dpi等",
+          "developer": "早茶光  可泺",
+          "versionName": "2.3",
+          "versionCode": 251101,
+          "size": 4472211,
+          "apkSize": 4472211,
+          "downloads": 216,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-22T23:27:08.860Z",
+          "updatedAt": "2026-09-11T19:45:02.944Z",
+          "latestVersionAt": "2026-09-11T19:45:02.944Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a10e64c766567fc7e572eef?versionId=6aa45a3e63071608c3e4d7fb"
+        },
+        {
+          "_id": "6a0264bb764a5273e6ccfcd4",
+          "name": "dynamic​Spot",
+          "packageName": "com.jamworks.dynamicspot",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "logoKey": "icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.jamworks.dynamicspot/8c4aaa0d-6c73-489b-9dee-67b5fee4fa49.png",
+          "category": "System",
+          "tags": [],
+          "description": "dynamicSpot 是一款安卓端的第三方 App，由开发者 Jawomo 开发，核心功能是在安卓手机上模拟 iPhone 的\"灵动岛\"效果——在屏幕顶部挖孔区域生成一个黑色药丸状浮动窗口，用来展示通知、音乐控制、电量提醒等信息。\n\n️ 重要提醒：dynamicSpot 必须搭配 popupControl 一起使用！ 因为单独开启灵动岛后，系统的原生横幅通知依然会弹出来，导致同一个通知在灵动岛和系统横幅上各弹一次，非常难受。popupControl 的作用就是屏蔽系统原生的横幅通知弹窗��让通知统一由灵动岛来展示。简单来说：dynamicSpot 负责\"展示\"，popupControl 负责\"屏蔽\"，两个缺一不可。dynamicSpot 应用内也内置了 popupControl 的快捷入口，可以直接跳转安装（中国大陆版的应用商店一般没有 显示该区域不提供该应用）。popupControl也在我的上传名单中 可以去我的主页看",
+          "developer": "Jawomo",
+          "versionName": "2.01",
+          "versionCode": 200142,
+          "size": 7782286,
+          "apkSize": 7782286,
+          "downloads": 60,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-11T23:22:35.827Z",
+          "updatedAt": "2026-09-11T19:49:11.107Z",
+          "latestVersionAt": "2026-09-11T19:49:11.107Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": true,
+          "downloadUrl": "https://market.ziling.xin/download/6a0264bb764a5273e6ccfcd4?versionId=6aa45b3763071608c3e4d82d"
+        },
+        {
+          "_id": "6aa3c4ba72ec224d9fe7f622",
+          "name": "Key Mapper",
+          "packageName": "io.github.sds100.keymapper",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "logoKey": "apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.sds100.keymapper/417d66768eb3ea0d-257.png",
+          "category": "System",
+          "tags": [],
+          "description": "这是一个可以把不常用的按键赋予功能的应用，需要无障碍可以搭配Shizuku激活专家模式",
+          "developer": "",
+          "versionName": "4.3.0-foss",
+          "versionCode": 257,
+          "size": 18156663,
+          "apkSize": 18156663,
+          "downloads": 29,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T09:07:06.572Z",
+          "updatedAt": "2026-09-11T09:07:06.578Z",
+          "latestVersionAt": "2026-09-11T09:07:06.578Z",
+          "uploader": {
+            "_id": "6a1a947fab7dc62715ca2022",
+            "username": "12345678xzq",
+            "nickname": "117还我命来！！！"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c4ba72ec224d9fe7f622?versionId=6aa3c4ba72ec224d9fe7f623"
+        },
+        {
+          "_id": "6aa3c39772ec224d9fe7f59d",
+          "name": "Kitsune Mask",
+          "packageName": "io.github.huskydg.magisk",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "logoKey": "apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/io.github.huskydg.magisk/6b557be3c75de371-27001.png",
+          "category": "System",
+          "tags": [],
+          "description": "华强北8541e手表通用面具(别的狐狸面具用不了否则刷入变砖)",
+          "developer": "GitHub二次分发",
+          "versionName": "R65C33E4F-kitsune",
+          "versionCode": 27001,
+          "size": 12872134,
+          "apkSize": 12872134,
+          "downloads": 107,
+          "rating": 4.8,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-09-11T09:02:15.500Z",
+          "updatedAt": "2026-09-11T09:02:15.504Z",
+          "latestVersionAt": "2026-09-11T09:02:15.504Z",
+          "uploader": {
+            "_id": "6a2d8a601a529fb5f20ab10d",
+            "username": "3567214702",
+            "nickname": "绪山真寻"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c39772ec224d9fe7f59d?versionId=6aa3c39772ec224d9fe7f59e"
+        },
+        {
+          "_id": "6a0a644944d220db9aee1d9e",
+          "name": "流体手势导航",
+          "packageName": "com.fb.fluid",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "logoKey": "apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fb.fluid/f834799325bea7ce-178.png",
+          "category": "System",
+          "tags": [],
+          "description": "流体手势导航是一款专为Android用户设计的手机操作手势修改软件，支持高度自定义操作手势，让用户能够更加自如地操控手机。它提供了丰富的手势操作功能，包括快速滑动和滑动并保持两种主要手势，可以从屏幕底部或侧边触发。此外，该应用还具备截图功能、主题设置以及一键分屏等实用功能，为用户带来便捷的使用体验。",
+          "developer": "Breccia",
+          "versionName": "2.0-beta11",
+          "versionCode": 178,
+          "size": 9815212,
+          "apkSize": 9815212,
+          "downloads": 353,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-18T00:58:49.905Z",
+          "updatedAt": "2026-07-20T00:45:14.235Z",
+          "latestVersionAt": "2026-05-18T00:58:49.902Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0a644944d220db9aee1d9e?versionId=6a0a644944d220db9aee1da0"
+        },
+        {
+          "_id": "6a3dc79073c5b6569cf17285",
+          "name": "X 桌面 Pro",
+          "packageName": "com.ioslauncher.pro",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "logoKey": "apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ioslauncher.pro/796874c3aaca569d-1123.png",
+          "category": "System",
+          "tags": [
+            "iOS风格",
+            "主题美化",
+            "仿苹果",
+            "极简",
+            "桌面启动器",
+            "高流畅度"
+          ],
+          "description": "X Launcher Pro 是一款高度模仿iOS风格的精简桌面启动器，为你带来流畅、简洁、优雅的iPhone式操作体验。它去除了冗余的安卓原生元素，提供经典的图标布局、平滑的过渡动画以及便捷的快捷操作，让你的安卓手机秒变iOS风格，同时保留安卓的个性化自定义能力。",
+          "developer": "X Launcher Team",
+          "versionName": "3.4.4",
+          "versionCode": 1123,
+          "size": 4665359,
+          "apkSize": 4665359,
+          "downloads": 309,
+          "rating": 5,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-06-26T00:28:00.213Z",
+          "updatedAt": "2026-08-11T17:34:03.414Z",
+          "latestVersionAt": "2026-06-26T00:28:00.210Z",
+          "uploader": {
+            "_id": "6a08753944d220db9ae2642d",
+            "username": "QTDYD",
+            "nickname": "QTDYD"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a3dc79073c5b6569cf17285?versionId=6a3dc79073c5b6569cf17287"
+        }
+      ]
+    },
+    "6a0b1c8b766567fc7ee7fbff": {
+      "_id": "6a0b1c8b766567fc7ee7fbff",
+      "name": "腕上浏览器",
+      "packageName": "com.wearable.browser",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wearable.browser/bd9e3a50293bf6cf-7000125.png",
+      "logoKey": "apk-logos-v2/com.wearable.browser/bd9e3a50293bf6cf-7000125.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wearable.browser/bd9e3a50293bf6cf-7000125.png",
+      "category": "Tools",
+      "tags": [],
+      "description": "opoowatch的浏览器，“要有内核的手表可用”",
+      "developer": "oppo",
+      "versionName": "7.0.0.125_e002d54_250224",
+      "versionCode": 7000125,
+      "size": 2031949,
+      "apkSize": 2031949,
+      "downloads": 418,
+      "rating": 3.6666666666666665,
+      "ratingCount": 6,
+      "status": "active",
+      "createdAt": "2026-05-18T14:04:59.911Z",
+      "updatedAt": "2026-09-11T19:46:33.952Z",
+      "latestVersionAt": "2026-09-11T19:46:33.952Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a0b1c8b766567fc7ee7fbff?versionId=6aa45a9963071608c3e4d812",
+      "source": "oppo应该商吞",
+      "apkKey": "APK/96ebc4d8-14c6-409d-9e2d-dc64e7ef7981.apk",
+      "apkHash": "bd9e3a50293bf6cfd6c93356e88336b098040f364bbfb89605566ec92bb185d2",
+      "sha256": "bd9e3a50293bf6cfd6c93356e88336b098040f364bbfb89605566ec92bb185d2",
+      "architectures": [],
+      "minSdk": 27,
+      "targetSdk": 33,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45a9963071608c3e4d812",
+      "currentMetaId": "6aa45a9963071608c3e4d811",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a0b1c8b766567fc7ee7fbff",
+          "name": "腕上浏览器",
+          "packageName": "com.wearable.browser",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 7000125,
+          "versionName": "7.0.0.125_e002d54_250224",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.wearable.browser/bd9e3a50293bf6cf-7000125.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wearable.browser/bd9e3a50293bf6cf-7000125.png",
+          "downloads": 418,
+          "createdAt": "2026-05-18T14:04:59.911Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45a9963071608c3e4d812",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45a9963071608c3e4d812",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/96ebc4d8-14c6-409d-9e2d-dc64e7ef7981.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/96ebc4d8-14c6-409d-9e2d-dc64e7ef7981.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "com.wearable.browser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "heytap.wearable.permission.browser.DOWNLOAD_STATUS_CHANGED_RECEIVER"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.QUERY_ALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.wearable.browser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "heytap.wearable.permission.browser.DOWNLOAD_STATUS_CHANGED_RECEIVER",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a4111e1dc4eb29bad3505af",
+          "name": "暮光工具箱",
+          "packageName": "com.twilight.toolsapp",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoKey": "icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "category": "Tools",
+          "tags": [
+            "综合工具",
+            "多功能"
+          ],
+          "description": "暮光工具箱是一款由暮光工作室独立开发的安卓综合工具软件，集合多媒体资源、图片处理、生活查询、手机管理等多种实用功能于一体。软件坚持免费维护，无广告干扰，通过轻量化设计帮助用户在一个应用内完成壁纸获取、短视频解析、图片编辑、文本处理以及日常查询等操作。\n\n暮光工具箱软件内置丰富工具模块，支持高清壁纸、头像、表情包资源浏览，以及短视频平台内容解析下载；同时提供图片压缩裁剪、取色调色、文本处理、格式化工具、单位换算、设备信息查看、主题美化等功能。极简界面搭配多工具整合设计，让用户无需安装多个独立应用即可满足日常使用需求，适合喜欢实用工具和手机个性化管理的安卓用户下载体验。",
+          "developer": "暮光开发组",
+          "versionName": "4.0.4",
+          "versionCode": 80,
+          "size": 9334946,
+          "apkSize": 9334946,
+          "downloads": 240,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-06-28T12:21:53.596Z",
+          "updatedAt": "2026-09-11T19:42:31.213Z",
+          "latestVersionAt": "2026-09-11T19:42:31.213Z",
+          "uploader": {
+            "_id": "6a408429dc4eb29badbcd962",
+            "username": "Slinkur",
+            "nickname": "墨泽Kur"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a4111e1dc4eb29bad3505af?versionId=6aa459a763071608c3e4d7db"
+        },
+        {
+          "_id": "6a518f4da50094624f40cb41",
+          "name": "快牙精简版",
+          "packageName": "com.omniashare.minishare",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.omniashare.minishare/a669ed8f5f1bc981-18.png",
+          "logoKey": "apk-logos-v2/com.omniashare.minishare/a669ed8f5f1bc981-18.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.omniashare.minishare/a669ed8f5f1bc981-18.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "快牙精简版是一款非常好用的文件传输软件。这款软件是官方推出的精简版本，保留了文件快速传输的功能，同时用缩小了软件的体积",
+          "developer": "邻动网络科技(北京)有限公司",
+          "versionName": "1.6.6",
+          "versionCode": 18,
+          "size": 5293202,
+          "apkSize": 5293202,
+          "downloads": 125,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-07-11T00:33:17.565Z",
+          "updatedAt": "2026-09-11T20:20:36.806Z",
+          "latestVersionAt": "2026-09-11T20:20:36.806Z",
+          "uploader": {
+            "_id": "6a2ec85d5326b2e79bd77ebb",
+            "username": "ww2",
+            "nickname": "w2"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a518f4da50094624f40cb41?versionId=6a518f4da50094624f40cb43"
+        },
+        {
+          "_id": "6ab2939566f82c44fb668530",
+          "name": "蓝河工具箱",
+          "packageName": "com.bluestudiocjd.app",
+          "variantKey": "variant-1790051782937",
+          "variantName": "ARM64版本",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoKey": "apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "category": "Tools",
+          "tags": [
+            "Vivo",
+            "Iqoo",
+            "工具箱",
+            "蓝河"
+          ],
+          "description": "蓝盒工具箱（又名蓝河工具箱）是专为vivo、iQOO机型打造的第三方免ROOT系统优化工具，依托Shizuku授权解锁系统隐藏权限，整合性能调校、系统美化、后台管控、设备检测四大核心模块，主要功能包括全局插帧强制开启高帧率、直驱供电绕过系统充电限制、处理器核心调度手动调整及内存增强等性能优化，应用冻结、自启管理、后台限制、深度清理、通知隐藏及快捷跳转原生设置等系统管理，自定义分辨率、状态栏图标隐藏、色彩风格调节、动画速度调整及设备改名等显示与个性化设置，以及硬件参数查看、APK提取等实用工具，针对OriginOS底层进行深度适配，解决了通用工具无法解锁蓝厂专属隐藏调度与供电限制的问题，能够在不修改系统分区、不影响保修的前提下，实现游戏帧率稳定、发热控制、后台精简及系统流畅度提升，且安装包体积小、无广告、免费使用。",
+          "developer": "陈进东",
+          "versionName": "6.15",
+          "versionCode": 76,
+          "size": 5111110,
+          "apkSize": 5111110,
+          "downloads": 59,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-22T14:41:25.099Z",
+          "updatedAt": "2026-09-22T14:41:25.103Z",
+          "latestVersionAt": "2026-09-22T14:41:25.103Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab2939566f82c44fb668530?versionId=6ab2939566f82c44fb668531"
+        },
+        {
+          "_id": "6aadddb05a5f65b24006148d",
+          "name": "星海助手",
+          "packageName": "com.stars.app",
+          "variantKey": "variant-1789772852249",
+          "variantName": "ARM64-V8A",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoKey": "apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "category": "Tools",
+          "tags": [
+            "网盘解析",
+            "实用标签",
+            "免费软件",
+            "无广告",
+            "多功能软件"
+          ],
+          "description": "一个纯免费的网盘解析工具，没有任何广告，并且呢它支持市面上所有网盘的解析，并且知识高速核心速度100兆每秒需要登录使用",
+          "developer": "崩溃的废物(QQ)",
+          "versionName": "2.9.14",
+          "versionCode": 64,
+          "size": 5167881,
+          "apkSize": 5167881,
+          "downloads": 50,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-19T00:56:16.214Z",
+          "updatedAt": "2026-09-19T00:56:16.218Z",
+          "latestVersionAt": "2026-09-19T00:56:16.218Z",
+          "uploader": {
+            "_id": "6a6838f1a50094624ff13620",
+            "username": "annian",
+            "nickname": "安念"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aadddb05a5f65b24006148d?versionId=6aadddb05a5f65b24006148e"
+        },
+        {
+          "_id": "6ac25780cafe6590f415622d",
+          "name": "OptiX（相机应用）",
+          "packageName": "com.ailife.rotatingcamera",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoKey": "apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "category": "Tools",
+          "tags": [
+            "摄像软件"
+          ],
+          "description": "一个非常好用的相机应用，内置多种算法并且支持导入算法。功能较为全面，可以有效提升手表和旧手机拍摄照片的效果，虽然实际情况还受硬件影响，但当然是可以改善的。",
+          "developer": "Al LIFE和Sara",
+          "versionName": "6.7.54",
+          "versionCode": 110,
+          "size": 23548282,
+          "apkSize": 23548282,
+          "downloads": 48,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-04T13:41:20.808Z",
+          "updatedAt": "2026-10-04T13:41:20.812Z",
+          "latestVersionAt": "2026-10-04T13:41:20.812Z",
+          "uploader": {
+            "_id": "6abf3c2477ba95606a796c1b",
+            "username": "jtsk",
+            "nickname": "狡兔科技"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac25780cafe6590f415622d?versionId=6ac25780cafe6590f415622e"
+        },
+        {
+          "_id": "6aa3c2e172ec224d9fe7f569",
+          "name": "小柚投屏",
+          "packageName": "tv.huan.mobile.xiaoyou.cast",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tv.huan.mobile.xiaoyou.cast/2ae98bdff8371134-200.png",
+          "logoKey": "apk-logos-v2/tv.huan.mobile.xiaoyou.cast/2ae98bdff8371134-200.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tv.huan.mobile.xiaoyou.cast/2ae98bdff8371134-200.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "跨网投屏专家\n免费的全能投屏工具\n高清图片轮播\n安卓/苹果/华为/电脑/平板\n\n一键投屏至电视\n\n\n影视全覆盖\n爱奇艺/腾讯/优酷/芒果/B站\n\n抖音/快手等1000+APP",
+          "developer": "小柚投屏",
+          "versionName": "2.0.0",
+          "versionCode": 200,
+          "size": 22784206,
+          "apkSize": 22784206,
+          "downloads": 43,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T08:59:13.088Z",
+          "updatedAt": "2026-09-11T08:59:13.092Z",
+          "latestVersionAt": "2026-09-11T08:59:13.092Z",
+          "uploader": {
+            "_id": "6a899eb001a51df7339ca928",
+            "username": "兮",
+            "nickname": "兮"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c2e172ec224d9fe7f569?versionId=6aa3c2e172ec224d9fe7f56a"
+        }
+      ]
+    },
+    "6aa45a4563071608c3e4d804": {
+      "_id": "6aa45a4563071608c3e4d804",
+      "name": "XT工具箱",
+      "packageName": "xiaote.tool",
+      "variantKey": "default",
+      "variantName": "default",
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/xiaote.tool/85865435461dd9f9-20260531.png",
+      "logoKey": "apk-logos-v2/xiaote.tool/85865435461dd9f9-20260531.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/xiaote.tool/85865435461dd9f9-20260531.png",
+      "category": "Tools",
+      "tags": [],
+      "description": "一款轻量级多功能工具箱 面向安卓用户",
+      "developer": "未知",
+      "versionName": "3.7.118",
+      "versionCode": 20260531,
+      "size": 38158511,
+      "apkSize": 38158511,
+      "downloads": 50,
+      "rating": 0,
+      "ratingCount": 0,
+      "status": "active",
+      "createdAt": "2026-09-11T19:45:09.569Z",
+      "updatedAt": "2026-09-11T19:45:09.572Z",
+      "latestVersionAt": "2026-09-11T19:45:09.572Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6aa45a4563071608c3e4d804?versionId=6aa45a4563071608c3e4d805",
+      "source": "百度",
+      "apkKey": "APK/8dd6c504-ecd8-46c9-80db-ee4d79fccb93.apk",
+      "apkHash": "85865435461dd9f9b6dc7ef0da18d9d02d9301d9cefe94a3620fe8c3729992ee",
+      "sha256": "85865435461dd9f9b6dc7ef0da18d9d02d9301d9cefe94a3620fe8c3729992ee",
+      "architectures": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "minSdk": 23,
+      "targetSdk": 29,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45a4563071608c3e4d805",
+      "currentMetaId": "6aa45a4563071608c3e4d803",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6aa45a4563071608c3e4d804",
+          "name": "XT工具箱",
+          "packageName": "xiaote.tool",
+          "variantKey": "default",
+          "variantName": "default",
+          "versionCode": 20260531,
+          "versionName": "3.7.118",
+          "status": "active",
+          "iconKey": "apk-logos-v2/xiaote.tool/85865435461dd9f9-20260531.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/xiaote.tool/85865435461dd9f9-20260531.png",
+          "downloads": 50,
+          "createdAt": "2026-09-11T19:45:09.569Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45a4563071608c3e4d805",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45a4563071608c3e4d805",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/8dd6c504-ecd8-46c9-80db-ee4d79fccb93.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/8dd6c504-ecd8-46c9-80db-ee4d79fccb93.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_ALL_DOWNLOADS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SETTINGS"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_ALL_DOWNLOADS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.POST_NOTIFICATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6ab7c4ae9604347aa09b2b47",
+          "name": "初音电卓",
+          "packageName": "biz.showten.mikcalc",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/biz.showten.mikcalc/f6bcc7b3da4d3c2f-10.png",
+          "logoKey": "apk-logos-v2/biz.showten.mikcalc/f6bcc7b3da4d3c2f-10.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/biz.showten.mikcalc/f6bcc7b3da4d3c2f-10.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "一个以初音未来声音做的计算器，你只需要按等号，它就会把你输入的数字给你读一遍上面全是英文，根本看不懂最低支持安卓2.2版本支持多大的屏幕倒是没有测试过，有大神测试一下子呗，名字十分的怪",
+          "developer": "未知",
+          "versionName": "2.7",
+          "versionCode": 10,
+          "size": 665239,
+          "apkSize": 665239,
+          "downloads": 15,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-26T13:12:14.603Z",
+          "updatedAt": "2026-09-26T13:12:14.606Z",
+          "latestVersionAt": "2026-09-26T13:12:14.606Z",
+          "uploader": {
+            "_id": "6a642c0ca50094624f0234be",
+            "username": "rkk",
+            "nickname": "rkk"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab7c4ae9604347aa09b2b47?versionId=6ab7c4ae9604347aa09b2b48"
+        },
+        {
+          "_id": "6a00d20d764a5273e6c49fdc",
+          "name": "甲壳虫ADB助手莫奈版",
+          "packageName": "com.didjdk.adbhelper",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.didjdk.adbhelper/e3ae991e6f06115d-17.png",
+          "logoKey": "apk-logos-v2/com.didjdk.adbhelper/e3ae991e6f06115d-17.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.didjdk.adbhelper/e3ae991e6f06115d-17.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "ADB安卓设备的软件，已解锁高级会员。",
+          "developer": "未知",
+          "versionName": "1.3.1",
+          "versionCode": 17,
+          "size": 5879220,
+          "apkSize": 5879220,
+          "downloads": 647,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-05-10T18:44:29.587Z",
+          "updatedAt": "2026-09-09T17:31:22.215Z",
+          "latestVersionAt": "2026-09-09T17:31:22.215Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a00d20d764a5273e6c49fdc?versionId=6a00d20d764a5273e6c49fde"
+        },
+        {
+          "_id": "69dc77510b6582d2a4927096",
+          "name": "小熊录屏",
+          "packageName": "com.duapps.recorder",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.duapps.recorder/da8f2ff56fc5ddc8-100597.png",
+          "logoKey": "apk-logos-v2/com.duapps.recorder/da8f2ff56fc5ddc8-100597.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.duapps.recorder/da8f2ff56fc5ddc8-100597.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "一个牛逼克拉斯的录音软件提供多种设置不会因为安卓系统版本过低而无法录屏内置多种设置任你修改要经过设置开箱即用不过有缺点就是要开vip才能体验所有的功能不开vip你录制视频就会有一个小小的水印，但没关系，后期裁掉就可以",
+          "developer": "未知",
+          "versionName": "2.4.6.7",
+          "versionCode": 100597,
+          "size": 38542522,
+          "apkSize": 38542522,
+          "downloads": 66,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-04-13T04:55:45.900Z",
+          "updatedAt": "2026-04-13T05:08:16.972Z",
+          "latestVersionAt": "2026-04-13T04:55:45.873Z",
+          "uploader": {
+            "_id": "69dba30c3fc1e71efb65c7f5",
+            "username": "panghuaiwen",
+            "nickname": "panghuaiwen"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69dc77510b6582d2a4927096?versionId=69dc77510b6582d2a4927098"
+        },
+        {
+          "_id": "69d88864cedefbbdbc079ef9",
+          "name": "mini软件卸载",
+          "packageName": "com.testunstallapp.ck",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.testunstallapp.ck/ca1ebff2bd65a427-3.png",
+          "logoKey": "apk-logos-v2/com.testunstallapp.ck/ca1ebff2bd65a427-3.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.testunstallapp.ck/ca1ebff2bd65a427-3.png",
+          "category": "Tools",
+          "tags": [
+            "卸载，watch"
+          ],
+          "description": "可以点击软件后选择应用专门卸载 对OPPOwatch/wearOS设备十分友好",
+          "developer": "未知",
+          "versionName": "1.2",
+          "versionCode": 3,
+          "size": 617834,
+          "apkSize": 617834,
+          "downloads": 186,
+          "rating": 4.8,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-04-10T05:19:32.820Z",
+          "updatedAt": "2026-07-12T02:17:04.610Z",
+          "latestVersionAt": "2026-07-12T02:17:04.610Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d88864cedefbbdbc079ef9?versionId=69d88864cedefbbdbc079efb"
+        },
+        {
+          "_id": "6a4111e1dc4eb29bad3505af",
+          "name": "暮光工具箱",
+          "packageName": "com.twilight.toolsapp",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoKey": "icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "category": "Tools",
+          "tags": [
+            "综合工具",
+            "多功能"
+          ],
+          "description": "暮光工具箱是一款由暮光工作室独立开发的安卓综合工具软件，集合多媒体资源、图片处理、生活查询、手机管理等多种实用功能于一体。软件坚持免费维护，无广告干扰，通过轻量化设计帮助用户在一个应用内完成壁纸获取、短视频解析、图片编辑、文本处理以及日常查询等操作。\n\n暮光工具箱软件内置丰富工具模块，支持高清壁纸、头像、表情包资源浏览，以及短视频平台内容解析下载；同时提供图片压缩裁剪、取色调色、文本处理、格式化工具、单位换算、设备信息查看、主题美化等功能。极简界面搭配多工具整合设计，让用户无需安装多个独立应用即可满足日常使用需求，适合喜欢实用工具和手机个性化管理的安卓用户下载体验。",
+          "developer": "暮光开发组",
+          "versionName": "4.0.4",
+          "versionCode": 80,
+          "size": 9334946,
+          "apkSize": 9334946,
+          "downloads": 240,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-06-28T12:21:53.596Z",
+          "updatedAt": "2026-09-11T19:42:31.213Z",
+          "latestVersionAt": "2026-09-11T19:42:31.213Z",
+          "uploader": {
+            "_id": "6a408429dc4eb29badbcd962",
+            "username": "Slinkur",
+            "nickname": "墨泽Kur"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a4111e1dc4eb29bad3505af?versionId=6aa459a763071608c3e4d7db"
+        },
+        {
+          "_id": "6a0a5e2e44d220db9aedec55",
+          "name": "HiWear For Watch（64位）",
+          "packageName": "com.hiwear.watchclient",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hiwear.watchclient/a7f075aeb58476e3-20260613.png",
+          "logoKey": "apk-logos-v2/com.hiwear.watchclient/a7f075aeb58476e3-20260613.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hiwear.watchclient/a7f075aeb58476e3-20260613.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "HiWear是一款面向智能手表用户的综合社区平台，在软件内有免费表盘壁纸、手表资源分享等功能，还有社区交流与应用管理等功能，软件适配多品牌手表，使用全程无广告且界面简洁操作便捷。",
+          "developer": "未知",
+          "versionName": "2.2.2",
+          "versionCode": 20260613,
+          "size": 6869611,
+          "apkSize": 6869611,
+          "downloads": 149,
+          "rating": 3,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-18T00:32:46.822Z",
+          "updatedAt": "2026-06-15T15:26:11.488Z",
+          "latestVersionAt": "2026-06-15T15:26:11.469Z",
+          "uploader": {
+            "_id": "6a2a3f8972a92ec23db9ace0",
+            "username": "623623",
+            "nickname": "嘻嘻"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0a5e2e44d220db9aedec55?versionId=6a3019935326b2e79b877ad6"
+        }
+      ]
+    },
+    "6aa45a1063071608c3e4d7f7": {
+      "_id": "6aa45a1063071608c3e4d7f7",
+      "name": "Gboard",
+      "packageName": "com.google.android.inputmethod.latin",
+      "variantKey": "default",
+      "variantName": "default",
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.google.android.inputmethod.latin/3ee5157e432e4534-175894542.png",
+      "logoKey": "apk-logos-v2/com.google.android.inputmethod.latin/3ee5157e432e4534-175894542.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.google.android.inputmethod.latin/3ee5157e432e4534-175894542.png",
+      "category": "srf",
+      "tags": [],
+      "description": "谷歌输入法。不需要魔法和GMs",
+      "developer": "Google",
+      "versionName": "17.8.4.939743344-release-arm64-v8a",
+      "versionCode": 175894542,
+      "size": 80167273,
+      "apkSize": 80167273,
+      "downloads": 39,
+      "rating": 1,
+      "ratingCount": 2,
+      "status": "active",
+      "createdAt": "2026-09-11T19:44:16.685Z",
+      "updatedAt": "2026-09-11T19:44:16.688Z",
+      "latestVersionAt": "2026-09-11T19:44:16.688Z",
+      "uploader": {
+        "_id": "6a7404754f71c43f9905907e",
+        "username": "Aa0464334",
+        "nickname": "£",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6aa45a1063071608c3e4d7f7?versionId=6aa45a1063071608c3e4d7f8",
+      "source": null,
+      "apkKey": "APK/c3f6f9f4-7352-41b3-a8e7-47225b2ea69e.apk",
+      "apkHash": "3ee5157e432e4534b8687d33f9f43b89c3b9a32b4b87fe282ca3f26e32f78638",
+      "sha256": "3ee5157e432e4534b8687d33f9f43b89c3b9a32b4b87fe282ca3f26e32f78638",
+      "architectures": [
+        "arm64-v8a"
+      ],
+      "minSdk": 26,
+      "targetSdk": 37,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45a1063071608c3e4d7f8",
+      "currentMetaId": "6aa45a1063071608c3e4d7f6",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6aa45a1063071608c3e4d7f7",
+          "name": "Gboard",
+          "packageName": "com.google.android.inputmethod.latin",
+          "variantKey": "default",
+          "variantName": "default",
+          "versionCode": 175894542,
+          "versionName": "17.8.4.939743344-release-arm64-v8a",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.google.android.inputmethod.latin/3ee5157e432e4534-175894542.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.google.android.inputmethod.latin/3ee5157e432e4534-175894542.png",
+          "downloads": 39,
+          "createdAt": "2026-09-11T19:44:16.685Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45a1063071608c3e4d7f8",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45a1063071608c3e4d7f8",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/c3f6f9f4-7352-41b3-a8e7-47225b2ea69e.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/c3f6f9f4-7352-41b3-a8e7-47225b2ea69e.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INJECT_KEY_EVENTS",
+        "android.permission.INTERACT_ACROSS_PROFILES",
+        "android.permission.INTERNET",
+        "android.permission.PERSONAL_CONTEXT_HOST_INSIGHT_SURFACE",
+        "android.permission.PERSONAL_CONTEXT_PUBLISH_HINTS",
+        "android.permission.PERSONAL_CONTEXT_RECEIVE_INSIGHTS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_USER_DICTIONARY",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_USER_DICTIONARY",
+        "com.google.android.apps.aicore.service.BIND_SERVICE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.google.android.setupwizard.READ_DEVICE_ORIGIN_FIRST_PARTY"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CAMERA",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.GET_ACCOUNTS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.GET_PACKAGE_SIZE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INJECT_KEY_EVENTS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERACT_ACROSS_PROFILES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.PERSONAL_CONTEXT_HOST_INSIGHT_SURFACE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.PERSONAL_CONTEXT_PUBLISH_HINTS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.PERSONAL_CONTEXT_RECEIVE_INSIGHTS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_CONTACTS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 32,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_IMAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_USER_DICTIONARY",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_BOOT_COMPLETED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECORD_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_USER_DICTIONARY",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.google.android.apps.aicore.service.BIND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.google.android.providers.gsf.permission.READ_GSERVICES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.google.android.setupwizard.READ_DEVICE_ORIGIN_FIRST_PARTY",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6ab7c4a29604347aa09b2b3e",
+          "name": "搜狗输入法手表版",
+          "packageName": "com.sogou.ime.wear",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.sogou.ime.wear/a4912d85a6f4e99c-37.png",
+          "logoKey": "apk-logos-v2/com.sogou.ime.wear/a4912d85a6f4e99c-37.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.sogou.ime.wear/a4912d85a6f4e99c-37.png",
+          "category": "srf",
+          "tags": [
+            "搜狗输入法"
+          ],
+          "description": "搜狗输入法手表版是专为安卓智能手表打造的输入工具，针对小屏幕和单手操作进行了深度适配。\n\n核心输入方式\n\n· 拼音键盘：采用九键布局，支持全拼、简拼，能根据习惯智能联想候选词。\n· 全屏手写：支持倾斜、连笔书写，中文和数字自动识别，手腕上书写更自然。\n· 语音转换：支持普通话、英语及粤语识别，打字语音快速切换，适合运动或忙碌时“解放双手”。\n· 三合一键盘：针对账号密码场景，数字、符号、字母集成在同键盘，免去反复切换的麻烦。\n\n主要特点\n\n· 手表专属设计：按键和界面针对圆形或方形表盘优化，按键面积通常有所提升，单手操作更精准。\n· 轻量高效：应用体积小巧（约 20MB 左右），并内置 AI 预测算法提升输入效率。",
+          "developer": "北京搜狗网络技术有限公司",
+          "versionName": "3.2.0.2404181130",
+          "versionCode": 37,
+          "size": 21655944,
+          "apkSize": 21655944,
+          "downloads": 230,
+          "rating": 4,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-09-26T13:12:02.803Z",
+          "updatedAt": "2026-09-26T13:12:02.808Z",
+          "latestVersionAt": "2026-09-26T13:12:02.808Z",
+          "uploader": {
+            "_id": "6a8560d2bbda73b272e3b0dd",
+            "username": "unknown",
+            "nickname": "unknown"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab7c4a29604347aa09b2b3e?versionId=6ab7c4a29604347aa09b2b3f"
+        },
+        {
+          "_id": "6a073c8444d220db9ada7a04",
+          "name": "三星键盘 Samsung Keyboard",
+          "packageName": "com.samsung.android.honeyboard",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.samsung.android.honeyboard/82704177187180f4-131029000.png",
+          "logoKey": "apk-logos-v2/com.samsung.android.honeyboard/82704177187180f4-131029000.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.samsung.android.honeyboard/82704177187180f4-131029000.png",
+          "category": "srf",
+          "tags": [
+            "三星",
+            "工具",
+            "系统应用",
+            "输入法"
+          ],
+          "description": "三星最新系统的输入法 适配圆屏手表",
+          "developer": "三星",
+          "versionName": "1.3.10.29",
+          "versionCode": 131029000,
+          "size": 34806636,
+          "apkSize": 34806636,
+          "downloads": 93,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-15T15:32:20.292Z",
+          "updatedAt": "2026-05-15T23:46:07.119Z",
+          "latestVersionAt": "2026-05-15T15:32:20.252Z",
+          "uploader": {
+            "_id": "6a05b99944d220db9ace4661",
+            "username": "tufang",
+            "nickname": "途放"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a073c8444d220db9ada7a04?versionId=6a073c8444d220db9ada7a06"
+        },
+        {
+          "_id": "6a6633b4a50094624f1480d2",
+          "name": "国笔输入法 耗子不会溜精简版",
+          "packageName": "com.guobi.inputmethod",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.guobi.inputmethod/a1b113ec3ede50ea-20150625.png",
+          "logoKey": "apk-logos-v2/com.guobi.inputmethod/a1b113ec3ede50ea-20150625.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.guobi.inputmethod/a1b113ec3ede50ea-20150625.png",
+          "category": "srf",
+          "tags": [
+            "流畅",
+            "老旧",
+            "轻量"
+          ],
+          "description": "国笔输入法2015年的版本，安装后储存占用14~20MB（如果加装其它组件可能更大），非常流畅\n缺点是不能输入长句，语音输入（截至2026年7月24日）还能用，表情符号少一些，没有剪切板，有候选时按删除会先清空候选而不是删除上一个字\n但是，对于老机来说，占用这么小，不算难用的输入法，应该是个很好的选择了吧？\n我(耗子不会溜)使用一些工具对其进行修改与精简，安装包体积较原版减少500kb(我真的尽力了)",
+          "developer": "高精鍊(广东国笔科技股份有限公司)&耗子不会溜精简",
+          "versionName": "3.2.1.20150625",
+          "versionCode": 20150625,
+          "size": 7580851,
+          "apkSize": 7580851,
+          "downloads": 24,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-07-26T16:20:04.042Z",
+          "updatedAt": "2026-07-26T16:20:04.053Z",
+          "latestVersionAt": "2026-07-26T16:20:04.039Z",
+          "uploader": {
+            "_id": "6a3bf49b73c5b6569ccf2b5a",
+            "username": "IIIXII",
+            "nickname": "耗子不会溜"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a6633b4a50094624f1480d2?versionId=6a6633b4a50094624f1480d4"
+        },
+        {
+          "_id": "69da747e3fc1e71efb61a622",
+          "name": "讯飞输入法手表版",
+          "packageName": "com.iflytek.inputmethod.wear.xiaomi",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.iflytek.inputmethod.wear.xiaomi/5b315e56cce54459-9133.png",
+          "logoKey": "apk-logos-v2/com.iflytek.inputmethod.wear.xiaomi/5b315e56cce54459-9133.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.iflytek.inputmethod.wear.xiaomi/5b315e56cce54459-9133.png",
+          "category": "srf",
+          "tags": [],
+          "description": "讯飞的手表输入法\n让你在手表上获得更好的输入体验",
+          "developer": "",
+          "versionName": "9.0.9133",
+          "versionCode": 9133,
+          "size": 12580769,
+          "apkSize": 12580769,
+          "downloads": 449,
+          "rating": 4.666666666666667,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-04-11T16:19:10.169Z",
+          "updatedAt": "2026-04-11T16:19:10.171Z",
+          "latestVersionAt": "2026-04-11T16:19:10.166Z",
+          "uploader": {
+            "_id": "69d91ecacedefbbdbc085ce9",
+            "username": "hrk",
+            "nickname": "hrk"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da747e3fc1e71efb61a622?versionId=69da747e3fc1e71efb61a624"
+        },
+        {
+          "_id": "6a70aa5b1cc64e8cae2e8e1b",
+          "name": "手心输入法-耗子不会溜精简v3",
+          "packageName": "com.xinshuru.inputmethod",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xinshuru.inputmethod/c64b5699a521eb3a-1009.png",
+          "logoKey": "apk-logos-v2/com.xinshuru.inputmethod/c64b5699a521eb3a-1009.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xinshuru.inputmethod/c64b5699a521eb3a-1009.png",
+          "category": "srf",
+          "tags": [
+            "输入法",
+            "精简"
+          ],
+          "description": "之前做的v1功能反人类，v2我给他极限精简了，但是发现不小心把短信验证服务给阉割了(bushi)\n所以我重新做了v3版本，比v2稍大但是也足够精简\n欢迎大家使用awa",
+          "developer": "天津乐儿优科技有限公司",
+          "versionName": "3.5.2",
+          "versionCode": 1009,
+          "size": 25661774,
+          "apkSize": 25661774,
+          "downloads": 463,
+          "rating": 3.3333333333333335,
+          "ratingCount": 6,
+          "status": "active",
+          "createdAt": "2026-08-03T14:48:59.706Z",
+          "updatedAt": "2026-10-06T03:26:46.692Z",
+          "latestVersionAt": "2026-10-06T03:26:46.692Z",
+          "uploader": {
+            "_id": "6a3bf49b73c5b6569ccf2b5a",
+            "username": "IIIXII",
+            "nickname": "耗子不会溜"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a70aa5b1cc64e8cae2e8e1b?versionId=6aa4569763071608c3e4d76c"
+        },
+        {
+          "_id": "6a07b15b44d220db9adc2fdf",
+          "name": "微软键盘（Microsoft SwiftKey Keyboard）",
+          "packageName": "com.touchtype.swiftkey",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.touchtype.swiftkey/de300ec70ab4f4f5-1232863536.png",
+          "logoKey": "apk-logos-v2/com.touchtype.swiftkey/de300ec70ab4f4f5-1232863536.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.touchtype.swiftkey/de300ec70ab4f4f5-1232863536.png",
+          "category": "srf",
+          "tags": [],
+          "description": "微软拼音输入法是微软推出的智能���语言输入工具，支持中英文等全球400余种语言无缝切换。其核心ai技术能自动识别输入内容，无需手动调整语言模式，大幅提升跨语言沟通效率。该输入法依托微软强大的知识库与专业词库，不仅满足日常聊天需求，更可精准处理学术文献、专业术语等复杂场景。用户登录微软账号即可同步个性化设置，搭配滑动输入、智能纠错等创新功能，实现每分钟60字以上的流畅输入体验，堪称移动端打字效率的\"天花板\"。",
+          "developer": "Microsoft",
+          "versionName": "9.10.60.19",
+          "versionCode": 1232863536,
+          "size": 76519445,
+          "apkSize": 76519445,
+          "downloads": 129,
+          "rating": 4,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-15T23:50:51.020Z",
+          "updatedAt": "2026-07-03T03:15:23.398Z",
+          "latestVersionAt": "2026-05-15T23:50:51.016Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a07b15b44d220db9adc2fdf?versionId=6a07b15b44d220db9adc2fe1"
+        }
+      ]
+    },
+    "6aa45a0a63071608c3e4d7f4": {
+      "_id": "6aa45a0a63071608c3e4d7f4",
+      "name": "XWB的签名工具",
+      "packageName": "me.XWB.signer.tool",
+      "variantKey": "default",
+      "variantName": "default",
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.XWB.signer.tool/c0b5a0781f317deb-9.png",
+      "logoKey": "apk-logos-v2/me.XWB.signer.tool/c0b5a0781f317deb-9.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.XWB.signer.tool/c0b5a0781f317deb-9.png",
+      "category": "Tools",
+      "tags": [
+        "开发者小工具",
+        "移动端"
+      ],
+      "description": "一款轻量简便的安卓APK签名工具，跨架构通用，无需复杂配置。功能齐全，支持签名、签名证书生成、签名校验，本地即可完成APK处理",
+      "developer": "xwbhhh",
+      "versionName": "rc-1.9",
+      "versionCode": 9,
+      "size": 6832792,
+      "apkSize": 6832792,
+      "downloads": 45,
+      "rating": 4.666666666666667,
+      "ratingCount": 3,
+      "status": "active",
+      "createdAt": "2026-09-11T19:44:10.518Z",
+      "updatedAt": "2026-09-11T19:44:10.521Z",
+      "latestVersionAt": "2026-09-11T19:44:10.521Z",
+      "uploader": {
+        "_id": "69ff019c764a5273e6b72ff5",
+        "username": "XWB",
+        "nickname": "xwbhhh",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6aa45a0a63071608c3e4d7f4?versionId=6aa45a0a63071608c3e4d7f5",
+      "source": "xwbhhh自主分发",
+      "apkKey": "APK/1af1bde6-cad5-49f7-9d85-97ec56463cb4.apk",
+      "apkHash": "c0b5a0781f317debc3d2f6e0cfab6d6c9b0c50468a1562b889b5b1162c5788e6",
+      "sha256": "c0b5a0781f317debc3d2f6e0cfab6d6c9b0c50468a1562b889b5b1162c5788e6",
+      "architectures": [],
+      "minSdk": 21,
+      "targetSdk": 34,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45a0a63071608c3e4d7f5",
+      "currentMetaId": "6aa45a0a63071608c3e4d7f3",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6aa45a0a63071608c3e4d7f4",
+          "name": "XWB的签名工具",
+          "packageName": "me.XWB.signer.tool",
+          "variantKey": "default",
+          "variantName": "default",
+          "versionCode": 9,
+          "versionName": "rc-1.9",
+          "status": "active",
+          "iconKey": "apk-logos-v2/me.XWB.signer.tool/c0b5a0781f317deb-9.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.XWB.signer.tool/c0b5a0781f317deb-9.png",
+          "downloads": 45,
+          "createdAt": "2026-09-11T19:44:10.518Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45a0a63071608c3e4d7f5",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45a0a63071608c3e4d7f5",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/1af1bde6-cad5-49f7-9d85-97ec56463cb4.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/1af1bde6-cad5-49f7-9d85-97ec56463cb4.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "me.XWB.signer.tool.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 28,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 28,
+          "required": true
+        },
+        {
+          "name": "me.XWB.signer.tool.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a4111e1dc4eb29bad3505af",
+          "name": "暮光工具箱",
+          "packageName": "com.twilight.toolsapp",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoKey": "icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/icons/com.twilight.toolsapp/a1c4f73ab2729c3788394a3d18cf41b0.png",
+          "category": "Tools",
+          "tags": [
+            "综合工具",
+            "多功能"
+          ],
+          "description": "暮光工具箱是一款由暮光工作室独立开发的安卓综合工具软件，集合多媒体资源、图片处理、生活查询、手机管理等多种实用功能于一体。软件坚持免费维护，无广告干扰，通过轻量化设计帮助用户在一个应用内完成壁纸获取、短视频解析、图片编辑、文本处理以及日常查询等操作。\n\n暮光工具箱软件内置丰富工具模块，支持高清壁纸、头像、表情包资源浏览，以及短视频平台内容解析下载；同时提供图片压缩裁剪、取色调色、文本处理、格式化工具、单位换算、设备信息查看、主题美化等功能。极简界面搭配多工具整合设计，让用户无需安装多个独立应用即可满足日常使用需求，适合喜欢实用工具和手机个性化管理的安卓用户下载体验。",
+          "developer": "暮光开发组",
+          "versionName": "4.0.4",
+          "versionCode": 80,
+          "size": 9334946,
+          "apkSize": 9334946,
+          "downloads": 240,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-06-28T12:21:53.596Z",
+          "updatedAt": "2026-09-11T19:42:31.213Z",
+          "latestVersionAt": "2026-09-11T19:42:31.213Z",
+          "uploader": {
+            "_id": "6a408429dc4eb29badbcd962",
+            "username": "Slinkur",
+            "nickname": "墨泽Kur"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a4111e1dc4eb29bad3505af?versionId=6aa459a763071608c3e4d7db"
+        },
+        {
+          "_id": "6a518f4da50094624f40cb41",
+          "name": "快牙精简版",
+          "packageName": "com.omniashare.minishare",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.omniashare.minishare/a669ed8f5f1bc981-18.png",
+          "logoKey": "apk-logos-v2/com.omniashare.minishare/a669ed8f5f1bc981-18.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.omniashare.minishare/a669ed8f5f1bc981-18.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "快牙精简版是一款非常好用的文件传输软件。这款软件是官方推出的精简版本，保留了文件快速传输的功能，同时用缩小了软件的体积",
+          "developer": "邻动网络科技(北京)有限公司",
+          "versionName": "1.6.6",
+          "versionCode": 18,
+          "size": 5293202,
+          "apkSize": 5293202,
+          "downloads": 125,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-07-11T00:33:17.565Z",
+          "updatedAt": "2026-09-11T20:20:36.806Z",
+          "latestVersionAt": "2026-09-11T20:20:36.806Z",
+          "uploader": {
+            "_id": "6a2ec85d5326b2e79bd77ebb",
+            "username": "ww2",
+            "nickname": "w2"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a518f4da50094624f40cb41?versionId=6a518f4da50094624f40cb43"
+        },
+        {
+          "_id": "6ab2939566f82c44fb668530",
+          "name": "蓝河工具箱",
+          "packageName": "com.bluestudiocjd.app",
+          "variantKey": "variant-1790051782937",
+          "variantName": "ARM64版本",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoKey": "apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "category": "Tools",
+          "tags": [
+            "Vivo",
+            "Iqoo",
+            "工具箱",
+            "蓝河"
+          ],
+          "description": "蓝盒工具箱（又名蓝河工具箱）是专为vivo、iQOO机型打造的第三方免ROOT系统优化工具，依托Shizuku授权解锁系统隐藏权限，整合性能调校、系统美化、后台管控、设备检测四大核心模块，主要功能包括全局插帧强制开启高帧率、直驱供电绕过系统充电限制、处理器核心调度手动调整及内存增强等性能��化，应用冻结、自启管理、后台限制、深度清理、通知隐藏及快捷跳转原生设置等系统管理，自定义分辨率、状态栏图标隐藏、色彩风格调节、动画速度调整及设备改名等显示与个性化设置，以及硬件参数查看、APK提取等实用工具，针对OriginOS底层进行深度适配，解决了通用工具无法解锁蓝厂专属隐藏调度与供电限制的问题，能够在不修改系统分区、不影响保修的前提下，实现游戏帧率稳定、发热控制、后台精简及系统流畅度提升，且安装包体积小、无广告、免费使用。",
+          "developer": "陈进东",
+          "versionName": "6.15",
+          "versionCode": 76,
+          "size": 5111110,
+          "apkSize": 5111110,
+          "downloads": 59,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-22T14:41:25.099Z",
+          "updatedAt": "2026-09-22T14:41:25.103Z",
+          "latestVersionAt": "2026-09-22T14:41:25.103Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab2939566f82c44fb668530?versionId=6ab2939566f82c44fb668531"
+        },
+        {
+          "_id": "6aadddb05a5f65b24006148d",
+          "name": "星海助手",
+          "packageName": "com.stars.app",
+          "variantKey": "variant-1789772852249",
+          "variantName": "ARM64-V8A",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoKey": "apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "category": "Tools",
+          "tags": [
+            "网盘解析",
+            "实用标签",
+            "免费软件",
+            "无广告",
+            "多功能软件"
+          ],
+          "description": "一个纯免费的网盘解析工具，没有任何广告，并且呢它支持市面上所有网盘的解析，并且知识高速核心速度100兆每秒需要登录使用",
+          "developer": "崩溃的废物(QQ)",
+          "versionName": "2.9.14",
+          "versionCode": 64,
+          "size": 5167881,
+          "apkSize": 5167881,
+          "downloads": 50,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-19T00:56:16.214Z",
+          "updatedAt": "2026-09-19T00:56:16.218Z",
+          "latestVersionAt": "2026-09-19T00:56:16.218Z",
+          "uploader": {
+            "_id": "6a6838f1a50094624ff13620",
+            "username": "annian",
+            "nickname": "安念"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aadddb05a5f65b24006148d?versionId=6aadddb05a5f65b24006148e"
+        },
+        {
+          "_id": "6ac25780cafe6590f415622d",
+          "name": "OptiX（相机应用）",
+          "packageName": "com.ailife.rotatingcamera",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoKey": "apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "category": "Tools",
+          "tags": [
+            "摄像软件"
+          ],
+          "description": "一个非常好用的相机应用，内置多种算法并且支持导入算法。功能较为全面，可以有效提升手表和旧手机拍摄照片的效果，虽然实际情况还受硬件影响，但当然是可以改善的。",
+          "developer": "Al LIFE和Sara",
+          "versionName": "6.7.54",
+          "versionCode": 110,
+          "size": 23548282,
+          "apkSize": 23548282,
+          "downloads": 48,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-04T13:41:20.808Z",
+          "updatedAt": "2026-10-04T13:41:20.812Z",
+          "latestVersionAt": "2026-10-04T13:41:20.812Z",
+          "uploader": {
+            "_id": "6abf3c2477ba95606a796c1b",
+            "username": "jtsk",
+            "nickname": "狡兔科技"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac25780cafe6590f415622d?versionId=6ac25780cafe6590f415622e"
+        },
+        {
+          "_id": "6aa3c2e172ec224d9fe7f569",
+          "name": "小柚投屏",
+          "packageName": "tv.huan.mobile.xiaoyou.cast",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tv.huan.mobile.xiaoyou.cast/2ae98bdff8371134-200.png",
+          "logoKey": "apk-logos-v2/tv.huan.mobile.xiaoyou.cast/2ae98bdff8371134-200.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tv.huan.mobile.xiaoyou.cast/2ae98bdff8371134-200.png",
+          "category": "Tools",
+          "tags": [],
+          "description": "跨网投屏专���\n免费的全能投屏工具\n高清图片轮播\n安卓/苹果/华为/电脑/平板\n\n一键投屏至电视\n\n\n影视全覆盖\n爱奇艺/腾讯/优酷/芒果/B站\n\n抖音/快手等1000+APP",
+          "developer": "小柚投屏",
+          "versionName": "2.0.0",
+          "versionCode": 200,
+          "size": 22784206,
+          "apkSize": 22784206,
+          "downloads": 43,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T08:59:13.088Z",
+          "updatedAt": "2026-09-11T08:59:13.092Z",
+          "latestVersionAt": "2026-09-11T08:59:13.092Z",
+          "uploader": {
+            "_id": "6a899eb001a51df7339ca928",
+            "username": "兮",
+            "nickname": "兮"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa3c2e172ec224d9fe7f569?versionId=6aa3c2e172ec224d9fe7f56a"
+        }
+      ]
+    },
+    "6aa45a0363071608c3e4d7ed": {
+      "_id": "6aa45a0363071608c3e4d7ed",
+      "name": "GBA模拟器",
+      "packageName": "com.fastemulator.gba",
+      "variantKey": "default",
+      "variantName": "default",
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fastemulator.gba/76db0916dadd997a-43.png",
+      "logoKey": "apk-logos-v2/com.fastemulator.gba/76db0916dadd997a-43.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fastemulator.gba/76db0916dadd997a-43.png",
+      "category": "Games",
+      "tags": [
+        "模拟器"
+      ],
+      "description": "My boy是一个GAME BOY游戏模拟器，负责运行GAME BOY的文件，在使用时，确保你有合法的ROM",
+      "developer": "My BOY",
+      "versionName": "1.7.0.2",
+      "versionCode": 43,
+      "size": 1093309,
+      "apkSize": 1093309,
+      "downloads": 136,
+      "rating": 2.2,
+      "ratingCount": 5,
+      "status": "active",
+      "createdAt": "2026-09-11T19:44:03.984Z",
+      "updatedAt": "2026-09-11T19:44:03.988Z",
+      "latestVersionAt": "2026-09-11T19:44:03.988Z",
+      "uploader": {
+        "_id": "6a487a87dc4eb29badcf8dd3",
+        "username": "sans1999",
+        "nickname": "SansGame",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6aa45a0363071608c3e4d7ed?versionId=6aa45a0363071608c3e4d7ee",
+      "source": "游览器",
+      "apkKey": "APK/3771a3b5-d07e-43b1-a724-7dfe5c5f1b1f.apk",
+      "apkHash": "76db0916dadd997a2da124c2851dd8729eb6626be5c12043aece2e762a60c0b9",
+      "sha256": "76db0916dadd997a2da124c2851dd8729eb6626be5c12043aece2e762a60c0b9",
+      "architectures": [
+        "armeabi",
+        "x86"
+      ],
+      "minSdk": 4,
+      "targetSdk": 22,
+      "screenshotKeys": [],
+      "currentVersionId": "6aa45a0363071608c3e4d7ee",
+      "currentMetaId": "6aa45a0363071608c3e4d7ec",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6aa45a0363071608c3e4d7ed",
+          "name": "GBA模拟器",
+          "packageName": "com.fastemulator.gba",
+          "variantKey": "default",
+          "variantName": "default",
+          "versionCode": 43,
+          "versionName": "1.7.0.2",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.fastemulator.gba/76db0916dadd997a-43.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fastemulator.gba/76db0916dadd997a-43.png",
+          "downloads": 136,
+          "createdAt": "2026-09-11T19:44:03.984Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6aa45a0363071608c3e4d7ee",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6aa45a0363071608c3e4d7ee",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/3771a3b5-d07e-43b1-a724-7dfe5c5f1b1f.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/3771a3b5-d07e-43b1-a724-7dfe5c5f1b1f.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.INTERNET",
+        "android.permission.NFC",
+        "android.permission.VIBRATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_ADMIN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.NFC",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6aae52fa66f82c44fb657ba2",
+          "name": "MCPE0.10汉化版",
+          "packageName": "me.mcpe.old.zh_cn.byxwbhhh",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "logoKey": "apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "category": "Games",
+          "tags": [
+            "老游戏移植"
+          ],
+          "description": "MCPE0.10汉化版，作者尽量汉化了部分界面，以及汉化了全部游戏内物品名称，让大家在怀旧的同时不用死磕全英文界面和英文物品，同时进行了逆向重打包，兼容Android 5~Android 14，且支持32位应用的设备游玩",
+          "developer": "Mojang AB",
+          "versionName": "0.10.5",
+          "versionCode": 740100501,
+          "size": 17918890,
+          "apkSize": 17918890,
+          "downloads": 284,
+          "rating": 5,
+          "ratingCount": 6,
+          "status": "active",
+          "createdAt": "2026-09-19T09:16:42.564Z",
+          "updatedAt": "2026-09-19T09:16:42.567Z",
+          "latestVersionAt": "2026-09-19T09:16:42.567Z",
+          "uploader": {
+            "_id": "69ff019c764a5273e6b72ff5",
+            "username": "XWB",
+            "nickname": "xwbhhh"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aae52fa66f82c44fb657ba2?versionId=6aae52fa66f82c44fb657ba3"
+        },
+        {
+          "_id": "6ac473becafe6590f415c6cc",
+          "name": "神庙逃亡",
+          "packageName": "com.imangi.templerun",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": "icons/com.imangi.templerun/8cc6cdd5a5e744ae2fbd03bdbf77784d.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.imangi.templerun/8cc6cdd5a5e744ae2fbd03bdbf77784d.png",
+          "logoKey": "apk-logos-v2/com.imangi.templerun/f13015a437448fbb-51.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.imangi.templerun/f13015a437448fbb-51.png",
+          "category": "Games",
+          "tags": [],
+          "description": "此应用将神庙逃亡1.17版本的玩家材质包和怪物材质包替换成了王小桃和早濑优香",
+          "developer": "B站创作者：大漠神枪",
+          "versionName": "1.17.0",
+          "versionCode": 51,
+          "size": 62334404,
+          "apkSize": 62334404,
+          "downloads": 193,
+          "rating": 5,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-10-06T04:06:22.523Z",
+          "updatedAt": "2026-10-06T04:06:22.527Z",
+          "latestVersionAt": "2026-10-06T04:06:22.527Z",
+          "uploader": {
+            "_id": "6abdf1e1434cd3b951f9041d",
+            "username": "CMY6788乄BA",
+            "nickname": "CMY6788乄BA"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac473becafe6590f415c6cc?versionId=6ac473becafe6590f415c6cd"
+        },
+        {
+          "_id": "6aa461fd63071608c3e4d92d",
+          "name": "围棋经典版",
+          "packageName": "com.cnvcs.go",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.cnvcs.go/9a212dd0d7ff8a3f-142.png",
+          "logoKey": "apk-logos-v2/com.cnvcs.go/9a212dd0d7ff8a3f-142.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.cnvcs.go/9a212dd0d7ff8a3f-142.png",
+          "category": "Games",
+          "tags": [
+            "休闲益智",
+            "棋类",
+            "娱乐"
+          ],
+          "description": "一款实用的围棋教学、练习软件。\n可载入 SGF 格式的棋谱文件，支持棋谱研究和习题练习。\n学习资源包括围棋的定式、死活、手筋、布局、官子，以及著名棋手的实战对局等。\n内置棋谱下载功能，可以联网下载棋谱或导入棋谱供教学、练习之用。\n练习模式包含1000多道围棋死活题。\n支持摆设棋局，载入、保存对局文件。\n支持人机对弈和联网对弈，以及电脑提示和复盘功能，通过对弈练习提高自己的棋力水平，增强实战能力。\n可以选择点击落子的方式，放大棋盘或直接落子。\n提供多种风格的棋子和棋盘。\n更多功能：形势分析、让子设置、无限悔棋，等等。",
+          "developer": "cnvcs.com",
+          "versionName": "1.42",
+          "versionCode": 142,
+          "size": 24324536,
+          "apkSize": 24324536,
+          "downloads": 168,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T20:18:05.200Z",
+          "updatedAt": "2026-09-11T20:18:05.203Z",
+          "latestVersionAt": "2026-09-11T20:18:05.203Z",
+          "uploader": {
+            "_id": "6a388ff5d34e29be5cf16c81",
+            "username": "2146664265",
+            "nickname": "余与于"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa461fd63071608c3e4d92d?versionId=6aa461fd63071608c3e4d92e"
+        },
+        {
+          "_id": "6ab7c4229604347aa09b2aed",
+          "name": "幸运硬币",
+          "packageName": "com.gamblestable.xyx",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gamblestable.xyx/8eab91ea6d9a1404-2.png",
+          "logoKey": "apk-logos-v2/com.gamblestable.xyx/8eab91ea6d9a1404-2.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gamblestable.xyx/8eab91ea6d9a1404-2.png",
+          "category": "Games",
+          "tags": [],
+          "description": "这是一款通过抛硬币来获取金币的小游戏。",
+          "developer": "",
+          "versionName": "0.3.0",
+          "versionCode": 2,
+          "size": 49820894,
+          "apkSize": 49820894,
+          "downloads": 117,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-26T13:09:54.375Z",
+          "updatedAt": "2026-09-26T13:09:54.378Z",
+          "latestVersionAt": "2026-09-26T13:09:54.378Z",
+          "uploader": {
+            "_id": "6aa5fae32d630acd3f93627a",
+            "username": "齐正健",
+            "nickname": "333syj"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab7c4229604347aa09b2aed?versionId=6ab7c4229604347aa09b2aee"
+        },
+        {
+          "_id": "6ac46a65cafe6590f415c50e",
+          "name": "PVZAS（植物大战僵尸全明星版。）",
+          "packageName": "com.pvzcard.pvzlegend.egame",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
+          "logoKey": "apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
+          "category": "Games",
+          "tags": [
+            "Pvz"
+          ],
+          "description": "植物大战僵尸全明星版本的修复版本已破解内购。",
+          "developer": "宝开",
+          "versionName": "2.0.81",
+          "versionCode": 40,
+          "size": 163827304,
+          "apkSize": 163827304,
+          "downloads": 99,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-06T03:26:29.115Z",
+          "updatedAt": "2026-10-06T03:26:29.121Z",
+          "latestVersionAt": "2026-10-06T03:26:29.121Z",
+          "uploader": {
+            "_id": "6aa5fae32d630acd3f93627a",
+            "username": "齐正健",
+            "nickname": "333syj"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac46a65cafe6590f415c50e?versionId=6ac46a65cafe6590f415c50f"
+        },
+        {
+          "_id": "6aa4571b63071608c3e4d77a",
+          "name": "掌上军伟",
+          "packageName": "com.fantasy.game",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fantasy.game/ed0a5238fcbd9957-1.png",
+          "logoKey": "apk-logos-v2/com.fantasy.game/ed0a5238fcbd9957-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.fantasy.game/ed0a5238fcbd9957-1.png",
+          "category": "Games",
+          "tags": [
+            "养成",
+            "温馨",
+            "剧情向"
+          ],
+          "description": "养成类型温馨游戏\n剧情：你的数学老师王军伟因为数学水平不高，在学校备受打击，帮助他提升教学水平成为学校主任！\n游戏包含多种剧情和近30个结局，玩法轻松，包含许多小游戏",
+          "developer": "睡不醒的幻想",
+          "versionName": "2.2-fix",
+          "versionCode": 1,
+          "size": 274116553,
+          "apkSize": 274116553,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-09-11T19:31:39.414Z",
+          "updatedAt": "2026-09-11T19:31:39.418Z",
+          "latestVersionAt": "2026-09-11T19:31:39.418Z",
+          "uploader": {
+            "_id": "6a2d95d95326b2e79b3d2de0",
+            "username": "Fantasy",
+            "nickname": "幻想"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa4571b63071608c3e4d77a?versionId=6aa4571b63071608c3e4d77b"
         }
       ]
     }
