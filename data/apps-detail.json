@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-14T21:03:38.285Z",
+  "updatedAt": "2026-10-15T20:38:33.602Z",
   "totalApps": 990,
-  "detailCount": 650,
-  "cycleDay": 16,
+  "detailCount": 660,
+  "cycleDay": 17,
   "apps": {
     "69da022e3fc1e71efb60f91b": {
       "_id": "69da022e3fc1e71efb60f91b",
@@ -12416,95 +12416,425 @@
     },
     "6a2ceb8772a92ec23d0a3779": {
       "_id": "6a2ceb8772a92ec23d0a3779",
-      "owner": "6a23b2faa0f0d75527e07e10",
+      "name": "酷狗概念版（手表版）",
       "packageName": "com.kugou.android.watch.lite",
       "variantKey": "default",
-      "versionCode": 10705,
-      "versionName": "2.4.7",
-      "minSdk": 19,
-      "targetSdk": 30,
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kugou.android.watch.lite/2377be041635a0fc-10271.png",
+      "logoKey": "apk-logos-v2/com.kugou.android.watch.lite/2377be041635a0fc-10271.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kugou.android.watch.lite/2377be041635a0fc-10271.png",
+      "category": "music",
+      "tags": [],
+      "description": "手表版酷狗概念版,可以同步手机上的酷狗音乐。（不过里面的歌一部分需要 Vip，比较鸡肋，纯纯丰富一下应用多样性）",
+      "developer": "酷狗",
+      "versionName": "2.3.2",
+      "versionCode": 10271,
+      "size": 20498542,
+      "apkSize": 20498542,
+      "downloads": 600,
+      "rating": 2.1052631578947367,
+      "ratingCount": 19,
+      "status": "active",
+      "createdAt": "2026-06-13T05:32:55.240Z",
+      "updatedAt": "2026-08-12T08:52:54.181Z",
+      "latestVersionAt": "2026-08-12T08:52:54.181Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a2ceb8772a92ec23d0a3779?versionId=6a7c3466a37f61565b0c79d4",
+      "source": "词典笔中的应用商店",
+      "apkKey": "APK/1db4d224-1826-48db-9cd2-914400881858.apk",
+      "apkHash": "2377be041635a0fcb16087959e69ce8fe63d0ef31f9191eb494cd600aad87784",
+      "sha256": "2377be041635a0fcb16087959e69ce8fe63d0ef31f9191eb494cd600aad87784",
       "architectures": [
         "armeabi",
         "x86"
       ],
-      "name": "酷狗概念版",
-      "category": "music",
-      "tags": [],
-      "description": "一款提取于词典笔中的酷狗概念版,可以同步手机上的酷狗音乐。（不过里面的歌一部分需要 Vip，比较鸡肋，纯纯丰富一下应用多样性）",
-      "developer": "酷狗",
-      "source": "词典笔中的应用商店",
-      "supportedDevices": [
-        "phone"
-      ],
-      "isWearOS": false,
-      "isApks": false,
-      "supportedLanguages": [],
-      "supportedDensities": [],
-      "iconKey": "apk-logos-v2/com.kugou.android.watch.lite/a59f2585ba3a7b90-10705.png",
-      "iconSource": "parsed",
-      "apkKey": "APK/8c83b096-466d-4033-89f2-16e91e337ee8.apk",
+      "minSdk": 19,
+      "targetSdk": 30,
       "screenshotKeys": [],
-      "downloadLines": [],
-      "downloadUrl": "/download/6a2ceb8772a92ec23d0a3779",
-      "size": 14640226,
-      "apkSize": 14640226,
-      "uploader": {
-        "_id": "6a23b2faa0f0d75527e07e10",
-        "username": "sin",
-        "nickname": "2233~\\(≧▽≦)/~",
-        "avatarUrl": ""
-      },
-      "downloads": 103,
-      "viewCount": 291,
-      "ratingAvg": 1,
-      "ratingCount": 3,
-      "status": "approved",
-      "auditLog": [
-        {
-          "action": "approved",
-          "reason": "Approved",
-          "reviewer": {
-            "_id": "69d6642425674e3066734d64",
-            "username": "helloworld",
-            "nickname": "helloworld",
-            "avatarKey": "avatars/10f3393c-79ba-447e-8fe5-74dc73b0a097.jpg"
-          },
-          "timestamp": "2026-06-13T05:32:55.235Z",
-          "_id": "6a2ceb8772a92ec23d0a3781"
-        }
-      ],
-      "lastVersionUpdateAt": "2026-06-13T05:32:55.237Z",
-      "createdAt": "2026-06-13T05:32:55.240Z",
-      "updatedAt": "2026-07-09T11:28:03.177Z",
-      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kugou.android.watch.lite/a59f2585ba3a7b90-10705.png",
-      "logoKey": "apk-logos-v2/com.kugou.android.watch.lite/a59f2585ba3a7b90-10705.png",
-      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kugou.android.watch.lite/a59f2585ba3a7b90-10705.png",
-      "versions": [
-        {
-          "_id": "6a2ceb8772a92ec23d0a377b",
-          "versionCode": 10705,
-          "versionName": "2.4.7",
-          "uploadedAt": "2026-06-13T05:32:55.235Z",
-          "downloads": 90,
-          "changelog": ""
-        }
-      ],
+      "currentVersionId": "6a7c3466a37f61565b0c79d4",
+      "currentMetaId": "6a7c3466a37f61565b0c79d3",
+      "versions": [],
       "variants": [
         {
           "_id": "6a2ceb8772a92ec23d0a3779",
-          "name": "酷狗概念版",
+          "name": "酷狗概念版（手表版）",
           "packageName": "com.kugou.android.watch.lite",
           "variantKey": "default",
-          "versionCode": 10705,
-          "versionName": "2.4.7",
-          "status": "approved",
-          "iconKey": "apk-logos-v2/com.kugou.android.watch.lite/a59f2585ba3a7b90-10705.png",
+          "variantName": null,
+          "versionCode": 10271,
+          "versionName": "2.3.2",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.kugou.android.watch.lite/2377be041635a0fc-10271.png",
           "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kugou.android.watch.lite/a59f2585ba3a7b90-10705.png",
-          "size": 14640226,
-          "apkSize": 14640226,
-          "downloads": 103,
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.kugou.android.watch.lite/2377be041635a0fc-10271.png",
+          "downloads": 600,
           "createdAt": "2026-06-13T05:32:55.240Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a7c3466a37f61565b0c79d4",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a7c3466a37f61565b0c79d4",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/1db4d224-1826-48db-9cd2-914400881858.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/1db4d224-1826-48db-9cd2-914400881858.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_BLUETOOTH_SHARE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.EXPAND_STATUS_BAR",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SETTINGS",
+        "com.huawei.permission.VOICE_INPUT_ACCESS"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_BLUETOOTH_SHARE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_ADMIN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CAMERA",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.EXPAND_STATUS_BAR",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MODIFY_AUDIO_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECORD_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.huawei.permission.VOICE_INPUT_ACCESS",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6abe087922bd5273de49953a",
+          "name": "APlayer",
+          "packageName": "remix.myplayer",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoKey": "apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "实用工具"
+          ],
+          "description": "这款应用十分好用，支持多种歌词解析包括内嵌，并且自带均衡器，支持多种音频格式，视觉效果也挺好，就是优化可能比较差，有点小卡",
+          "developer": "Aplayer",
+          "versionName": "2.0.8.0",
+          "versionCode": 20800,
+          "size": 7829465,
+          "apkSize": 7829465,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-10-01T07:15:05.650Z",
+          "updatedAt": "2026-10-01T07:15:05.655Z",
+          "latestVersionAt": "2026-10-01T07:15:05.655Z",
+          "uploader": {
+            "_id": "6abd984f434cd3b951f8f378",
+            "username": "2314265136",
+            "nickname": "猫猫很泪"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6abe087922bd5273de49953a?versionId=6abe087922bd5273de49953b"
+        },
+        {
+          "_id": "6a007696764a5273e6c092dc",
+          "name": "酷我音乐",
+          "packageName": "cn.kuwo.player",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoKey": "apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "category": "music",
+          "tags": [],
+          "description": "破解版，更新版\n请及时更新，旧版会强制弹更新",
+          "developer": "腾讯",
+          "versionName": "12.2.2.0",
+          "versionCode": 12220,
+          "size": 236873648,
+          "apkSize": 236873648,
+          "downloads": 111,
+          "rating": 4.333333333333333,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-05-10T12:14:14.884Z",
+          "updatedAt": "2026-10-01T07:16:30.562Z",
+          "latestVersionAt": "2026-10-01T07:16:30.562Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a007696764a5273e6c092dc?versionId=6abe08ce22bd5273de499568"
+        },
+        {
+          "_id": "6a03bc9d4cd6641eea40d9c4",
+          "name": "只音",
+          "packageName": "com.zhiyin.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoKey": "apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "category": "music",
+          "tags": [],
+          "description": "只音是一款轻量级、无广告的第三方音乐播放器，现在不需要输入密码就可使用，可以导入酷狗歌单\n\n聚合了抖音、酷狗、网易云、QQ音乐等多个平台，可以免费收听高品质音乐和下载音乐",
+          "developer": null,
+          "versionName": "3.3.0",
+          "versionCode": 330,
+          "size": 13908526,
+          "apkSize": 13908526,
+          "downloads": 220,
+          "rating": 5,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-05-12T23:49:49.796Z",
+          "updatedAt": "2026-07-21T04:12:50.528Z",
+          "latestVersionAt": "2026-05-12T23:49:49.732Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03bc9d4cd6641eea40d9c4?versionId=6a03bc9d4cd6641eea40d9c6"
+        },
+        {
+          "_id": "6a02d4df764a5273e6d0375d",
+          "name": "emusic",
+          "packageName": "com.mcl.emosic",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoKey": "apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "category": "music",
+          "tags": [],
+          "description": "emusic是mcl0开发的一款 轻 小 快的免费音乐播放器!!(真的超级小！)\n主要特点: 离线播放 TTML支持 动画 方便 免费 下载即用 网易云歌单同步 类coverflow 多音乐源\n对手表/手机 界面都在一个app内!",
+          "developer": "mcl0",
+          "versionName": "1.7",
+          "versionCode": 17,
+          "size": 495758,
+          "apkSize": 495758,
+          "downloads": 207,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-12T07:21:03.840Z",
+          "updatedAt": "2026-07-16T16:24:44.864Z",
+          "latestVersionAt": "2026-06-08T11:17:38.516Z",
+          "uploader": {
+            "_id": "6a2677b372a92ec23d0ef13d",
+            "username": "lwh_hwl",
+            "nickname": "老刘刘老"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a02d4df764a5273e6d0375d?versionId=6a26a4d272a92ec23d25b2c5"
+        },
+        {
+          "_id": "69da21e93fc1e71efb61483f",
+          "name": "抬腕听歌简洁版",
+          "packageName": "com.hankmi.wearmusic.lite",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoKey": "apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "抬腕听歌简洁版，一款只保留听歌的简洁软件，提供扫描，查询，播放等功能。\n\nAndroid11不支持全盘扫描。",
+          "developer": "hankmi",
+          "versionName": "1.0",
+          "versionCode": 1,
+          "size": 142502,
+          "apkSize": 142502,
+          "downloads": 193,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-04-11T10:26:49.596Z",
+          "updatedAt": "2026-08-08T10:46:18.480Z",
+          "latestVersionAt": "2026-04-11T10:26:49.594Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da21e93fc1e71efb61483f?versionId=69da21e93fc1e71efb614841"
+        },
+        {
+          "_id": "6a03c5994cd6641eea41038c",
+          "name": "MeloYou",
+          "packageName": "com.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoKey": "apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "一款可以免费收听，下载网易云，酷狗，酷我等���道音乐的软件，可以导入酷狗歌单",
+          "developer": "瓜瓜",
+          "versionName": "1.4.2",
+          "versionCode": 1,
+          "size": 15205134,
+          "apkSize": 15205134,
+          "downloads": 156,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-13T00:28:09.916Z",
+          "updatedAt": "2026-05-18T22:58:07.637Z",
+          "latestVersionAt": "2026-05-13T00:28:09.912Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03c5994cd6641eea41038c?versionId=6a03c5994cd6641eea41038e"
         }
       ]
     },
@@ -149153,6 +149483,3915 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/69e3217ecd7e3d62df072865?versionId=69e3217ecd7e3d62df072867"
+        }
+      ]
+    },
+    "6a587d3aa50094624fa04de9": {
+      "_id": "6a587d3aa50094624fa04de9",
+      "name": "uniucy壁纸",
+      "packageName": "com.pictures.uniucy",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pictures.uniucy/3bad0f2bda6a407a-13.png",
+      "logoKey": "apk-logos-v2/com.pictures.uniucy/3bad0f2bda6a407a-13.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pictures.uniucy/3bad0f2bda6a407a-13.png",
+      "category": "Tools",
+      "tags": [
+        "二次元",
+        "壁纸"
+      ],
+      "description": "一个简单轻便的二次元壁纸软件",
+      "developer": "微依士二次元工作室",
+      "versionName": "1.3.3",
+      "versionCode": 13,
+      "size": 22064081,
+      "apkSize": 22064081,
+      "downloads": 929,
+      "rating": 3.8333333333333335,
+      "ratingCount": 12,
+      "status": "active",
+      "createdAt": "2026-07-16T06:42:02.334Z",
+      "updatedAt": "2026-08-17T05:56:54.622Z",
+      "latestVersionAt": "2026-08-17T05:56:54.622Z",
+      "uploader": {
+        "_id": "6a5236e2a50094624f9d28e4",
+        "username": "uniucy",
+        "nickname": "uniucy",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a587d3aa50094624fa04de9?versionId=6a82a2a66f9ed0eb9c7e21a9",
+      "source": "uniucy-微依士工作室开发",
+      "apkKey": "apks/com.pictures.uniucy/13/1786945866116.apk",
+      "apkHash": "3bad0f2bda6a407a97ea7cb711b4d6a5e1483c41147daf341168f56c49fb5a2f",
+      "sha256": "3bad0f2bda6a407a97ea7cb711b4d6a5e1483c41147daf341168f56c49fb5a2f",
+      "architectures": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "minSdk": 21,
+      "targetSdk": 29,
+      "screenshotKeys": [
+        "screenshots/a3466eb2466eb7e1a5d00d4d72038c63.jpg",
+        "screenshots/81332821780c3e4c38fab315dc6d10f0.jpg"
+      ],
+      "currentVersionId": "6a82a2a66f9ed0eb9c7e21a9",
+      "currentMetaId": "6a82a2a66f9ed0eb9c7e21a8",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a587d3aa50094624fa04de9",
+          "name": "uniucy壁纸",
+          "packageName": "com.pictures.uniucy",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 13,
+          "versionName": "1.3.3",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.pictures.uniucy/3bad0f2bda6a407a-13.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pictures.uniucy/3bad0f2bda6a407a-13.png",
+          "downloads": 929,
+          "createdAt": "2026-07-16T06:42:02.334Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a82a2a66f9ed0eb9c7e21a9",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a82a2a66f9ed0eb9c7e21a9",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.pictures.uniucy/13/1786945866116.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.pictures.uniucy/13/1786945866116.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.UNKNOWN",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.pictures.uniucy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.UNKNOWN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.pictures.uniucy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a587d3da50094624fa04e33",
+          "name": "uniucy壁纸制作器",
+          "packageName": "com.picture.uniucy",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.picture.uniucy/e40cf72f468d0778-65.png",
+          "logoKey": "apk-logos-v2/com.picture.uniucy/e40cf72f468d0778-65.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.picture.uniucy/e40cf72f468d0778-65.png",
+          "category": "Tools",
+          "tags": [
+            "壁纸",
+            "二次元",
+            "壁纸制作器"
+          ],
+          "description": "一个简单轻便的壁纸制作软件",
+          "developer": "uniucy微依士二次元工作室",
+          "versionName": "28.6",
+          "versionCode": 65,
+          "size": 47929538,
+          "apkSize": 47929538,
+          "downloads": 195,
+          "rating": 4.666666666666667,
+          "ratingCount": 9,
+          "status": "active",
+          "createdAt": "2026-07-16T06:42:05.925Z",
+          "updatedAt": "2026-09-19T09:17:13.320Z",
+          "latestVersionAt": "2026-09-19T09:17:13.320Z",
+          "uploader": {
+            "_id": "6a5236e2a50094624f9d28e4",
+            "username": "uniucy",
+            "nickname": "uniucy"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a587d3da50094624fa04e33?versionId=6aae531966f82c44fb657bbd"
+        },
+        {
+          "_id": "6a9e35dc281a1b0bfce83f53",
+          "name": "ServerBox",
+          "packageName": "tech.lolli.toolbox",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tech.lolli.toolbox/2a2db3cc7a9171f1-171903.png",
+          "logoKey": "apk-logos-v2/tech.lolli.toolbox/2a2db3cc7a9171f1-171903.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tech.lolli.toolbox/2a2db3cc7a9171f1-171903.png",
+          "category": "Tools",
+          "tags": [
+            "服务器管理",
+            "服务器运维"
+          ],
+          "description": "ServerBox是免费开源的服务器远程管理工具，具备SSH连接、文件传输、服务器性能监控、进程管理、Docker管理等功能，可以帮助你在手机端远程管理服务器。",
+          "developer": "GT-610",
+          "versionName": "1.0.1719",
+          "versionCode": 171903,
+          "size": 38085636,
+          "apkSize": 38085636,
+          "downloads": 76,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-09-07T03:56:12.095Z",
+          "updatedAt": "2026-10-08T03:49:42.847Z",
+          "latestVersionAt": "2026-10-08T03:49:42.847Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a9e35dc281a1b0bfce83f53?versionId=6ac712d6cafe6590f4164c66"
+        },
+        {
+          "_id": "6ab2939566f82c44fb668530",
+          "name": "蓝河工具箱",
+          "packageName": "com.bluestudiocjd.app",
+          "variantKey": "variant-1790051782937",
+          "variantName": "ARM64版本",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoKey": "apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "category": "Tools",
+          "tags": [
+            "Vivo",
+            "Iqoo",
+            "工具箱",
+            "蓝河"
+          ],
+          "description": "蓝盒工具箱（又名蓝河工具箱）是专为vivo、iQOO机型打造的第三方免ROOT系统优化工具，依托Shizuku授权解锁系统隐藏权限，整合性能调校、系统美化、后台管控、设备检测四大核心模块，主要功能包括全局插帧强制开启高帧率、直驱供电绕过系统充电限制、处理器核心调度手动调整及内存增强等性能优化，应用冻结、自启管理、后台限制、深度清理、通知隐藏及快捷跳转原生设置等系统管理，自定义分辨率、状态栏图标隐藏、色彩风格调节、动画速度调整及设备改名等显示与个性化设置，以及硬件参数查看、APK提取等实用工具，针对OriginOS底层进行深度适配，解决了通用工具无法解锁蓝厂专属隐藏调度与供电限制的问题，能够在不修改系统分区、不影响保修的前提下，实现游戏帧率稳定、发热控制、后台精简及系统流畅��提升，且安装包体积小、无广告、免费使用。",
+          "developer": "陈进东",
+          "versionName": "6.15",
+          "versionCode": 76,
+          "size": 5111110,
+          "apkSize": 5111110,
+          "downloads": 71,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-22T14:41:25.099Z",
+          "updatedAt": "2026-09-22T14:41:25.103Z",
+          "latestVersionAt": "2026-09-22T14:41:25.103Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab2939566f82c44fb668530?versionId=6ab2939566f82c44fb668531"
+        },
+        {
+          "_id": "6ac25780cafe6590f415622d",
+          "name": "OptiX（相机应用）",
+          "packageName": "com.ailife.rotatingcamera",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoKey": "apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "category": "Tools",
+          "tags": [
+            "摄像软件"
+          ],
+          "description": "一个非常好用的相机应用，内置多种算法并且支持导入算法。功能较为全面，可以有效提升手表和旧手机拍摄照片的效果，虽然实际情况还受硬件影响，但当然是可以改善的。",
+          "developer": "Al LIFE和Sara",
+          "versionName": "6.7.54",
+          "versionCode": 110,
+          "size": 23548282,
+          "apkSize": 23548282,
+          "downloads": 65,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-04T13:41:20.808Z",
+          "updatedAt": "2026-10-04T13:41:20.812Z",
+          "latestVersionAt": "2026-10-04T13:41:20.812Z",
+          "uploader": {
+            "_id": "6abf3c2477ba95606a796c1b",
+            "username": "jtsk",
+            "nickname": "狡兔科技"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac25780cafe6590f415622d?versionId=6ac25780cafe6590f415622e"
+        },
+        {
+          "_id": "6aadddb05a5f65b24006148d",
+          "name": "星海助手",
+          "packageName": "com.stars.app",
+          "variantKey": "variant-1789772852249",
+          "variantName": "ARM64-V8A",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoKey": "apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "category": "Tools",
+          "tags": [
+            "网盘解析",
+            "实用标签",
+            "免费软件",
+            "无广告",
+            "多功能软件"
+          ],
+          "description": "一个纯免费的网盘解析工具，没有任何广告，并且呢它支持市面上所有网盘的解析，并且知识高速核心速度100兆每秒需要登录使用",
+          "developer": "崩溃的废物(QQ)",
+          "versionName": "2.9.14",
+          "versionCode": 64,
+          "size": 5167881,
+          "apkSize": 5167881,
+          "downloads": 55,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-19T00:56:16.214Z",
+          "updatedAt": "2026-09-19T00:56:16.218Z",
+          "latestVersionAt": "2026-09-19T00:56:16.218Z",
+          "uploader": {
+            "_id": "6a6838f1a50094624ff13620",
+            "username": "annian",
+            "nickname": "安念"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aadddb05a5f65b24006148d?versionId=6aadddb05a5f65b24006148e"
+        },
+        {
+          "_id": "6ac2dd24cafe6590f4157366",
+          "name": "快递100手表版",
+          "packageName": "com.Kingdee.Express.Watch",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.Kingdee.Express.Watch/339582b106e13ddc-1.png",
+          "logoKey": "apk-logos-v2/com.Kingdee.Express.Watch/339582b106e13ddc-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.Kingdee.Express.Watch/339582b106e13ddc-1.png",
+          "category": "Tools",
+          "tags": [
+            "查快递",
+            "快递100",
+            "实用工具"
+          ],
+          "description": "一个提供快递查询，支持多家快递公司和多种设备，满足个人、商家、企业、物流服务商的不同需求。手表查询更为方便。",
+          "developer": "深圳前海百地网络有限公司",
+          "versionName": "1.0.1",
+          "versionCode": 1,
+          "size": 7486423,
+          "apkSize": 7486423,
+          "downloads": 49,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-04T23:11:32.624Z",
+          "updatedAt": "2026-10-04T23:11:32.628Z",
+          "latestVersionAt": "2026-10-04T23:11:32.628Z",
+          "uploader": {
+            "_id": "6abf3bf077ba95606a796c17",
+            "username": "SYSTEM-WIN- ZCX",
+            "nickname": "SYSTEM-WIN- ZCX"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac2dd24cafe6590f4157366?versionId=6ac2dd24cafe6590f4157367"
+        }
+      ]
+    },
+    "6a02c837764a5273e6cfa93f": {
+      "_id": "6a02c837764a5273e6cfa93f",
+      "name": "Aurora Store",
+      "packageName": "com.aurora.store",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.aurora.store/46c13035147904c2-75.png",
+      "logoKey": "apk-logos-v2/com.aurora.store/46c13035147904c2-75.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.aurora.store/46c13035147904c2-75.png",
+      "category": "Apps",
+      "tags": [],
+      "description": "Aurora Store是 Google Play 商店的非官方自由开源客户端，设计优雅。Aurora 商店不仅可以下载、更新和搜索 Play 商店等应用程序，还为用户提供新功能。\n\n对于那些关心隐私的人来说，Aurora Store不需要 Google 的专有框架（间谍软件？）即可运行。无论有没有 Google Play Services 或MicroG，它都可以完美运行。\n\nAurora 商店最初是基于 Sergei Yeriomin 的Yalp 商店。Aurora Store v4.0 是 Kotlin 版本 3 的重写版本，可在运行 Android 4.4+ 的所有设备上运行。请阅读我们 Wiki 上的路线图页面以获取更多信息！\n\n免费/自由软件 — 拥有 GPLv3 许可证\n\n精美的设计——基于最新的材料设计指南\n\n匿名帐户 - 您可以使用匿名帐户登录和下载，因此您不必使用自己的帐户\n\n个人帐户登录 - 您可以使用自己的 Google 帐户下载购买的应用程序或访问您的愿望清单\n\nExodus集成 - 立即查看应用程序隐藏在其代码中的跟踪器",
+      "developer": "Sergei Yeriomin",
+      "versionName": "4.8.3-hw",
+      "versionCode": 75,
+      "size": 9351226,
+      "apkSize": 9351226,
+      "downloads": 409,
+      "rating": 4.166666666666667,
+      "ratingCount": 6,
+      "status": "active",
+      "createdAt": "2026-05-12T06:27:03.736Z",
+      "updatedAt": "2026-08-17T04:36:19.258Z",
+      "latestVersionAt": "2026-08-17T04:36:19.258Z",
+      "uploader": {
+        "_id": "6a5064bda50094624fbbe7fc",
+        "username": "RobinJBK",
+        "nickname": null,
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a02c837764a5273e6cfa93f?versionId=6a828fc3b64d2112a7c0b0b6",
+      "source": "GitHub.com",
+      "apkKey": "apks/com.aurora.store/75/1786941325521.apk",
+      "apkHash": "46c13035147904c21095ab1893c19597ba4df735f1269d8c5c70d139cd1dfda3",
+      "sha256": "46c13035147904c21095ab1893c19597ba4df735f1269d8c5c70d139cd1dfda3",
+      "architectures": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "minSdk": 23,
+      "targetSdk": 37,
+      "screenshotKeys": [],
+      "currentVersionId": "6a828fc3b64d2112a7c0b0b6",
+      "currentMetaId": "6a828fc3b64d2112a7c0b0b5",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a02c837764a5273e6cfa93f",
+          "name": "Aurora Store",
+          "packageName": "com.aurora.store",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 75,
+          "versionName": "4.8.3-hw",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.aurora.store/46c13035147904c2-75.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.aurora.store/46c13035147904c2-75.png",
+          "downloads": 409,
+          "createdAt": "2026-05-12T06:27:03.736Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a828fc3b64d2112a7c0b0b6",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a828fc3b64d2112a7c0b0b6",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.aurora.store/75/1786941325521.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.aurora.store/75/1786941325521.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.DELETE_PACKAGES",
+        "android.permission.ENFORCE_UPDATE_OWNERSHIP",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.INSTALL_PACKAGES",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.aurora.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "moe.shizuku.manager.permission.API_V23"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.DELETE_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.POST_NOTIFICATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.QUERY_ALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_BOOT_COMPLETED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_DELETE_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.USE_CREDENTIALS",
+          "maxSdkVersion": 22,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.aurora.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "moe.shizuku.manager.permission.API_V23",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6ab29a9e66f82c44fb668986",
+          "name": "华软商店",
+          "packageName": "com.huadows.store",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huadows.store/b59db0b34f2d3e12-12.png",
+          "logoKey": "apk-logos-v2/com.huadows.store/b59db0b34f2d3e12-12.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huadows.store/b59db0b34f2d3e12-12.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "一款内存超级小的应用商店，应用不多，但是极流畅！",
+          "developer": "未知",
+          "versionName": "1.0.7",
+          "versionCode": 12,
+          "size": 4216709,
+          "apkSize": 4216709,
+          "downloads": 391,
+          "rating": 4,
+          "ratingCount": 8,
+          "status": "active",
+          "createdAt": "2026-09-22T15:11:26.950Z",
+          "updatedAt": "2026-09-22T15:11:26.954Z",
+          "latestVersionAt": "2026-09-22T15:11:26.954Z",
+          "uploader": {
+            "_id": "6aac022bcce755a7bb0144f6",
+            "username": "gyz_123",
+            "nickname": "gyz_123"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab29a9e66f82c44fb668986?versionId=6ab29a9e66f82c44fb668987"
+        },
+        {
+          "_id": "69e3219bcd7e3d62df072ea3",
+          "name": "Lunch",
+          "packageName": "com.dudu.wearlauncher",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.dudu.wearlauncher/f0500775011a878e-10.png",
+          "logoKey": "apk-logos-v2/com.dudu.wearlauncher/f0500775011a878e-10.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.dudu.wearlauncher/f0500775011a878e-10.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "免费，开源，并且支持自定义表盘的手表桌面应用",
+          "developer": "dudu",
+          "versionName": "1.1.5-Stable",
+          "versionCode": 10,
+          "size": 3102518,
+          "apkSize": 3102518,
+          "downloads": 204,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-04-18T06:15:55.184Z",
+          "updatedAt": "2026-04-18T06:15:55.187Z",
+          "latestVersionAt": "2026-04-18T06:15:55.181Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69e3219bcd7e3d62df072ea3?versionId=69e3219bcd7e3d62df072ea5"
+        },
+        {
+          "_id": "6aa4621863071608c3e4d93d",
+          "name": "Droid-ify",
+          "packageName": "com.looker.droidify",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.looker.droidify/741ab4146986a8ff-630.png",
+          "logoKey": "apk-logos-v2/com.looker.droidify/741ab4146986a8ff-630.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.looker.droidify/741ab4146986a8ff-630.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "Droid-ify 是一款专为安卓系统设计的现代化、开源的 F-Droid 客户端应用，它并非 F-Droid 官方客户端，而是由社区开发者基于 F-Droid 协议构建的第三方替代方案，核心目标是提供更美观、更流畅、更符合现代安卓设计语言的使用体验。\n\n备注:因为这个服务器在海外，你刚安装的时候它默认是没有任何应用的 你需要配置到清华源\n配置步骤:打开此app,点右上角三个点，点存储库,点右下角添加存储库,会有4个，从上到下分别是地址，指纹，用户名，密码 因为清华是公开源，所以不用填用户名和密码\n地址那里填: https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/\n（注意最后的斜杠也要填上）\n指纹那里填:43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB\n然后点右上角软盘标志 退出以后点加载按钮，过几秒钟它自己就配置完成了\n��置完成后，如应用截图 就可以下载了",
+          "developer": " Iamlooker",
+          "versionName": "0.6.3",
+          "versionCode": 630,
+          "size": 4173596,
+          "apkSize": 4173596,
+          "downloads": 68,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-11T20:18:32.574Z",
+          "updatedAt": "2026-09-11T20:18:32.577Z",
+          "latestVersionAt": "2026-09-11T20:18:32.577Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa4621863071608c3e4d93d?versionId=6aa4621863071608c3e4d93e"
+        },
+        {
+          "_id": "69da1c4e3fc1e71efb6137cc",
+          "name": "微思应用商店",
+          "packageName": "com.wys.appmarket",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wys.appmarket/6bb35ad55d11be98-4100.png",
+          "logoKey": "apk-logos-v2/com.wys.appmarket/6bb35ad55d11be98-4100.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wys.appmarket/6bb35ad55d11be98-4100.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "微思应用商店经典版重构，全新NT版上线 ！ 底层重构，因兼容而生，完美支持 Android 4.4+ 系统，大小仅3MB，老设备、旧系统也能重获新生！ 深度适配 词典笔（长屏）、安卓手表（方/圆屏） 及 手机，你的每一块屏幕，我们都想到了（后��将更新适配 平板 车机 触屏音响以及TV）\n\n微思应用商店NT V4.1 更新内容\n【新增】\n支持多线程下载 下载速度提升50%\nAPK 支持保存至 Download \n应用信息横向布局开关\n应用详情页上传时间显示\n下载线路页面应用大小\n极速下载线路和额度页面\n\n【优化】\n更换内置证书兼容更多设备\n重构下载任务管理，支持断点续传、多线程和新版本任务替换\n改进应用加载和内存占用\n\n【修复】\n部分应用详情页面异常卡顿问题\n频繁自动退出登录问题\n误报架构不兼容问题\n更新版本后无法重新创建下载任务的问题\n公告轮播标题与内容对应错误的问题\n部分 Android 4.4 设备无法通过校验问题\n旧版设备无法加载图片和下载安装包的额问题\n修复部分已知的闪退问题",
+          "developer": "微思网络",
+          "versionName": "4.1",
+          "versionCode": 4100,
+          "size": 15824356,
+          "apkSize": 15824356,
+          "downloads": 2090,
+          "rating": 4.545454545454546,
+          "ratingCount": 22,
+          "status": "active",
+          "createdAt": "2026-04-11T10:02:54.215Z",
+          "updatedAt": "2026-08-01T05:13:34.138Z",
+          "latestVersionAt": "2026-07-30T04:15:15.501Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da1c4e3fc1e71efb6137cc?versionId=6a6acfd3a50094624f5e4593"
+        },
+        {
+          "_id": "6a0b4843766567fc7eeb55ed",
+          "name": "微思应用商店（CE）",
+          "packageName": "com.qx.wysappmarket",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.wysappmarket/852eaf6256b26aca-3610.png",
+          "logoKey": "apk-logos-v2/com.qx.wysappmarket/852eaf6256b26aca-3610.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.wysappmarket/852eaf6256b26aca-3610.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "微思应用商店 3.6 焕新登场！\n运行飞快，美观更上一层楼。\n历经3个月的等待，从底层到UI大换血；精心雕琢的全新视觉语言，为您的手表增添精致感。",
+          "developer": "微思网络",
+          "versionName": "3.6.1-CE",
+          "versionCode": 3610,
+          "size": 7050038,
+          "apkSize": 7050038,
+          "downloads": 1401,
+          "rating": 4.5,
+          "ratingCount": 18,
+          "status": "active",
+          "createdAt": "2026-05-18T17:11:31.239Z",
+          "updatedAt": "2026-07-20T00:38:05.415Z",
+          "latestVersionAt": "2026-07-04T14:40:26.309Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0b4843766567fc7eeb55ed?versionId=6a491b5adc4eb29bad5894ef"
+        },
+        {
+          "_id": "6a368e32d34e29be5cf9f32c",
+          "name": "灵应用商店",
+          "packageName": "com.huanli233.lingmarket",
+          "variantKey": "variant-1781937173110",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huanli233.lingmarket/0926cf97880c788b-35.png",
+          "logoKey": "apk-logos-v2/com.huanli233.lingmarket/0926cf97880c788b-35.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huanli233.lingmarket/0926cf97880c788b-35.png",
+          "category": "Apps",
+          "tags": [
+            "ling market"
+          ],
+          "description": "底包:\ncom.huanli233.lingmarket(v1.7.12-fix-UNiVERSE)\n--------------------\n版本摘要：\n-修复基础API\n-修复因断点续传导致的无法下载(Range unsupported HTTP200)\n--------------------\n主要问题：\n大部分界面应用icon不显示\n\n注意：1.本安装包未签名，若有需要，请自行签名后安装。\n2.下载应用出现异常时，在设置中开启后台下载应用。\n--------------------\n永远怀念。\nFixed by fwork",
+          "developer": "huanli233",
+          "versionName": "1.7.12-fix-UNiVERSE(fixed)",
+          "versionCode": 35,
+          "size": 8008449,
+          "apkSize": 8008449,
+          "downloads": 329,
+          "rating": 4.384615384615385,
+          "ratingCount": 13,
+          "status": "active",
+          "createdAt": "2026-06-20T12:57:22.223Z",
+          "updatedAt": "2026-07-29T02:15:00.081Z",
+          "latestVersionAt": "2026-06-20T12:57:22.219Z",
+          "uploader": {
+            "_id": "69e2f967cd7e3d62df05d72c",
+            "username": "Refwork",
+            "nickname": "rose_reveriE"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a368e32d34e29be5cf9f32c?versionId=6a368e32d34e29be5cf9f32e"
+        }
+      ]
+    },
+    "6a8035f49e36018b858e74ed": {
+      "_id": "6a8035f49e36018b858e74ed",
+      "name": "G Music",
+      "packageName": "com.gmusic.player",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gmusic.player/4c61e435509e0f4a-4.png",
+      "logoKey": "apk-logos-v2/com.gmusic.player/4c61e435509e0f4a-4.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gmusic.player/4c61e435509e0f4a-4.png",
+      "category": "music",
+      "tags": [],
+      "description": "G‑Music是一款由拾三制作的本地音乐播放器，兼容手表，大屏和手机，可以扫描手表内保存的音乐文件播放，支持多种播放模式，同步显示歌词。可以切换深色浅色模式，还能根据歌曲封面自动适配界面颜色。应用储存占用小，没有繁杂的在线内容，安心收听本地音乐（屏幕优化可能有点…）\n\nG Music v4.0\n\n1.优化手表显示（方屏）\n\n2.新增批量管理本地音乐和下一首播放\n\n3.最低兼容到安卓4.4\n\n4.修改了一些奇怪的文字\n\n5.新增定时关闭音乐\n\n6.新增音乐均衡器\n\n7.新增音乐播放倍速调节，圆形封面旋转速度同步歌曲倍速\n\n8.新增车机模式\n\n9.新增了一些bug",
+      "developer": "拾三yu",
+      "versionName": "4.0",
+      "versionCode": 4,
+      "size": 5628324,
+      "apkSize": 5628324,
+      "downloads": 103,
+      "rating": 4,
+      "ratingCount": 2,
+      "status": "active",
+      "createdAt": "2026-08-15T09:48:36.482Z",
+      "updatedAt": "2026-08-16T11:44:32.986Z",
+      "latestVersionAt": "2026-08-16T11:44:32.986Z",
+      "uploader": {
+        "_id": "69d66cd825674e3066735666",
+        "username": "shisan",
+        "nickname": "拾三yu",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a8035f49e36018b858e74ed?versionId=6a81a2a057333983fcb1da91",
+      "source": "拾三yu",
+      "apkKey": "apks/com.gmusic.player/4/1786880659721.apk",
+      "apkHash": "4c61e435509e0f4aef4baf82ea0672a5e0f7776a76d7ae243111c5d9c6b7749f",
+      "sha256": "4c61e435509e0f4aef4baf82ea0672a5e0f7776a76d7ae243111c5d9c6b7749f",
+      "architectures": [
+        "arm64-v8a"
+      ],
+      "minSdk": 19,
+      "targetSdk": 34,
+      "screenshotKeys": [
+        "screenshots/d4a6c1df54238911ee5c90c71b615f78.jpg",
+        "screenshots/12dcca804acf01e4ba703151555432ba.jpg",
+        "screenshots/0f3e0a2930814a2a81541fe1cb8dead2.jpg"
+      ],
+      "currentVersionId": "6a81a2a057333983fcb1da91",
+      "currentMetaId": "6a81a2a057333983fcb1da90",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a8035f49e36018b858e74ed",
+          "name": "G Music",
+          "packageName": "com.gmusic.player",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 4,
+          "versionName": "4.0",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.gmusic.player/4c61e435509e0f4a-4.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gmusic.player/4c61e435509e0f4a-4.png",
+          "downloads": 103,
+          "createdAt": "2026-08-15T09:48:36.482Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a81a2a057333983fcb1da91",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a81a2a057333983fcb1da91",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.gmusic.player/4/1786880659721.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.gmusic.player/4/1786880659721.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SETTINGS",
+        "com.gmusic.player.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.POST_NOTIFICATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.gmusic.player.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6abe087922bd5273de49953a",
+          "name": "APlayer",
+          "packageName": "remix.myplayer",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoKey": "apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "实用工具"
+          ],
+          "description": "这款应用十分好用，支持多种歌词解析包括内嵌，并且自带均衡器，支持多种音频格式，视觉效果也挺好，就是优化可能比较差，有点小卡",
+          "developer": "Aplayer",
+          "versionName": "2.0.8.0",
+          "versionCode": 20800,
+          "size": 7829465,
+          "apkSize": 7829465,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-10-01T07:15:05.650Z",
+          "updatedAt": "2026-10-01T07:15:05.655Z",
+          "latestVersionAt": "2026-10-01T07:15:05.655Z",
+          "uploader": {
+            "_id": "6abd984f434cd3b951f8f378",
+            "username": "2314265136",
+            "nickname": "猫猫很泪"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6abe087922bd5273de49953a?versionId=6abe087922bd5273de49953b"
+        },
+        {
+          "_id": "6a007696764a5273e6c092dc",
+          "name": "酷我音乐",
+          "packageName": "cn.kuwo.player",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoKey": "apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "category": "music",
+          "tags": [],
+          "description": "破解版，更新版\n请及时更新，旧版会强制弹更新",
+          "developer": "腾讯",
+          "versionName": "12.2.2.0",
+          "versionCode": 12220,
+          "size": 236873648,
+          "apkSize": 236873648,
+          "downloads": 111,
+          "rating": 4.333333333333333,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-05-10T12:14:14.884Z",
+          "updatedAt": "2026-10-01T07:16:30.562Z",
+          "latestVersionAt": "2026-10-01T07:16:30.562Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a007696764a5273e6c092dc?versionId=6abe08ce22bd5273de499568"
+        },
+        {
+          "_id": "6a03bc9d4cd6641eea40d9c4",
+          "name": "只音",
+          "packageName": "com.zhiyin.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoKey": "apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "category": "music",
+          "tags": [],
+          "description": "只音是一款轻量级、无广告的第三方音乐播放器，现在不需要输入密码就可使用，可以导入酷狗歌单\n\n聚合了抖音、酷狗、网易云、QQ音乐等多个平台，可以免费收听高品质音乐和下载音乐",
+          "developer": null,
+          "versionName": "3.3.0",
+          "versionCode": 330,
+          "size": 13908526,
+          "apkSize": 13908526,
+          "downloads": 220,
+          "rating": 5,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-05-12T23:49:49.796Z",
+          "updatedAt": "2026-07-21T04:12:50.528Z",
+          "latestVersionAt": "2026-05-12T23:49:49.732Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03bc9d4cd6641eea40d9c4?versionId=6a03bc9d4cd6641eea40d9c6"
+        },
+        {
+          "_id": "6a02d4df764a5273e6d0375d",
+          "name": "emusic",
+          "packageName": "com.mcl.emosic",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoKey": "apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "category": "music",
+          "tags": [],
+          "description": "emusic是mcl0开发的一款 轻 小 快的免费音乐播放器!!(真的超级小！)\n主要特点: 离线播放 TTML支持 动画 方便 免费 下载即用 网易云歌单同步 类coverflow 多音乐源\n对手表/手机 界面都在一个app内!",
+          "developer": "mcl0",
+          "versionName": "1.7",
+          "versionCode": 17,
+          "size": 495758,
+          "apkSize": 495758,
+          "downloads": 207,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-12T07:21:03.840Z",
+          "updatedAt": "2026-07-16T16:24:44.864Z",
+          "latestVersionAt": "2026-06-08T11:17:38.516Z",
+          "uploader": {
+            "_id": "6a2677b372a92ec23d0ef13d",
+            "username": "lwh_hwl",
+            "nickname": "老刘刘老"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a02d4df764a5273e6d0375d?versionId=6a26a4d272a92ec23d25b2c5"
+        },
+        {
+          "_id": "69da21e93fc1e71efb61483f",
+          "name": "抬腕听歌简洁版",
+          "packageName": "com.hankmi.wearmusic.lite",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoKey": "apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "抬腕听歌简洁版，一款只保留听歌的简洁软件，提供扫描，查询，��放等功能。\n\nAndroid11不支持全盘扫描。",
+          "developer": "hankmi",
+          "versionName": "1.0",
+          "versionCode": 1,
+          "size": 142502,
+          "apkSize": 142502,
+          "downloads": 193,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-04-11T10:26:49.596Z",
+          "updatedAt": "2026-08-08T10:46:18.480Z",
+          "latestVersionAt": "2026-04-11T10:26:49.594Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da21e93fc1e71efb61483f?versionId=69da21e93fc1e71efb614841"
+        },
+        {
+          "_id": "6a03c5994cd6641eea41038c",
+          "name": "MeloYou",
+          "packageName": "com.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoKey": "apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "一款可以免费收听，下载网易云，酷狗，酷我等渠道音乐的软件，可以导入酷狗歌单",
+          "developer": "瓜瓜",
+          "versionName": "1.4.2",
+          "versionCode": 1,
+          "size": 15205134,
+          "apkSize": 15205134,
+          "downloads": 156,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-13T00:28:09.916Z",
+          "updatedAt": "2026-05-18T22:58:07.637Z",
+          "latestVersionAt": "2026-05-13T00:28:09.912Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03c5994cd6641eea41038c?versionId=6a03c5994cd6641eea41038e"
+        }
+      ]
+    },
+    "6a807da74397d4c1f9b2edcb": {
+      "_id": "6a807da74397d4c1f9b2edcb",
+      "name": "NGS-KG+ Watch",
+      "packageName": "com.mjiutang.ngskg.wear",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mjiutang.ngskg.wear/174a58b164839f05-11.png",
+      "logoKey": "apk-logos-v2/com.mjiutang.ngskg.wear/174a58b164839f05-11.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mjiutang.ngskg.wear/174a58b164839f05-11.png",
+      "category": "music",
+      "tags": [
+        "酷狗",
+        "酷狗音乐",
+        "酷狗手表版",
+        "酷狗概念版",
+        "酷狗概念版手表版",
+        "酷狗音乐手表版"
+      ],
+      "description": "NGS-KG+是一个采用Flutter的酷狗音乐第三方客户端，并且拥有跨平台支持（Android，Linux（不稳定），Windows，HarmonyOS（适配中））",
+      "developer": "mjiutang",
+      "versionName": "1.5.3-preview-watch",
+      "versionCode": 11,
+      "size": 53211480,
+      "apkSize": 53211480,
+      "downloads": 239,
+      "rating": 2,
+      "ratingCount": 2,
+      "status": "active",
+      "createdAt": "2026-08-15T14:54:31.699Z",
+      "updatedAt": "2026-08-15T14:54:31.702Z",
+      "latestVersionAt": "2026-08-15T14:54:31.702Z",
+      "uploader": {
+        "_id": "6a8077ac4397d4c1f9b2eb4c",
+        "username": "mjiutang",
+        "nickname": "mjiutang",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a807da74397d4c1f9b2edcb?versionId=6a807da74397d4c1f9b2edcc",
+      "source": "Github",
+      "apkKey": "apks/com.mjiutang.ngskg.wear/11/1786804938118.apk",
+      "apkHash": "174a58b164839f05b72ee5990455dd43fe555e5d3f94b78614f6f2eb2f3eef06",
+      "sha256": "174a58b164839f05b72ee5990455dd43fe555e5d3f94b78614f6f2eb2f3eef06",
+      "architectures": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86_64"
+      ],
+      "minSdk": 26,
+      "targetSdk": 36,
+      "screenshotKeys": [
+        "screenshots/8279b0e37d81785b9e591a964a49d839.jpg",
+        "screenshots/84ace959ced8cc0db629ec91dfc97af8.jpg",
+        "screenshots/b278f94ee1059fcb95d072dba364466f.jpg",
+        "screenshots/790b4578e6442cc3dbd656329c9f3d1a.jpg"
+      ],
+      "currentVersionId": "6a807da74397d4c1f9b2edcc",
+      "currentMetaId": "6a807da74397d4c1f9b2edca",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a807da74397d4c1f9b2edcb",
+          "name": "NGS-KG+ Watch",
+          "packageName": "com.mjiutang.ngskg.wear",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 11,
+          "versionName": "1.5.3-preview-watch",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.mjiutang.ngskg.wear/174a58b164839f05-11.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mjiutang.ngskg.wear/174a58b164839f05-11.png",
+          "downloads": 239,
+          "createdAt": "2026-08-15T14:54:31.699Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a807da74397d4c1f9b2edcc",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a807da74397d4c1f9b2edcc",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.mjiutang.ngskg.wear/11/1786804938118.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.mjiutang.ngskg.wear/11/1786804938118.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "com.mjiutang.ngskg.wear.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH",
+          "maxSdkVersion": 30,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_ADMIN",
+          "maxSdkVersion": 30,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_CONNECT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.POST_NOTIFICATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_MEDIA_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.mjiutang.ngskg.wear.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6abe087922bd5273de49953a",
+          "name": "APlayer",
+          "packageName": "remix.myplayer",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoKey": "apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "实用工具"
+          ],
+          "description": "这款应用十分好用，支持多种歌词解析包括内嵌，并且自带均衡器，支持多种音频格式，视觉效果也挺好，就是优化可能比较差，有点小卡",
+          "developer": "Aplayer",
+          "versionName": "2.0.8.0",
+          "versionCode": 20800,
+          "size": 7829465,
+          "apkSize": 7829465,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-10-01T07:15:05.650Z",
+          "updatedAt": "2026-10-01T07:15:05.655Z",
+          "latestVersionAt": "2026-10-01T07:15:05.655Z",
+          "uploader": {
+            "_id": "6abd984f434cd3b951f8f378",
+            "username": "2314265136",
+            "nickname": "猫猫很泪"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6abe087922bd5273de49953a?versionId=6abe087922bd5273de49953b"
+        },
+        {
+          "_id": "6a007696764a5273e6c092dc",
+          "name": "酷我音乐",
+          "packageName": "cn.kuwo.player",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoKey": "apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "category": "music",
+          "tags": [],
+          "description": "破解版，更新版\n请及时更新，旧版会强制弹更新",
+          "developer": "腾讯",
+          "versionName": "12.2.2.0",
+          "versionCode": 12220,
+          "size": 236873648,
+          "apkSize": 236873648,
+          "downloads": 111,
+          "rating": 4.333333333333333,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-05-10T12:14:14.884Z",
+          "updatedAt": "2026-10-01T07:16:30.562Z",
+          "latestVersionAt": "2026-10-01T07:16:30.562Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a007696764a5273e6c092dc?versionId=6abe08ce22bd5273de499568"
+        },
+        {
+          "_id": "6a03bc9d4cd6641eea40d9c4",
+          "name": "只音",
+          "packageName": "com.zhiyin.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoKey": "apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "category": "music",
+          "tags": [],
+          "description": "只音是一款轻量级、无广告的第三方音乐播放器，现在不需要输入密码就可使用，可以导入酷狗歌单\n\n聚合了抖音、酷狗、网易云、QQ音乐等多个平台，可以免费收听高品质音乐和下载音乐",
+          "developer": null,
+          "versionName": "3.3.0",
+          "versionCode": 330,
+          "size": 13908526,
+          "apkSize": 13908526,
+          "downloads": 220,
+          "rating": 5,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-05-12T23:49:49.796Z",
+          "updatedAt": "2026-07-21T04:12:50.528Z",
+          "latestVersionAt": "2026-05-12T23:49:49.732Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03bc9d4cd6641eea40d9c4?versionId=6a03bc9d4cd6641eea40d9c6"
+        },
+        {
+          "_id": "6a02d4df764a5273e6d0375d",
+          "name": "emusic",
+          "packageName": "com.mcl.emosic",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoKey": "apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "category": "music",
+          "tags": [],
+          "description": "emusic是mcl0开发的一款 轻 小 快的免费音乐播放器!!(真的超级小！)\n主要特点: 离线播放 TTML支持 动画 方便 免费 下载即用 网易云歌单同步 类coverflow 多音乐源\n对手表/手机 界面都在一个app内!",
+          "developer": "mcl0",
+          "versionName": "1.7",
+          "versionCode": 17,
+          "size": 495758,
+          "apkSize": 495758,
+          "downloads": 207,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-12T07:21:03.840Z",
+          "updatedAt": "2026-07-16T16:24:44.864Z",
+          "latestVersionAt": "2026-06-08T11:17:38.516Z",
+          "uploader": {
+            "_id": "6a2677b372a92ec23d0ef13d",
+            "username": "lwh_hwl",
+            "nickname": "老刘刘老"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a02d4df764a5273e6d0375d?versionId=6a26a4d272a92ec23d25b2c5"
+        },
+        {
+          "_id": "69da21e93fc1e71efb61483f",
+          "name": "抬腕听歌简洁版",
+          "packageName": "com.hankmi.wearmusic.lite",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoKey": "apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "抬腕听歌简洁版，一款只保留听歌的简洁软件，提供扫描，查询，播放等功能。\n\nAndroid11不支持全盘扫描。",
+          "developer": "hankmi",
+          "versionName": "1.0",
+          "versionCode": 1,
+          "size": 142502,
+          "apkSize": 142502,
+          "downloads": 193,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-04-11T10:26:49.596Z",
+          "updatedAt": "2026-08-08T10:46:18.480Z",
+          "latestVersionAt": "2026-04-11T10:26:49.594Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da21e93fc1e71efb61483f?versionId=69da21e93fc1e71efb614841"
+        },
+        {
+          "_id": "6a03c5994cd6641eea41038c",
+          "name": "MeloYou",
+          "packageName": "com.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoKey": "apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "一款可以免费收听，下载网易云，酷狗，酷我等渠道音乐的软件，可以导入酷狗歌单",
+          "developer": "瓜瓜",
+          "versionName": "1.4.2",
+          "versionCode": 1,
+          "size": 15205134,
+          "apkSize": 15205134,
+          "downloads": 156,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-13T00:28:09.916Z",
+          "updatedAt": "2026-05-18T22:58:07.637Z",
+          "latestVersionAt": "2026-05-13T00:28:09.912Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03c5994cd6641eea41038c?versionId=6a03c5994cd6641eea41038e"
+        }
+      ]
+    },
+    "6a801e5c6db3098c5cb07083": {
+      "_id": "6a801e5c6db3098c5cb07083",
+      "name": "网易云音乐(牛听听定制版)",
+      "packageName": "com.benew.ntt.netyun",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+      "logoKey": "apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+      "category": "music",
+      "tags": [],
+      "description": "从牛听听学习机中提取出来的网易云音乐，有很多功能不能用，但是又有很多新功能能登录账号屏幕最小是1.89英寸最低支持安卓4.4。32位只支持连4g网。无需手动更新音乐库，它会自动更新",
+      "developer": "网易",
+      "versionName": "1.0.26",
+      "versionCode": 26,
+      "size": 9004574,
+      "apkSize": 9004574,
+      "downloads": 204,
+      "rating": 2.75,
+      "ratingCount": 4,
+      "status": "active",
+      "createdAt": "2026-08-15T08:07:56.869Z",
+      "updatedAt": "2026-08-15T08:07:56.872Z",
+      "latestVersionAt": "2026-08-15T08:07:56.872Z",
+      "uploader": {
+        "_id": "6a642c0ca50094624f0234be",
+        "username": "rkk",
+        "nickname": "rkk",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a801e5c6db3098c5cb07083?versionId=6a801e5c6db3098c5cb07084",
+      "source": "牛听听学习机",
+      "apkKey": "apks/com.benew.ntt.netyun/26/1786746355530.apk",
+      "apkHash": "7246c935685549d303d8a75daa5086184b464397cb7779c3302326625f0ee72d",
+      "sha256": "7246c935685549d303d8a75daa5086184b464397cb7779c3302326625f0ee72d",
+      "architectures": [
+        "armeabi-v7a"
+      ],
+      "minSdk": 19,
+      "targetSdk": 32,
+      "screenshotKeys": [],
+      "currentVersionId": "6a801e5c6db3098c5cb07084",
+      "currentMetaId": "6a801e5c6db3098c5cb07082",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a801e5c6db3098c5cb07083",
+          "name": "网易云音乐(牛听听定制版)",
+          "packageName": "com.benew.ntt.netyun",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 26,
+          "versionName": "1.0.26",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+          "downloads": 204,
+          "createdAt": "2026-08-15T08:07:56.869Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a801e5c6db3098c5cb07084",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a801e5c6db3098c5cb07084",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.benew.ntt.netyun/26/1786746355530.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.benew.ntt.netyun/26/1786746355530.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.GET_TASKS",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.REBOOT",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.REORDER_TASKS",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.GET_TASKS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERACT_ACROSS_USERS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REBOOT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_BOOT_COMPLETED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REORDER_TASKS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "69d784f53737ed64443bd97d",
+          "name": "网易云音乐（手表版）",
+          "packageName": "com.netease.cloudmusic.watch",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.watch/0fba1c864106548b-29106.png",
+          "logoKey": "apk-logos-v2/com.netease.cloudmusic.watch/0fba1c864106548b-29106.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.watch/0fba1c864106548b-29106.png",
+          "category": "music",
+          "tags": [],
+          "description": "网易云音乐小糯米手表版，与小天才版本界面相同，也有免费听，而且没有小天才版的音乐限制,所有歌都能听",
+          "developer": "网易",
+          "versionName": "2.9.106",
+          "versionCode": 29106,
+          "size": 21679007,
+          "apkSize": 21679007,
+          "downloads": 1209,
+          "rating": 4.212121212121212,
+          "ratingCount": 33,
+          "status": "active",
+          "createdAt": "2026-04-09T10:52:37.556Z",
+          "updatedAt": "2026-08-11T06:38:09.656Z",
+          "latestVersionAt": "2026-08-11T06:38:09.656Z",
+          "uploader": {
+            "_id": "6a54d1baa50094624f22bfa7",
+            "username": "Enco",
+            "nickname": "Enco"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d784f53737ed64443bd97d?versionId=6a7ac35186b8a9995793e030"
+        },
+        {
+          "_id": "6a0970e644d220db9ae83609",
+          "name": "网易云音乐 联想深度定制版",
+          "packageName": "com.lenovo.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.lenovo.music/81e94306fad6532a-20018.png",
+          "logoKey": "apk-logos-v2/com.lenovo.music/81e94306fad6532a-20018.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.lenovo.music/81e94306fad6532a-20018.png",
+          "category": "music",
+          "tags": [],
+          "description": "这是网易云音乐联想定制版本，界面更加简洁，能够正常登录，内存占用更小",
+          "developer": "网易",
+          "versionName": "v2.0.18.160304.f610c52",
+          "versionCode": 20018,
+          "size": 27493913,
+          "apkSize": 27493913,
+          "downloads": 294,
+          "rating": 4,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-17T07:40:22.578Z",
+          "updatedAt": "2026-08-08T05:11:09.428Z",
+          "latestVersionAt": "2026-05-17T07:40:22.573Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0970e644d220db9ae83609?versionId=6a0970e644d220db9ae8360b"
+        },
+        {
+          "_id": "6a800d026db3098c5cb06d2b",
+          "name": "网易云音乐极速版",
+          "packageName": "com.netease.cloudmusic.lite",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+          "logoKey": "apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+          "category": "music",
+          "tags": [
+            "网易云音乐",
+            "轻量版",
+            "无广告"
+          ],
+          "description": "网易云音乐极速版是网易官方推出的轻量级音乐播放器，专为追求简洁高效的用户打造。它在保留核心听歌功能的同时，大幅精简了安装包体���，运行更流畅、占用更少资源。\n\n安装包约59.5MB，相比原版大幅瘦身，安装速度快，对手机配置要求低，适合存储空间有限或配置较低的设备。界面方面去除了原版中电台、视频、直播、商城、个性换肤等冗余功能，只保留最核心的听歌模块，操作流畅，减少卡顿。广告也比原版明显更少，听歌体验更纯粹。\n\n核心功能上，千万级正版曲库、智能个性推荐、超6亿个歌单、趣味乐评、超清音质、离线下载、跨设备同步等全部保留，日常听歌完全够用。\n\n与原版的主要区别在于：极速版安装包约59.5MB，原版更大；极速版仅保留核心听歌功能，原版包含直播、视频、商城、播客等；极速版发现页仅推荐歌单、新碟等基础内容，原版有精选、排行榜、VIP、SunoAI等丰富模块；极速版广告较少，原版较多；极速版运行更流畅，原版功能多相对更重。\n\n极速版不支持歌单导入和MV播放功能，如果你经常需要导入外部歌单或看MV，可能需要使用原版。\n\n适合手机存储空间有限装不下原版大体积APP、只想要一个纯粹的听歌工具不需要直播视频等花哨功能、手机配置较低原版运行卡顿、讨厌广告想要更清爽听歌体验的用户。\n但是无法登录 但不影响听歌 在登录界面点击 立即体验 就可以了",
+          "developer": "网易",
+          "versionName": "1.0.0",
+          "versionCode": 1,
+          "size": 61297876,
+          "apkSize": 61297876,
+          "downloads": 296,
+          "rating": 3.5555555555555554,
+          "ratingCount": 9,
+          "status": "active",
+          "createdAt": "2026-08-15T06:53:54.122Z",
+          "updatedAt": "2026-08-15T06:53:54.125Z",
+          "latestVersionAt": "2026-08-15T06:53:54.125Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a800d026db3098c5cb06d2b?versionId=6a800d026db3098c5cb06d2c"
+        },
+        {
+          "_id": "6a26eb9972a92ec23d4befa0",
+          "name": "网易云音乐车载版",
+          "packageName": "com.netease.cloudmusic.iot",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.iot/e41e5d63f98e8164-6003021.png",
+          "logoKey": "apk-logos-v2/com.netease.cloudmusic.iot/e41e5d63f98e8164-6003021.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.iot/e41e5d63f98e8164-6003021.png",
+          "category": "music",
+          "tags": [],
+          "description": "网易云音乐车载版是一款在线音乐播放器",
+          "developer": "网易",
+          "versionName": "6.3.21",
+          "versionCode": 6003021,
+          "size": 59801545,
+          "apkSize": 59801545,
+          "downloads": 119,
+          "rating": 3,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-06-08T16:19:37.231Z",
+          "updatedAt": "2026-09-11T19:42:12.786Z",
+          "latestVersionAt": "2026-09-11T19:42:12.786Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a26eb9972a92ec23d4befa0?versionId=6aa4599463071608c3e4d7d6"
+        },
+        {
+          "_id": "6abe087922bd5273de49953a",
+          "name": "APlayer",
+          "packageName": "remix.myplayer",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoKey": "apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "实用工具"
+          ],
+          "description": "这款应用十分好用，支持多种歌词解析包括内嵌，并且自带均衡器，支持多种音频格式，视觉效果也挺好，就是优化可能比较差，有点小卡",
+          "developer": "Aplayer",
+          "versionName": "2.0.8.0",
+          "versionCode": 20800,
+          "size": 7829465,
+          "apkSize": 7829465,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-10-01T07:15:05.650Z",
+          "updatedAt": "2026-10-01T07:15:05.655Z",
+          "latestVersionAt": "2026-10-01T07:15:05.655Z",
+          "uploader": {
+            "_id": "6abd984f434cd3b951f8f378",
+            "username": "2314265136",
+            "nickname": "猫猫很泪"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6abe087922bd5273de49953a?versionId=6abe087922bd5273de49953b"
+        },
+        {
+          "_id": "6a007696764a5273e6c092dc",
+          "name": "酷我音乐",
+          "packageName": "cn.kuwo.player",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoKey": "apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "category": "music",
+          "tags": [],
+          "description": "破解版，更新版\n请及时更新，旧版会强制弹更新",
+          "developer": "腾讯",
+          "versionName": "12.2.2.0",
+          "versionCode": 12220,
+          "size": 236873648,
+          "apkSize": 236873648,
+          "downloads": 111,
+          "rating": 4.333333333333333,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-05-10T12:14:14.884Z",
+          "updatedAt": "2026-10-01T07:16:30.562Z",
+          "latestVersionAt": "2026-10-01T07:16:30.562Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a007696764a5273e6c092dc?versionId=6abe08ce22bd5273de499568"
+        }
+      ]
+    },
+    "6a800d026db3098c5cb06d2b": {
+      "_id": "6a800d026db3098c5cb06d2b",
+      "name": "网易云音乐极速版",
+      "packageName": "com.netease.cloudmusic.lite",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+      "logoKey": "apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+      "category": "music",
+      "tags": [
+        "网易云音乐",
+        "轻量版",
+        "无广告"
+      ],
+      "description": "网易云音乐极速版是网易官方推出的轻量级音乐播放器，专为追求简洁高效的用户打造。它在保留核心听歌功能的同时，大幅精简了安装包体积，运行更流畅、占用更少资源。\n\n安装包约59.5MB，相比原版大幅瘦身，安装速度快，对手机配置要求低，适合存储空间有限或配置较低的设备。界面方面去除了原版中电台、视频、直播、商城、个性换肤等冗余功能，只保留最核心的听歌模块，操作流畅，减少卡顿。广告也比原版明显更少，听歌体验更纯粹。\n\n核心功能上，千万级正版曲库、智能个性推荐、超6亿个歌单、趣味乐评、超清音质、离线下载、跨设备同步等全部保留，日常听歌完全够用。\n\n与原版的主要区别在于：极速版安装包约59.5MB，原版更大；极速版仅保留核心听歌功能，原版包含直播、视频、商城、播客等；极速版发现页仅推荐歌单、新碟等基础内容，原版有精选、排行榜、VIP、SunoAI等丰富模块；极速版广告较少，原版较多；极速版运行更流畅，原版功能多相对更重。\n\n极速版不支持歌单导入和MV播放功能，如果你经常需要导入外部歌单或看MV，可能需要使用原版。\n\n适合手机存储空间有限装不下原版大体积APP、只想要一个纯粹的听歌工具不需要直播视频等花哨功能、手机配置较低原版运行卡顿、讨厌广告想要更清爽听歌体验的用户。\n但是无法登录 但不影响听歌 在登录界面点击 立即体验 就可以了",
+      "developer": "网易",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "size": 61297876,
+      "apkSize": 61297876,
+      "downloads": 296,
+      "rating": 3.5555555555555554,
+      "ratingCount": 9,
+      "status": "active",
+      "createdAt": "2026-08-15T06:53:54.122Z",
+      "updatedAt": "2026-08-15T06:53:54.125Z",
+      "latestVersionAt": "2026-08-15T06:53:54.125Z",
+      "uploader": {
+        "_id": "6a768c7a4f71c43f9974fbee",
+        "username": "yuchivink",
+        "nickname": "侠义mo",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a800d026db3098c5cb06d2b?versionId=6a800d026db3098c5cb06d2c",
+      "source": "网易",
+      "apkKey": "apks/com.netease.cloudmusic.lite/1/1786768680948.apk",
+      "apkHash": "d0342a46189d432ba6de3c747758bcfb22fe48817c19abd71761f387ec44f2b1",
+      "sha256": "d0342a46189d432ba6de3c747758bcfb22fe48817c19abd71761f387ec44f2b1",
+      "architectures": [
+        "armeabi"
+      ],
+      "minSdk": 21,
+      "targetSdk": 26,
+      "screenshotKeys": [
+        "screenshots/f52c49ab7a6233c756492ab66127a064.jpg",
+        "screenshots/81399d0f70e7a57af2c19c3d3942f216.jpg"
+      ],
+      "currentVersionId": "6a800d026db3098c5cb06d2c",
+      "currentMetaId": "6a800d026db3098c5cb06d2a",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a800d026db3098c5cb06d2b",
+          "name": "网易云音乐极速版",
+          "packageName": "com.netease.cloudmusic.lite",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 1,
+          "versionName": "1.0.0",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.lite/d0342a46189d432b-1.png",
+          "downloads": 296,
+          "createdAt": "2026-08-15T06:53:54.122Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a800d026db3098c5cb06d2c",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a800d026db3098c5cb06d2c",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.netease.cloudmusic.lite/1/1786768680948.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.netease.cloudmusic.lite/1/1786768680948.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        "android.permission.READ_APP_BADGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_LOGS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REORDER_TASKS",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.netease.cloudmusic.lite.permission.DATA_PACKAGE",
+        "com.netease.cloudmusic.permission.OPERATOR_FREE",
+        "com.netease.cloudmusic.permission.PROCESS_PUSH_MSG",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.sec.android.provider.badge.permission.WRITE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_COARSE_LOCATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_FINE_LOCATION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_ADMIN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CAMERA",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.CHANGE_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MODIFY_AUDIO_SETTINGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_APP_BADGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_LOGS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECORD_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REORDER_TASKS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.anddoes.launcher.permission.UPDATE_COUNT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.majeur.launcher.permission.UPDATE_BADGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.netease.cloudmusic.lite.permission.DATA_PACKAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.netease.cloudmusic.permission.OPERATOR_FREE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.netease.cloudmusic.permission.PROCESS_PUSH_MSG",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.sec.android.provider.badge.permission.READ",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.sec.android.provider.badge.permission.WRITE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "69d784f53737ed64443bd97d",
+          "name": "网易云音乐（手表版）",
+          "packageName": "com.netease.cloudmusic.watch",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.watch/0fba1c864106548b-29106.png",
+          "logoKey": "apk-logos-v2/com.netease.cloudmusic.watch/0fba1c864106548b-29106.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.watch/0fba1c864106548b-29106.png",
+          "category": "music",
+          "tags": [],
+          "description": "网易云音乐小糯米手表版，与小天才版本界面相同，也有免费听，而且没有小天才版的音乐限制,所有歌都能听",
+          "developer": "网易",
+          "versionName": "2.9.106",
+          "versionCode": 29106,
+          "size": 21679007,
+          "apkSize": 21679007,
+          "downloads": 1209,
+          "rating": 4.212121212121212,
+          "ratingCount": 33,
+          "status": "active",
+          "createdAt": "2026-04-09T10:52:37.556Z",
+          "updatedAt": "2026-08-11T06:38:09.656Z",
+          "latestVersionAt": "2026-08-11T06:38:09.656Z",
+          "uploader": {
+            "_id": "6a54d1baa50094624f22bfa7",
+            "username": "Enco",
+            "nickname": "Enco"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69d784f53737ed64443bd97d?versionId=6a7ac35186b8a9995793e030"
+        },
+        {
+          "_id": "6a0970e644d220db9ae83609",
+          "name": "网易云音乐 联想深度定制版",
+          "packageName": "com.lenovo.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.lenovo.music/81e94306fad6532a-20018.png",
+          "logoKey": "apk-logos-v2/com.lenovo.music/81e94306fad6532a-20018.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.lenovo.music/81e94306fad6532a-20018.png",
+          "category": "music",
+          "tags": [],
+          "description": "这是网易云音乐联想定制版本，界面更加简洁，能够正常登录，内存占用更小",
+          "developer": "网易",
+          "versionName": "v2.0.18.160304.f610c52",
+          "versionCode": 20018,
+          "size": 27493913,
+          "apkSize": 27493913,
+          "downloads": 294,
+          "rating": 4,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-17T07:40:22.578Z",
+          "updatedAt": "2026-08-08T05:11:09.428Z",
+          "latestVersionAt": "2026-05-17T07:40:22.573Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0970e644d220db9ae83609?versionId=6a0970e644d220db9ae8360b"
+        },
+        {
+          "_id": "6aa456c263071608c3e4d772",
+          "name": "Kanade",
+          "packageName": "com.rcmiku.kanade",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.rcmiku.kanade/5b3b545dfad6b658-23.png",
+          "logoKey": "apk-logos-v2/com.rcmiku.kanade/5b3b545dfad6b658-23.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.rcmiku.kanade/5b3b545dfad6b658-23.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "网易云",
+            "网易云音乐",
+            "music",
+            "kanade"
+          ],
+          "description": "第三方网易云音乐，具有精美的UI设计",
+          "developer": "rcmiku",
+          "versionName": "2.3",
+          "versionCode": 23,
+          "size": 4309121,
+          "apkSize": 4309121,
+          "downloads": 53,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-11T19:30:10.045Z",
+          "updatedAt": "2026-09-11T19:30:10.048Z",
+          "latestVersionAt": "2026-09-11T19:30:10.048Z",
+          "uploader": {
+            "_id": "69eb6b588adc3e3ba13405cb",
+            "username": "YuhangJ",
+            "nickname": "nick"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa456c263071608c3e4d772?versionId=6aa456c263071608c3e4d773"
+        },
+        {
+          "_id": "6a26eb9972a92ec23d4befa0",
+          "name": "网易云音乐车载版",
+          "packageName": "com.netease.cloudmusic.iot",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.iot/e41e5d63f98e8164-6003021.png",
+          "logoKey": "apk-logos-v2/com.netease.cloudmusic.iot/e41e5d63f98e8164-6003021.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.netease.cloudmusic.iot/e41e5d63f98e8164-6003021.png",
+          "category": "music",
+          "tags": [],
+          "description": "网易云音乐车载版是一款在线音乐播放器",
+          "developer": "网易",
+          "versionName": "6.3.21",
+          "versionCode": 6003021,
+          "size": 59801545,
+          "apkSize": 59801545,
+          "downloads": 119,
+          "rating": 3,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-06-08T16:19:37.231Z",
+          "updatedAt": "2026-09-11T19:42:12.786Z",
+          "latestVersionAt": "2026-09-11T19:42:12.786Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a26eb9972a92ec23d4befa0?versionId=6aa4599463071608c3e4d7d6"
+        },
+        {
+          "_id": "6abe087922bd5273de49953a",
+          "name": "APlayer",
+          "packageName": "remix.myplayer",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoKey": "apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "实用工具"
+          ],
+          "description": "这款应用十分好用，支持多种歌词解析包括内嵌，并且自带均衡器，支持多种音频格式，视觉效果也挺好，就是优化可能比较差，有点小卡",
+          "developer": "Aplayer",
+          "versionName": "2.0.8.0",
+          "versionCode": 20800,
+          "size": 7829465,
+          "apkSize": 7829465,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-10-01T07:15:05.650Z",
+          "updatedAt": "2026-10-01T07:15:05.655Z",
+          "latestVersionAt": "2026-10-01T07:15:05.655Z",
+          "uploader": {
+            "_id": "6abd984f434cd3b951f8f378",
+            "username": "2314265136",
+            "nickname": "猫猫很泪"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6abe087922bd5273de49953a?versionId=6abe087922bd5273de49953b"
+        },
+        {
+          "_id": "6a801e5c6db3098c5cb07083",
+          "name": "网易云音乐(牛听听定制版)",
+          "packageName": "com.benew.ntt.netyun",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+          "logoKey": "apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.benew.ntt.netyun/7246c935685549d3-26.png",
+          "category": "music",
+          "tags": [],
+          "description": "从牛听听学习机中提取出来的网易云音乐，有很多功能不能用，但是又有很多新功能能登录账号屏幕最小是1.89英寸最低支持安卓4.4。32位只支持连4g网。无需手动更新音乐库，它会自动更新",
+          "developer": "网易",
+          "versionName": "1.0.26",
+          "versionCode": 26,
+          "size": 9004574,
+          "apkSize": 9004574,
+          "downloads": 204,
+          "rating": 2.75,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-08-15T08:07:56.869Z",
+          "updatedAt": "2026-08-15T08:07:56.872Z",
+          "latestVersionAt": "2026-08-15T08:07:56.872Z",
+          "uploader": {
+            "_id": "6a642c0ca50094624f0234be",
+            "username": "rkk",
+            "nickname": "rkk"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a801e5c6db3098c5cb07083?versionId=6a801e5c6db3098c5cb07084"
+        }
+      ]
+    },
+    "6a7fdd209242e5577406dedc": {
+      "_id": "6a7fdd209242e5577406dedc",
+      "name": "欢律",
+      "packageName": "com.heytap.headset",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.heytap.headset/2afc9e9651ea7434-116009001.png",
+      "logoKey": "apk-logos-v2/com.heytap.headset/2afc9e9651ea7434-116009001.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.heytap.headset/2afc9e9651ea7434-116009001.png",
+      "category": "Tools",
+      "tags": [],
+      "description": "欢律是一款用于管理OPPO与一加耳机的应用软件。耳机连接后，可实时查看左右耳机及耳机盒电量，并提供音效调节、手势自定义、固件OTA升级等功能。",
+      "developer": "OPPO",
+      "versionName": "16.9.1",
+      "versionCode": 116009001,
+      "size": 26748461,
+      "apkSize": 26748461,
+      "downloads": 124,
+      "rating": 1.5,
+      "ratingCount": 2,
+      "status": "active",
+      "createdAt": "2026-08-15T03:29:36.961Z",
+      "updatedAt": "2026-08-15T03:29:36.963Z",
+      "latestVersionAt": "2026-08-15T03:29:36.963Z",
+      "uploader": {
+        "_id": "6a5064bda50094624fbbe7fc",
+        "username": "RobinJBK",
+        "nickname": null,
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a7fdd209242e5577406dedc?versionId=6a7fdd209242e5577406dedd",
+      "source": "HUAWEI AppGallery",
+      "apkKey": "apks/com.heytap.headset/116009001/1786760347867.apk",
+      "apkHash": "2afc9e9651ea743480a3b54bf74d39bbb6f19c156f143b54d41ec26241178f59",
+      "sha256": "2afc9e9651ea743480a3b54bf74d39bbb6f19c156f143b54d41ec26241178f59",
+      "architectures": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "minSdk": 24,
+      "targetSdk": 36,
+      "screenshotKeys": [
+        "screenshots/1d42611ea41e51883b6b57c8f1128d93.jpg",
+        "screenshots/5894c15e2a095c98cfe8f802151d52d4.jpg",
+        "screenshots/467cf4d2c4b3227e5e3b82f744e412e1.jpg"
+      ],
+      "currentVersionId": "6a7fdd209242e5577406dedd",
+      "currentMetaId": "6a7fdd209242e5577406dedb",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a7fdd209242e5577406dedc",
+          "name": "欢律",
+          "packageName": "com.heytap.headset",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 116009001,
+          "versionName": "16.9.1",
+          "status": "active",
+          "iconKey": "apk-logos-v2/com.heytap.headset/2afc9e9651ea7434-116009001.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.heytap.headset/2afc9e9651ea7434-116009001.png",
+          "downloads": 124,
+          "createdAt": "2026-08-15T03:29:36.961Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a7fdd209242e5577406dedd",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a7fdd209242e5577406dedd",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/apks/com.heytap.headset/116009001/1786760347867.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/apks/com.heytap.headset/116009001/1786760347867.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.BLUETOOTH_SCAN",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "com.heytap.headset.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.heytap.headset.permission.COMPONENT_SAFE",
+        "com.oplus.permission.safe.IOT",
+        "com.oplus.permission.safe.LOG",
+        "com.oplus.permission.safe.SECURITY",
+        "heytap.speechassist.permission.ACTIVATE_SPEECH_ASSIST",
+        "oplus.permission.OPLUS_COMPONENT_SAFE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_FINE_LOCATION",
+          "maxSdkVersion": 30,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_ADMIN",
+          "maxSdkVersion": 30,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_CONNECT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.BLUETOOTH_SCAN",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.POST_NOTIFICATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECEIVE_BOOT_COMPLETED",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.RECORD_AUDIO",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.VIBRATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.heytap.headset.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.heytap.headset.permission.COMPONENT_SAFE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.oplus.permission.safe.IOT",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.oplus.permission.safe.LOG",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "com.oplus.permission.safe.SECURITY",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "heytap.speechassist.permission.ACTIVATE_SPEECH_ASSIST",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "oplus.permission.OPLUS_COMPONENT_SAFE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6a9e35dc281a1b0bfce83f53",
+          "name": "ServerBox",
+          "packageName": "tech.lolli.toolbox",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tech.lolli.toolbox/2a2db3cc7a9171f1-171903.png",
+          "logoKey": "apk-logos-v2/tech.lolli.toolbox/2a2db3cc7a9171f1-171903.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/tech.lolli.toolbox/2a2db3cc7a9171f1-171903.png",
+          "category": "Tools",
+          "tags": [
+            "服务器管理",
+            "服务器运维"
+          ],
+          "description": "ServerBox是免费开源的服务器远程管理工具，具备SSH连接、文件传输、服务器性能监控、进程管理、Docker管理等功能，可以帮助你在手机端远程管理服务器。",
+          "developer": "GT-610",
+          "versionName": "1.0.1719",
+          "versionCode": 171903,
+          "size": 38085636,
+          "apkSize": 38085636,
+          "downloads": 76,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-09-07T03:56:12.095Z",
+          "updatedAt": "2026-10-08T03:49:42.847Z",
+          "latestVersionAt": "2026-10-08T03:49:42.847Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a9e35dc281a1b0bfce83f53?versionId=6ac712d6cafe6590f4164c66"
+        },
+        {
+          "_id": "6ab2939566f82c44fb668530",
+          "name": "蓝河工具箱",
+          "packageName": "com.bluestudiocjd.app",
+          "variantKey": "variant-1790051782937",
+          "variantName": "ARM64版本",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoKey": "apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.bluestudiocjd.app/be20c272a1d5ef04-76.png",
+          "category": "Tools",
+          "tags": [
+            "Vivo",
+            "Iqoo",
+            "工具箱",
+            "蓝河"
+          ],
+          "description": "蓝盒工具箱（又名蓝河工具箱）是专为vivo、iQOO机型打造的第三方免ROOT系统优化工具，依托Shizuku授权解锁系统隐藏权限，整合性能调校、系统美化、后台管控、设备检测四大核心模块，主要功能包括全局插帧强制开启高帧率、直驱供电绕过系统充电限制、处理器核心调度手动调整及内存增强等性能优化，应用冻结、自启管理、后台限制、深度清理、通知隐藏及快捷跳转原生设置等系统管理，自定义分辨率、状态栏图标隐藏、色彩风格调节、动画速度调整及设备改名等显示与个性化设置，以及硬件参数查看、APK提取等实用工具，针对OriginOS底层进行深度适配，解决了通用工具无法解锁蓝厂专属隐藏调度与供电限制的问题，能够在不修改系统分区、不影响保修的前提下，实现游戏帧率稳定、发热控制、后台精简及系统流畅度提升，且安装包体积小、无广告、免费使用。",
+          "developer": "陈进东",
+          "versionName": "6.15",
+          "versionCode": 76,
+          "size": 5111110,
+          "apkSize": 5111110,
+          "downloads": 71,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-22T14:41:25.099Z",
+          "updatedAt": "2026-09-22T14:41:25.103Z",
+          "latestVersionAt": "2026-09-22T14:41:25.103Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab2939566f82c44fb668530?versionId=6ab2939566f82c44fb668531"
+        },
+        {
+          "_id": "6ac25780cafe6590f415622d",
+          "name": "OptiX（相机应用）",
+          "packageName": "com.ailife.rotatingcamera",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoKey": "apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.ailife.rotatingcamera/607d294a80820988-110.png",
+          "category": "Tools",
+          "tags": [
+            "摄像软件"
+          ],
+          "description": "一个非常好用的相机应用，内置多种算法并且支持导入算法。功能较为全面，可以有效提升手表和旧手机拍摄照片的效果，虽然实际情况还受硬件影响，但当然是可以改善的。",
+          "developer": "Al LIFE和Sara",
+          "versionName": "6.7.54",
+          "versionCode": 110,
+          "size": 23548282,
+          "apkSize": 23548282,
+          "downloads": 65,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-04T13:41:20.808Z",
+          "updatedAt": "2026-10-04T13:41:20.812Z",
+          "latestVersionAt": "2026-10-04T13:41:20.812Z",
+          "uploader": {
+            "_id": "6abf3c2477ba95606a796c1b",
+            "username": "jtsk",
+            "nickname": "狡兔科技"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac25780cafe6590f415622d?versionId=6ac25780cafe6590f415622e"
+        },
+        {
+          "_id": "6aadddb05a5f65b24006148d",
+          "name": "星海助手",
+          "packageName": "com.stars.app",
+          "variantKey": "variant-1789772852249",
+          "variantName": "ARM64-V8A",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoKey": "apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.stars.app/f1c5d71a9e120432-64.png",
+          "category": "Tools",
+          "tags": [
+            "网盘解析",
+            "实用标签",
+            "免费软件",
+            "无广告",
+            "多功能软件"
+          ],
+          "description": "一个纯免费的网盘解析工具，没有任何广告，并且呢它支持市面上所有网盘的解析，并且知识高速核心速度100兆每秒需要登录使用",
+          "developer": "崩溃的废物(QQ)",
+          "versionName": "2.9.14",
+          "versionCode": 64,
+          "size": 5167881,
+          "apkSize": 5167881,
+          "downloads": 55,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-19T00:56:16.214Z",
+          "updatedAt": "2026-09-19T00:56:16.218Z",
+          "latestVersionAt": "2026-09-19T00:56:16.218Z",
+          "uploader": {
+            "_id": "6a6838f1a50094624ff13620",
+            "username": "annian",
+            "nickname": "安念"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aadddb05a5f65b24006148d?versionId=6aadddb05a5f65b24006148e"
+        },
+        {
+          "_id": "6ac2dd24cafe6590f4157366",
+          "name": "快递100手表版",
+          "packageName": "com.Kingdee.Express.Watch",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.Kingdee.Express.Watch/339582b106e13ddc-1.png",
+          "logoKey": "apk-logos-v2/com.Kingdee.Express.Watch/339582b106e13ddc-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.Kingdee.Express.Watch/339582b106e13ddc-1.png",
+          "category": "Tools",
+          "tags": [
+            "查快递",
+            "快递100",
+            "实用工具"
+          ],
+          "description": "一个提供快递查询，支持多家快递公司和多种设备，满足个人、商家、企业、物流服务商的不同需求。手表查询更为方便。",
+          "developer": "深圳前海百地网络有限公司",
+          "versionName": "1.0.1",
+          "versionCode": 1,
+          "size": 7486423,
+          "apkSize": 7486423,
+          "downloads": 49,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-04T23:11:32.624Z",
+          "updatedAt": "2026-10-04T23:11:32.628Z",
+          "latestVersionAt": "2026-10-04T23:11:32.628Z",
+          "uploader": {
+            "_id": "6abf3bf077ba95606a796c17",
+            "username": "SYSTEM-WIN- ZCX",
+            "nickname": "SYSTEM-WIN- ZCX"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac2dd24cafe6590f4157366?versionId=6ac2dd24cafe6590f4157367"
+        },
+        {
+          "_id": "6aae530d66f82c44fb657baf",
+          "name": "CC网盘",
+          "packageName": "com.cubecute.ccyun",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.cubecute.ccyun/b56f8a6b2277d945-41.png",
+          "logoKey": "apk-logos-v2/com.cubecute.ccyun/b56f8a6b2277d945-41.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.cubecute.ccyun/b56f8a6b2277d945-41.png",
+          "category": "Tools",
+          "tags": [
+            "云盘",
+            "全架构兼容",
+            "超级实用工具"
+          ],
+          "description": "免费强大的智能云盘,最低支持安卓三，全架构支持,非常适合上传各种文件，还有预览功能,欢迎加入QQ群交流，有意者可以捐款.官网:dingandpay.xin",
+          "developer": "MS.ding",
+          "versionName": "6.10",
+          "versionCode": 41,
+          "size": 821120,
+          "apkSize": 821120,
+          "downloads": 48,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-09-19T09:17:01.359Z",
+          "updatedAt": "2026-09-19T09:17:01.362Z",
+          "latestVersionAt": "2026-09-19T09:17:01.362Z",
+          "uploader": {
+            "_id": "6a8ea9e55e00ddbd7ad1de99",
+            "username": "LOKO",
+            "nickname": "LOKO"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aae530d66f82c44fb657baf?versionId=6aae530d66f82c44fb657bb0"
+        }
+      ]
+    },
+    "6a7e567ec183f4821e50b4e8": {
+      "_id": "6a7e567ec183f4821e50b4e8",
+      "name": "清载应用",
+      "packageName": "cn.mysxl.yexiao.qzyy",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.mysxl.yexiao.qzyy/eeac11707efb53df-3.png",
+      "logoKey": "apk-logos-v2/cn.mysxl.yexiao.qzyy/eeac11707efb53df-3.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.mysxl.yexiao.qzyy/eeac11707efb53df-3.png",
+      "category": "Apps",
+      "tags": [],
+      "description": "这是我们开发的一款应用商， 拥有智慧的 AI 搜索、AI 简介与猜你喜欢功能，以及普通应用商店都有的功能。部分手表可能会闪退或无法使用。",
+      "developer": "夜宵开发",
+      "versionName": "1.1.1",
+      "versionCode": 3,
+      "size": 4324527,
+      "apkSize": 4324527,
+      "downloads": 202,
+      "rating": 2.7142857142857144,
+      "ratingCount": 7,
+      "status": "active",
+      "createdAt": "2026-08-13T23:42:54.912Z",
+      "updatedAt": "2026-08-13T23:42:54.914Z",
+      "latestVersionAt": "2026-08-13T23:42:54.914Z",
+      "uploader": {
+        "_id": "6a742d634f71c43f9923bc7b",
+        "username": "yexiao",
+        "nickname": "夜宵",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a7e567ec183f4821e50b4e8?versionId=6a7e567ec183f4821e50b4e9",
+      "source": "原创",
+      "apkKey": "APK/82b2d599-3215-465a-b754-bb57f2ed2495.apk",
+      "apkHash": "eeac11707efb53dfbe197df1f32bbf82296b70bf8be5a796e9165313146bd2b4",
+      "sha256": "eeac11707efb53dfbe197df1f32bbf82296b70bf8be5a796e9165313146bd2b4",
+      "architectures": [],
+      "minSdk": 19,
+      "targetSdk": 29,
+      "screenshotKeys": [],
+      "currentVersionId": "6a7e567ec183f4821e50b4e9",
+      "currentMetaId": "6a7e567ec183f4821e50b4e7",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a7e567ec183f4821e50b4e8",
+          "name": "清载应用",
+          "packageName": "cn.mysxl.yexiao.qzyy",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 3,
+          "versionName": "1.1.1",
+          "status": "active",
+          "iconKey": "apk-logos-v2/cn.mysxl.yexiao.qzyy/eeac11707efb53df-3.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.mysxl.yexiao.qzyy/eeac11707efb53df-3.png",
+          "downloads": 202,
+          "createdAt": "2026-08-13T23:42:54.912Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a7e567ec183f4821e50b4e9",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a7e567ec183f4821e50b4e9",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/82b2d599-3215-465a-b754-bb57f2ed2495.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/82b2d599-3215-465a-b754-bb57f2ed2495.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.MANAGE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_PHONE_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6ab29a9e66f82c44fb668986",
+          "name": "华软商店",
+          "packageName": "com.huadows.store",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huadows.store/b59db0b34f2d3e12-12.png",
+          "logoKey": "apk-logos-v2/com.huadows.store/b59db0b34f2d3e12-12.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huadows.store/b59db0b34f2d3e12-12.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "一款内存超级小的应用商店，应用不多，但是极流畅！",
+          "developer": "未知",
+          "versionName": "1.0.7",
+          "versionCode": 12,
+          "size": 4216709,
+          "apkSize": 4216709,
+          "downloads": 391,
+          "rating": 4,
+          "ratingCount": 8,
+          "status": "active",
+          "createdAt": "2026-09-22T15:11:26.950Z",
+          "updatedAt": "2026-09-22T15:11:26.954Z",
+          "latestVersionAt": "2026-09-22T15:11:26.954Z",
+          "uploader": {
+            "_id": "6aac022bcce755a7bb0144f6",
+            "username": "gyz_123",
+            "nickname": "gyz_123"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab29a9e66f82c44fb668986?versionId=6ab29a9e66f82c44fb668987"
+        },
+        {
+          "_id": "69e3219bcd7e3d62df072ea3",
+          "name": "Lunch",
+          "packageName": "com.dudu.wearlauncher",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.dudu.wearlauncher/f0500775011a878e-10.png",
+          "logoKey": "apk-logos-v2/com.dudu.wearlauncher/f0500775011a878e-10.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.dudu.wearlauncher/f0500775011a878e-10.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "免费，开源，并且支持自定义表盘的手表桌面应用",
+          "developer": "dudu",
+          "versionName": "1.1.5-Stable",
+          "versionCode": 10,
+          "size": 3102518,
+          "apkSize": 3102518,
+          "downloads": 204,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-04-18T06:15:55.184Z",
+          "updatedAt": "2026-04-18T06:15:55.187Z",
+          "latestVersionAt": "2026-04-18T06:15:55.181Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69e3219bcd7e3d62df072ea3?versionId=69e3219bcd7e3d62df072ea5"
+        },
+        {
+          "_id": "6aa4621863071608c3e4d93d",
+          "name": "Droid-ify",
+          "packageName": "com.looker.droidify",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.looker.droidify/741ab4146986a8ff-630.png",
+          "logoKey": "apk-logos-v2/com.looker.droidify/741ab4146986a8ff-630.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.looker.droidify/741ab4146986a8ff-630.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "Droid-ify 是一款专为安卓系统设计的现代化、开源的 F-Droid 客户端应用，它并非 F-Droid 官方客户端，而是由社区开发者基于 F-Droid 协议构建的第三方替代方案，核心目标是提供更美观、更流畅、更符合现代安卓设计语言的使用体验。\n\n备注:因为这个服务器在海外，你刚安装的时候它默认是没有任何应用的 你需要配置到清华源\n配置步骤:打开此app,点右上角三个点，点存储库,点右下角添加存储库,会有4个，从上到下分别是地址，指纹，用户名，密码 因为清华是公开源，所以不用填用户名和密码\n地址那里填: https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/\n（注意最后的斜杠也要填上）\n指纹那里填:43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB\n然后点右上角软盘标志 退出以后点加载按钮，过几秒钟它自己就配置完成了\n配置完成后，如应用截图 就可以下载了",
+          "developer": " Iamlooker",
+          "versionName": "0.6.3",
+          "versionCode": 630,
+          "size": 4173596,
+          "apkSize": 4173596,
+          "downloads": 68,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-09-11T20:18:32.574Z",
+          "updatedAt": "2026-09-11T20:18:32.577Z",
+          "latestVersionAt": "2026-09-11T20:18:32.577Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aa4621863071608c3e4d93d?versionId=6aa4621863071608c3e4d93e"
+        },
+        {
+          "_id": "69da1c4e3fc1e71efb6137cc",
+          "name": "微思应用商店",
+          "packageName": "com.wys.appmarket",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wys.appmarket/6bb35ad55d11be98-4100.png",
+          "logoKey": "apk-logos-v2/com.wys.appmarket/6bb35ad55d11be98-4100.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wys.appmarket/6bb35ad55d11be98-4100.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "微思应用商店经典版重构，全新NT版上线 ！ 底层重构，因兼容而生，完美支持 Android 4.4+ 系统，大小仅3MB，老设备、旧系统也能重获新生！ 深度适配 词典笔（长屏）、安卓手表（方/圆屏） 及 手机，你的每一块屏幕，我们都想到了（后续将更新适配 平板 车机 触屏音响以及TV）\n\n微思应用商店NT V4.1 更新内容\n【新增】\n支持多线程下载 下载速度提升50%\nAPK 支持保存至 Download \n应用信息横向布局开关\n应用详情页上传时间显示\n下载线路页面应用大小\n极速下载线路和额度页面\n\n【优化】\n更换内置证书兼容更多设备\n重构下载任务管理，支持断点续传、多线程和新版本任务替换\n改进应用加载和内存占用\n\n【修复】\n部分应用详情页面异常卡顿问题\n频繁自动退出登录问题\n误报架构不兼容问题\n更新版本后无法重新创建下载任务的问题\n公告轮播标题与内容对应错误的问题\n部分 Android 4.4 设备无法通过校验问题\n旧版设备无法加载图片和下载安装包的额问题\n修复部分已知的闪退问题",
+          "developer": "微思网络",
+          "versionName": "4.1",
+          "versionCode": 4100,
+          "size": 15824356,
+          "apkSize": 15824356,
+          "downloads": 2090,
+          "rating": 4.545454545454546,
+          "ratingCount": 22,
+          "status": "active",
+          "createdAt": "2026-04-11T10:02:54.215Z",
+          "updatedAt": "2026-08-01T05:13:34.138Z",
+          "latestVersionAt": "2026-07-30T04:15:15.501Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da1c4e3fc1e71efb6137cc?versionId=6a6acfd3a50094624f5e4593"
+        },
+        {
+          "_id": "6a0b4843766567fc7eeb55ed",
+          "name": "微思应用商店（CE）",
+          "packageName": "com.qx.wysappmarket",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.wysappmarket/852eaf6256b26aca-3610.png",
+          "logoKey": "apk-logos-v2/com.qx.wysappmarket/852eaf6256b26aca-3610.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.qx.wysappmarket/852eaf6256b26aca-3610.png",
+          "category": "Apps",
+          "tags": [],
+          "description": "微思应用商店 3.6 焕新登场！\n运行飞快，美观更上一层楼。\n历经3个月的等待，从底层到UI大换血；精心雕琢的全新视觉语言，为您的手表增添精致感。",
+          "developer": "微思网络",
+          "versionName": "3.6.1-CE",
+          "versionCode": 3610,
+          "size": 7050038,
+          "apkSize": 7050038,
+          "downloads": 1401,
+          "rating": 4.5,
+          "ratingCount": 18,
+          "status": "active",
+          "createdAt": "2026-05-18T17:11:31.239Z",
+          "updatedAt": "2026-07-20T00:38:05.415Z",
+          "latestVersionAt": "2026-07-04T14:40:26.309Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0b4843766567fc7eeb55ed?versionId=6a491b5adc4eb29bad5894ef"
+        },
+        {
+          "_id": "6a368e32d34e29be5cf9f32c",
+          "name": "灵应用商店",
+          "packageName": "com.huanli233.lingmarket",
+          "variantKey": "variant-1781937173110",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huanli233.lingmarket/0926cf97880c788b-35.png",
+          "logoKey": "apk-logos-v2/com.huanli233.lingmarket/0926cf97880c788b-35.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.huanli233.lingmarket/0926cf97880c788b-35.png",
+          "category": "Apps",
+          "tags": [
+            "ling market"
+          ],
+          "description": "底包:\ncom.huanli233.lingmarket(v1.7.12-fix-UNiVERSE)\n--------------------\n版本摘要：\n-修复基础API\n-修复因断点续传导致的无法下载(Range unsupported HTTP200)\n--------------------\n主要问题：\n大部分界面应用icon不显示\n\n注意：1.本安装包未签名，若有需要，请自行签名后安装。\n2.下载应用出现异常时，在设置中开启后台下载应用。\n--------------------\n永远怀念。\nFixed by fwork",
+          "developer": "huanli233",
+          "versionName": "1.7.12-fix-UNiVERSE(fixed)",
+          "versionCode": 35,
+          "size": 8008449,
+          "apkSize": 8008449,
+          "downloads": 329,
+          "rating": 4.384615384615385,
+          "ratingCount": 13,
+          "status": "active",
+          "createdAt": "2026-06-20T12:57:22.223Z",
+          "updatedAt": "2026-07-29T02:15:00.081Z",
+          "latestVersionAt": "2026-06-20T12:57:22.219Z",
+          "uploader": {
+            "_id": "69e2f967cd7e3d62df05d72c",
+            "username": "Refwork",
+            "nickname": "rose_reveriE"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a368e32d34e29be5cf9f32c?versionId=6a368e32d34e29be5cf9f32e"
+        }
+      ]
+    },
+    "6a7e561dc183f4821e50b4cd": {
+      "_id": "6a7e561dc183f4821e50b4cd",
+      "name": "DinoChrome",
+      "packageName": "im.dnn.dinochrome",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/im.dnn.dinochrome/7534e747811e5c41-20.png",
+      "logoKey": "apk-logos-v2/im.dnn.dinochrome/7534e747811e5c41-20.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/im.dnn.dinochrome/7534e747811e5c41-20.png",
+      "category": "Games",
+      "tags": [],
+      "description": "谷歌浏览器内置的小恐龙游戏不想断网玩的可以下一个",
+      "developer": null,
+      "versionName": "1.4.20",
+      "versionCode": 20,
+      "size": 9517041,
+      "apkSize": 9517041,
+      "downloads": 479,
+      "rating": 4.5,
+      "ratingCount": 4,
+      "status": "active",
+      "createdAt": "2026-08-13T23:41:17.787Z",
+      "updatedAt": "2026-08-13T23:41:17.790Z",
+      "latestVersionAt": "2026-08-13T23:41:17.790Z",
+      "uploader": {
+        "_id": "6a1a947fab7dc62715ca2022",
+        "username": "12345678xzq",
+        "nickname": "117还我命来！！！",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a7e561dc183f4821e50b4cd?versionId=6a7e561dc183f4821e50b4ce",
+      "source": "zh",
+      "apkKey": "APK/f0fe189d-59f4-413d-b91b-1da2561280c0.apk",
+      "apkHash": "7534e747811e5c41e8adaed37a55127a729f75adc503773f994e3a48e438c93e",
+      "sha256": "7534e747811e5c41e8adaed37a55127a729f75adc503773f994e3a48e438c93e",
+      "architectures": [
+        "armeabi-v7a"
+      ],
+      "minSdk": 14,
+      "targetSdk": 19,
+      "screenshotKeys": [],
+      "currentVersionId": "6a7e561dc183f4821e50b4ce",
+      "currentMetaId": "6a7e561dc183f4821e50b4cc",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a7e561dc183f4821e50b4cd",
+          "name": "DinoChrome",
+          "packageName": "im.dnn.dinochrome",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 20,
+          "versionName": "1.4.20",
+          "status": "active",
+          "iconKey": "apk-logos-v2/im.dnn.dinochrome/7534e747811e5c41-20.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/im.dnn.dinochrome/7534e747811e5c41-20.png",
+          "downloads": 479,
+          "createdAt": "2026-08-13T23:41:17.787Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a7e561dc183f4821e50b4ce",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a7e561dc183f4821e50b4ce",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/f0fe189d-59f4-413d-b91b-1da2561280c0.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/f0fe189d-59f4-413d-b91b-1da2561280c0.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6ac473becafe6590f415c6cc",
+          "name": "神庙逃亡",
+          "packageName": "com.imangi.templerun",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": "icons/com.imangi.templerun/8cc6cdd5a5e744ae2fbd03bdbf77784d.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.imangi.templerun/8cc6cdd5a5e744ae2fbd03bdbf77784d.png",
+          "logoKey": "apk-logos-v2/com.imangi.templerun/f13015a437448fbb-51.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.imangi.templerun/f13015a437448fbb-51.png",
+          "category": "Games",
+          "tags": [],
+          "description": "此应用将神庙逃亡1.17版本的玩家材质包和怪物材质包替换成了王小桃和早濑优香",
+          "developer": "B站创作者：大漠神枪",
+          "versionName": "1.17.0",
+          "versionCode": 51,
+          "size": 62334404,
+          "apkSize": 62334404,
+          "downloads": 369,
+          "rating": 5,
+          "ratingCount": 6,
+          "status": "active",
+          "createdAt": "2026-10-06T04:06:22.523Z",
+          "updatedAt": "2026-10-06T04:06:22.527Z",
+          "latestVersionAt": "2026-10-06T04:06:22.527Z",
+          "uploader": {
+            "_id": "6abdf1e1434cd3b951f9041d",
+            "username": "CMY6788乄BA",
+            "nickname": "CMY6788乄BA"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac473becafe6590f415c6cc?versionId=6ac473becafe6590f415c6cd"
+        },
+        {
+          "_id": "6aae52fa66f82c44fb657ba2",
+          "name": "MCPE0.10汉化版",
+          "packageName": "me.mcpe.old.zh_cn.byxwbhhh",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "logoKey": "apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/me.mcpe.old.zh_cn.byxwbhhh/e9b367985483508a-740100501.png",
+          "category": "Games",
+          "tags": [
+            "老游戏移植"
+          ],
+          "description": "MCPE0.10汉化版，作者尽量汉化了部分界面，以及汉化了全部游戏内物品名称，让大家在怀旧的同时不用死磕全英文界面和英文物品，同时进行了逆向重打包，兼容Android 5~Android 14，且支持32位应用的设备游玩",
+          "developer": "Mojang AB",
+          "versionName": "0.10.5",
+          "versionCode": 740100501,
+          "size": 17918890,
+          "apkSize": 17918890,
+          "downloads": 328,
+          "rating": 5,
+          "ratingCount": 8,
+          "status": "active",
+          "createdAt": "2026-09-19T09:16:42.564Z",
+          "updatedAt": "2026-09-19T09:16:42.567Z",
+          "latestVersionAt": "2026-09-19T09:16:42.567Z",
+          "uploader": {
+            "_id": "69ff019c764a5273e6b72ff5",
+            "username": "XWB",
+            "nickname": "xwbhhh"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6aae52fa66f82c44fb657ba2?versionId=6aae52fa66f82c44fb657ba3"
+        },
+        {
+          "_id": "6ac46a65cafe6590f415c50e",
+          "name": "PVZAS（植物大战僵尸全明星版。）",
+          "packageName": "com.pvzcard.pvzlegend.egame",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
+          "logoKey": "apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
+          "category": "Games",
+          "tags": [
+            "Pvz"
+          ],
+          "description": "植物大战僵尸全明星版本的修复版本已破解内购。",
+          "developer": "宝开",
+          "versionName": "2.0.81",
+          "versionCode": 40,
+          "size": 163827304,
+          "apkSize": 163827304,
+          "downloads": 201,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-10-06T03:26:29.115Z",
+          "updatedAt": "2026-10-06T03:26:29.121Z",
+          "latestVersionAt": "2026-10-06T03:26:29.121Z",
+          "uploader": {
+            "_id": "6aa5fae32d630acd3f93627a",
+            "username": "齐正健",
+            "nickname": "333syj"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac46a65cafe6590f415c50e?versionId=6ac46a65cafe6590f415c50f"
+        },
+        {
+          "_id": "6ab7c4229604347aa09b2aed",
+          "name": "幸运硬币",
+          "packageName": "com.gamblestable.xyx",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gamblestable.xyx/8eab91ea6d9a1404-2.png",
+          "logoKey": "apk-logos-v2/com.gamblestable.xyx/8eab91ea6d9a1404-2.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.gamblestable.xyx/8eab91ea6d9a1404-2.png",
+          "category": "Games",
+          "tags": [],
+          "description": "这是一款通过抛硬币来获取金币的小游戏。",
+          "developer": "",
+          "versionName": "0.3.0",
+          "versionCode": 2,
+          "size": 49820894,
+          "apkSize": 49820894,
+          "downloads": 154,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-09-26T13:09:54.375Z",
+          "updatedAt": "2026-09-26T13:09:54.378Z",
+          "latestVersionAt": "2026-09-26T13:09:54.378Z",
+          "uploader": {
+            "_id": "6aa5fae32d630acd3f93627a",
+            "username": "齐正健",
+            "nickname": "333syj"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ab7c4229604347aa09b2aed?versionId=6ab7c4229604347aa09b2aee"
+        },
+        {
+          "_id": "6ac25575cafe6590f4156160",
+          "name": "2D Strike",
+          "packageName": "kz.qqqschulz.strike2dpk",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
+          "logoKey": "apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
+          "category": "Games",
+          "tags": [
+            "射击竞技"
+          ],
+          "description": "玩家将以2d视角与敌人战斗.有多种武器和多种模式可选.玩法简单有趣",
+          "developer": "lvanqSchulz",
+          "versionName": "5.9.6",
+          "versionCode": 62,
+          "size": 11261256,
+          "apkSize": 11261256,
+          "downloads": 72,
+          "rating": 5,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-10-04T13:32:37.453Z",
+          "updatedAt": "2026-10-04T13:32:37.456Z",
+          "latestVersionAt": "2026-10-04T13:32:37.456Z",
+          "uploader": {
+            "_id": "6ab7afef9604347aa09b23bd",
+            "username": "名字",
+            "nickname": "昵称"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac25575cafe6590f4156160?versionId=6ac25575cafe6590f4156161"
+        },
+        {
+          "_id": "6ac5fb8dcafe6590f41616e2",
+          "name": "小桃快跑",
+          "packageName": "com.HBBP.MOMORUN",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.HBBP.MOMORUN/2f1ca03e13862058-1.png",
+          "logoKey": "apk-logos-v2/com.HBBP.MOMORUN/2f1ca03e13862058-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.HBBP.MOMORUN/2f1ca03e13862058-1.png",
+          "category": "Games",
+          "tags": [
+            "BA二创游戏"
+          ],
+          "description": "你可以把这款游戏理解为谷歌小恐龙的材质更改版。这款游戏将大部分材质替换成了蔚蓝档案里面的角色以及道具整体比较抽象",
+          "developer": "B站创作者:黑脑工作室",
+          "versionName": "1.0",
+          "versionCode": 1,
+          "size": 47520552,
+          "apkSize": 47520552,
+          "downloads": 153,
+          "rating": 4.666666666666667,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-10-07T07:58:05.431Z",
+          "updatedAt": "2026-10-07T07:58:05.434Z",
+          "latestVersionAt": "2026-10-07T07:58:05.434Z",
+          "uploader": {
+            "_id": "6abdf1e1434cd3b951f9041d",
+            "username": "CMY6788乄BA",
+            "nickname": "CMY6788乄BA"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac5fb8dcafe6590f41616e2?versionId=6ac5fb8dcafe6590f41616e3"
+        }
+      ]
+    },
+    "6a7e55d0c183f4821e50b4c6": {
+      "_id": "6a7e55d0c183f4821e50b4c6",
+      "name": "LX Music",
+      "packageName": "cn.toside.music.mobile",
+      "variantKey": "default",
+      "variantName": null,
+      "iconKey": null,
+      "iconSource": "parsed",
+      "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.toside.music.mobile/1921170721a6a792-76003.png",
+      "logoKey": "apk-logos-v2/cn.toside.music.mobile/1921170721a6a792-76003.png",
+      "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.toside.music.mobile/1921170721a6a792-76003.png",
+      "category": "music",
+      "tags": [],
+      "description": "落雪音乐官方正版(7月份最新版本)(更新日志里有音源)",
+      "developer": null,
+      "versionName": "1.8.4",
+      "versionCode": 76003,
+      "size": 14031125,
+      "apkSize": 14031125,
+      "downloads": 81,
+      "rating": 0,
+      "ratingCount": 0,
+      "status": "active",
+      "createdAt": "2026-08-13T23:40:00.636Z",
+      "updatedAt": "2026-08-13T23:40:00.639Z",
+      "latestVersionAt": "2026-08-13T23:40:00.639Z",
+      "uploader": {
+        "_id": "6a3e816973c5b6569c669bd3",
+        "username": "HGYG",
+        "nickname": "冬",
+        "avatarUrl": ""
+      },
+      "isApks": false,
+      "downloadUrl": "https://market.ziling.xin/download/6a7e55d0c183f4821e50b4c6?versionId=6a7e55d0c183f4821e50b4c7",
+      "source": null,
+      "apkKey": "APK/b7c1f606-89d0-4966-812a-a7d85760cfc0.apk",
+      "apkHash": "1921170721a6a7929d10c9355f9858aa1bcef9a5fce26cec3907a438f5b2301c",
+      "sha256": "1921170721a6a7929d10c9355f9858aa1bcef9a5fce26cec3907a438f5b2301c",
+      "architectures": [
+        "arm64-v8a"
+      ],
+      "minSdk": 21,
+      "targetSdk": 29,
+      "screenshotKeys": [],
+      "currentVersionId": "6a7e55d0c183f4821e50b4c7",
+      "currentMetaId": "6a7e55d0c183f4821e50b4c5",
+      "versions": [],
+      "variants": [
+        {
+          "_id": "6a7e55d0c183f4821e50b4c6",
+          "name": "LX Music",
+          "packageName": "cn.toside.music.mobile",
+          "variantKey": "default",
+          "variantName": null,
+          "versionCode": 76003,
+          "versionName": "1.8.4",
+          "status": "active",
+          "iconKey": "apk-logos-v2/cn.toside.music.mobile/1921170721a6a792-76003.png",
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.toside.music.mobile/1921170721a6a792-76003.png",
+          "downloads": 81,
+          "createdAt": "2026-08-13T23:40:00.636Z"
+        }
+      ],
+      "downloadLines": [
+        {
+          "name": "服务器直连",
+          "url": "https://market.ziling.xin/download/direct/6a7e55d0c183f4821e50b4c7",
+          "isAvailable": true
+        },
+        {
+          "name": "CF加速线路",
+          "url": "https://market.ziling.xin/download/cf/6a7e55d0c183f4821e50b4c7",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云河南加速线路",
+          "url": "https://files.corexwear.cn:136/file/lingstore/packages/APK/b7c1f606-89d0-4966-812a-a7d85760cfc0.apk",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.ddos.name/apks/APK/b7c1f606-89d0-4966-812a-a7d85760cfc0.apk",
+          "isAvailable": true
+        }
+      ],
+      "auditLog": [],
+      "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "cn.toside.music.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ],
+      "permissionDetails": [
+        {
+          "name": "android.permission.ACCESS_NETWORK_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.ACCESS_WIFI_STATE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.FOREGROUND_SERVICE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.INTERNET",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.READ_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.REQUEST_INSTALL_PACKAGES",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.SYSTEM_ALERT_WINDOW",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WAKE_LOCK",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+          "maxSdkVersion": 0,
+          "required": true
+        },
+        {
+          "name": "cn.toside.music.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+          "maxSdkVersion": 0,
+          "required": true
+        }
+      ],
+      "hasInAppPurchases": false,
+      "iapDescription": null,
+      "recommendedApps": [
+        {
+          "_id": "6abe087922bd5273de49953a",
+          "name": "APlayer",
+          "packageName": "remix.myplayer",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoKey": "apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/remix.myplayer/5f937e88cfc63e21-20800.png",
+          "category": "music",
+          "tags": [
+            "音乐",
+            "实用工具"
+          ],
+          "description": "这款应用十分好用，支持多种歌词解析包括内嵌，并且自带均衡器，支持多种音频格式，视觉效果也挺好，就是优化可能比较差，有点小卡",
+          "developer": "Aplayer",
+          "versionName": "2.0.8.0",
+          "versionCode": 20800,
+          "size": 7829465,
+          "apkSize": 7829465,
+          "downloads": 45,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-10-01T07:15:05.650Z",
+          "updatedAt": "2026-10-01T07:15:05.655Z",
+          "latestVersionAt": "2026-10-01T07:15:05.655Z",
+          "uploader": {
+            "_id": "6abd984f434cd3b951f8f378",
+            "username": "2314265136",
+            "nickname": "猫猫很泪"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6abe087922bd5273de49953a?versionId=6abe087922bd5273de49953b"
+        },
+        {
+          "_id": "6a007696764a5273e6c092dc",
+          "name": "酷我音乐",
+          "packageName": "cn.kuwo.player",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoKey": "apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/cn.kuwo.player/50251119906266d5-12220.png",
+          "category": "music",
+          "tags": [],
+          "description": "破解版，更新版\n请及时更新，旧版会强制弹更新",
+          "developer": "腾讯",
+          "versionName": "12.2.2.0",
+          "versionCode": 12220,
+          "size": 236873648,
+          "apkSize": 236873648,
+          "downloads": 111,
+          "rating": 4.333333333333333,
+          "ratingCount": 3,
+          "status": "active",
+          "createdAt": "2026-05-10T12:14:14.884Z",
+          "updatedAt": "2026-10-01T07:16:30.562Z",
+          "latestVersionAt": "2026-10-01T07:16:30.562Z",
+          "uploader": {
+            "_id": "6a1ad0e3ab7dc62715d55230",
+            "username": "TSZX",
+            "nickname": "TSZX."
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a007696764a5273e6c092dc?versionId=6abe08ce22bd5273de499568"
+        },
+        {
+          "_id": "6a03bc9d4cd6641eea40d9c4",
+          "name": "只音",
+          "packageName": "com.zhiyin.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoKey": "apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zhiyin.music/5b308402cfc45f63-330.png",
+          "category": "music",
+          "tags": [],
+          "description": "只音是一款轻量级、无广告的第三方音乐播放器，现在不需要输入密码就可使用，可以导入酷狗歌单\n\n聚合了抖音、酷狗、网易云、QQ音乐等多个平台，可以免费收听高品质音乐和下载音乐",
+          "developer": null,
+          "versionName": "3.3.0",
+          "versionCode": 330,
+          "size": 13908526,
+          "apkSize": 13908526,
+          "downloads": 220,
+          "rating": 5,
+          "ratingCount": 5,
+          "status": "active",
+          "createdAt": "2026-05-12T23:49:49.796Z",
+          "updatedAt": "2026-07-21T04:12:50.528Z",
+          "latestVersionAt": "2026-05-12T23:49:49.732Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03bc9d4cd6641eea40d9c4?versionId=6a03bc9d4cd6641eea40d9c6"
+        },
+        {
+          "_id": "6a02d4df764a5273e6d0375d",
+          "name": "emusic",
+          "packageName": "com.mcl.emosic",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoKey": "apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.mcl.emosic/5617b8b725584860-17.png",
+          "category": "music",
+          "tags": [],
+          "description": "emusic是mcl0开发的一款 轻 小 快的免费音乐播放器!!(真的超级小！)\n主要特点: 离线播放 TTML支持 动画 方便 免费 下载即用 网易云歌单同步 类coverflow 多音乐源\n对手表/手机 界面都在一个app内!",
+          "developer": "mcl0",
+          "versionName": "1.7",
+          "versionCode": 17,
+          "size": 495758,
+          "apkSize": 495758,
+          "downloads": 207,
+          "rating": 5,
+          "ratingCount": 2,
+          "status": "active",
+          "createdAt": "2026-05-12T07:21:03.840Z",
+          "updatedAt": "2026-07-16T16:24:44.864Z",
+          "latestVersionAt": "2026-06-08T11:17:38.516Z",
+          "uploader": {
+            "_id": "6a2677b372a92ec23d0ef13d",
+            "username": "lwh_hwl",
+            "nickname": "老刘刘老"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a02d4df764a5273e6d0375d?versionId=6a26a4d272a92ec23d25b2c5"
+        },
+        {
+          "_id": "69da21e93fc1e71efb61483f",
+          "name": "抬腕听歌简洁版",
+          "packageName": "com.hankmi.wearmusic.lite",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoKey": "apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.hankmi.wearmusic.lite/757df18c7dc30141-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "抬腕听歌简洁版，一款只保留听歌的简洁软件，提供扫描，查询，播放等功能。\n\nAndroid11不支持全盘扫描。",
+          "developer": "hankmi",
+          "versionName": "1.0",
+          "versionCode": 1,
+          "size": 142502,
+          "apkSize": 142502,
+          "downloads": 193,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-04-11T10:26:49.596Z",
+          "updatedAt": "2026-08-08T10:46:18.480Z",
+          "latestVersionAt": "2026-04-11T10:26:49.594Z",
+          "uploader": {
+            "_id": "69d6642425674e3066734d64",
+            "username": "helloworld",
+            "nickname": "helloworld"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/69da21e93fc1e71efb61483f?versionId=69da21e93fc1e71efb614841"
+        },
+        {
+          "_id": "6a03c5994cd6641eea41038c",
+          "name": "MeloYou",
+          "packageName": "com.music",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoKey": "apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.music/59451ac2104ca5bc-1.png",
+          "category": "music",
+          "tags": [],
+          "description": "一款可以免费收听，下载网易云，酷狗，酷我等渠道音乐的软件，可以导入酷狗歌单",
+          "developer": "瓜瓜",
+          "versionName": "1.4.2",
+          "versionCode": 1,
+          "size": 15205134,
+          "apkSize": 15205134,
+          "downloads": 156,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-13T00:28:09.916Z",
+          "updatedAt": "2026-05-18T22:58:07.637Z",
+          "latestVersionAt": "2026-05-13T00:28:09.912Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a03c5994cd6641eea41038c?versionId=6a03c5994cd6641eea41038e"
         }
       ]
     }
