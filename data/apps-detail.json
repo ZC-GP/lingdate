@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T00:08:17.972Z",
+  "updatedAt": "2026-11-03T22:39:24.074Z",
   "totalApps": 1008,
   "detailCount": 776,
   "cycleDay": 36,
@@ -11808,7 +11808,7 @@
       "versionCode": 21,
       "size": 11090032,
       "apkSize": 11090032,
-      "downloads": 459,
+      "downloads": 463,
       "rating": 1.9090909090909092,
       "ratingCount": 11,
       "status": "active",
@@ -11849,7 +11849,7 @@
           "iconKey": "apk-logos-v2/com.tencent.qqmusicwatch/05dc2d12990cfea9-21.png",
           "iconSource": "parsed",
           "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.tencent.qqmusicwatch/05dc2d12990cfea9-21.png",
-          "downloads": 459,
+          "downloads": 463,
           "createdAt": "2026-06-19T13:27:44.163Z"
         }
       ],
@@ -11862,6 +11862,11 @@
         {
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a3543d0d34e29be5c5324a1",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/a24b990a-0026-4e8f-8b61-a8013b31aea2.apk",
           "isAvailable": true
         }
       ],
@@ -11979,7 +11984,7 @@
           "versionCode": 3,
           "size": 21881722,
           "apkSize": 21881722,
-          "downloads": 638,
+          "downloads": 646,
           "rating": 5,
           "ratingCount": 16,
           "status": "active",
@@ -12017,7 +12022,7 @@
           "versionCode": 29106,
           "size": 21679007,
           "apkSize": 21679007,
-          "downloads": 1556,
+          "downloads": 1569,
           "rating": 4.243243243243243,
           "ratingCount": 37,
           "status": "active",
@@ -12051,7 +12056,7 @@
           "versionCode": 330,
           "size": 13908526,
           "apkSize": 13908526,
-          "downloads": 230,
+          "downloads": 231,
           "rating": 5,
           "ratingCount": 5,
           "status": "active",
@@ -12085,7 +12090,7 @@
           "versionCode": 1,
           "size": 142502,
           "apkSize": 142502,
-          "downloads": 215,
+          "downloads": 218,
           "rating": 5,
           "ratingCount": 2,
           "status": "active",
@@ -12119,7 +12124,7 @@
           "versionCode": 17,
           "size": 495758,
           "apkSize": 495758,
-          "downloads": 213,
+          "downloads": 214,
           "rating": 5,
           "ratingCount": 2,
           "status": "active",
@@ -23076,6 +23081,11 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a2bc27472a92ec23d7aaa7d",
           "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/9ec97ac1-522a-46c2-9c17-a74eb266f92b.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
@@ -23265,7 +23275,7 @@
           "versionCode": 8,
           "size": 2447628,
           "apkSize": 2447628,
-          "downloads": 172,
+          "downloads": 173,
           "rating": 4.833333333333333,
           "ratingCount": 6,
           "status": "active",
@@ -23917,6 +23927,11 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a2a5da272a92ec23dc5d05c",
           "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/8680580a-b204-4e58-80ce-54d35a5112e5.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
@@ -23982,7 +23997,7 @@
           "versionCode": 51,
           "size": 62334404,
           "apkSize": 62334404,
-          "downloads": 602,
+          "downloads": 615,
           "rating": 5,
           "ratingCount": 9,
           "status": "active",
@@ -23996,78 +24011,6 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ac473becafe6590f415c6cc?versionId=6ac473becafe6590f415c6cd"
-        },
-        {
-          "_id": "6ac46a65cafe6590f415c50e",
-          "name": "PVZAS（植物大战僵尸全明星版。）",
-          "packageName": "com.pvzcard.pvzlegend.egame",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoKey": "apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "category": "Games",
-          "tags": [
-            "Pvz"
-          ],
-          "description": "植物大战僵尸全明星版本的修复版本已破解内购。",
-          "developer": "宝开",
-          "versionName": "2.0.81",
-          "versionCode": 40,
-          "size": 163827304,
-          "apkSize": 163827304,
-          "downloads": 499,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-06T03:26:29.115Z",
-          "updatedAt": "2026-10-06T03:26:29.121Z",
-          "latestVersionAt": "2026-10-06T03:26:29.121Z",
-          "uploader": {
-            "_id": "6aa5fae32d630acd3f93627a",
-            "username": "齐正健",
-            "nickname": "333syj"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac46a65cafe6590f415c50e?versionId=6ac46a65cafe6590f415c50f"
-        },
-        {
-          "_id": "6ac25575cafe6590f4156160",
-          "name": "2D Strike",
-          "packageName": "kz.qqqschulz.strike2dpk",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoKey": "apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "category": "Games",
-          "tags": [
-            "射击竞技"
-          ],
-          "description": "玩家将以2d视角与敌人战斗.有多种武器和多种模式可选.玩法简单有趣",
-          "developer": "lvanqSchulz",
-          "versionName": "5.9.6",
-          "versionCode": 62,
-          "size": 11261256,
-          "apkSize": 11261256,
-          "downloads": 140,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-04T13:32:37.453Z",
-          "updatedAt": "2026-10-04T13:32:37.456Z",
-          "latestVersionAt": "2026-10-04T13:32:37.456Z",
-          "uploader": {
-            "_id": "6ab7afef9604347aa09b23bd",
-            "username": "名字",
-            "nickname": "昵称"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac25575cafe6590f4156160?versionId=6ac25575cafe6590f4156161"
         },
         {
           "_id": "6ac5fb8dcafe6590f41616e2",
@@ -24090,7 +24033,7 @@
           "versionCode": 1,
           "size": 47520552,
           "apkSize": 47520552,
-          "downloads": 237,
+          "downloads": 244,
           "rating": 4.666666666666667,
           "ratingCount": 3,
           "status": "active",
@@ -24126,7 +24069,7 @@
           "versionCode": 2026100600,
           "size": 127809417,
           "apkSize": 127809417,
-          "downloads": 223,
+          "downloads": 224,
           "rating": 4.666666666666667,
           "ratingCount": 6,
           "status": "active",
@@ -24160,7 +24103,7 @@
             "扫雷",
             "道扫雷"
           ],
-          "description": "道扫雷是一款从初三手绘一路做到高二代码化的独立扫雷小游戏。在经典玩法基础上加入了防御值、雷币、特殊雷、道具等内容，支持双击翻格、长按插旗、方向键微调等操作，手表和手机都能顺畅游玩。",
+          "description": "道扫雷是一款从初三手绘一路做到高二代码化的独立扫雷小游戏。在经典玩法基��上加入了防御值、雷币、特殊雷、道具等内容，支持双击翻格、长按插旗、方向键微调等操作，手表和手机都能顺畅游玩。",
           "developer": "QTDYD",
           "versionName": "1.2.0",
           "versionCode": 2026101001,
@@ -24180,6 +24123,76 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ab292fd66f82c44fb6684b7?versionId=6ad4e594616bbdb68a12d483"
+        },
+        {
+          "_id": "6ac42cc8cafe6590f415b6d5",
+          "name": "FlatMC",
+          "packageName": "com.BoYanEZ",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoKey": "apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "category": "Games",
+          "tags": [
+            "沙盒像素风格的游戏。"
+          ],
+          "description": "2D版的MC。目前版本在贝塔0.5之后嘛没有太多内容，但是增加了一点内容。",
+          "developer": "薄言EZ",
+          "versionName": "0.5.0_beta",
+          "versionCode": 1,
+          "size": 52922425,
+          "apkSize": 52922425,
+          "downloads": 407,
+          "rating": 4.285714285714286,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-10-05T23:03:36.893Z",
+          "updatedAt": "2026-10-05T23:03:36.897Z",
+          "latestVersionAt": "2026-10-05T23:03:36.897Z",
+          "uploader": {
+            "_id": "6a9d0964e511a3aa8f914456",
+            "username": "21",
+            "nickname": "21"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac42cc8cafe6590f415b6d5?versionId=6ac42cc8cafe6590f415b6d6"
+        },
+        {
+          "_id": "6a0176c8764a5273e6c7686d",
+          "name": "滑雪大冒险",
+          "packageName": "com.yodo1tier1.skiwest.telecom",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": "icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "logoKey": "apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "category": "Games",
+          "tags": [],
+          "description": "《滑雪大冒险》是一款由Yodo1开发的跑酷类手机游戏，玩家在雪崩中逃生，体验刺激的滑雪冒险。\n\n该版本为西游版，全新地图“天竺行”，风火轮、猪八戒、孙悟空、白龙马等全新载具。\n\n内购破解，商店付费一键购买，可购买全地图。词典笔等长屏设备很合适，视野超大。",
+          "developer": "游道易",
+          "versionName": "2.1.2",
+          "versionCode": 1000,
+          "size": 24696578,
+          "apkSize": 24696578,
+          "downloads": 584,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-11T06:27:20.288Z",
+          "updatedAt": "2026-07-28T10:04:21.849Z",
+          "latestVersionAt": "2026-05-11T06:27:20.284Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0176c8764a5273e6c7686d?versionId=6a0176c8764a5273e6c7686f"
         }
       ]
     },
@@ -24830,7 +24843,7 @@
       "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.liuzh.deviceinfo/0765c57dadaa96b7-334.png",
       "category": "Tools",
       "tags": [],
-      "description": "酷安专供版，可关闭广告\n\n设备信息App可以查看安卓OS以及鸿蒙OS设备的详细信息，包括系统、硬件、软件信息。还可以对硬件进行测试。让你对自己的设备了如指掌。\n 定位卫星/卫星图查看\n查看卫星分布图，查看导航卫星系统搜索到的卫星具体情况\n 存储分析\n快速查找冗余文件，重复文件和大文件以释放更多存储空间\n 应用分析\n目标sdk，更小sdk，应用程序安装程序，原生库，对手机中的应用程序进行全面的物理检查!\n 设备测试\n屏幕测试，按钮测试，传感器测试，以查看手机上硬件是否一切正常\n 应用详情\n活动，服务，广播接收者，权限，查看AndroidManifest.xml，可以看到该应用程序的所有详细信息\n 管理应用\n导出应用程���图标，导出应用程序APK，共享应用程序，卸载应用程序，这非常方便您对应用程序执行任何操作\n- 悬浮监测器\n通过浮窗实时的监测设备状态，如fps、电流电压、cpu状态、信号强度等\n- 详尽的设备信息\n查看关于设备、系统、软件和硬件的详细信息\nAPP备案号：沪ICP备2021018942号-2A",
+      "description": "酷安专供版，可关闭广告\n\n设备信息App可以查看安卓OS以及鸿蒙OS设备的详细信息，包括系统、硬件、软件信息。还可以对硬件进行测试。让你对自己的设备了如指掌。\n 定位卫星/卫星图查看\n查看卫星分布图，查看导航卫星系统搜索到的卫星具体情况\n 存储分析\n快速查找冗余文件，重复文件和大文件以释放更多存储空间\n 应用分析\n目标sdk，更小sdk，应用程序安装程序，原生库，对手机中的应用程序进行全面的物理检查!\n 设备测试\n屏幕测试，按钮测试，传感器测试，以查看手机上硬件是否一切正常\n 应用详情\n活动，服务，广播接收者，权限，查看AndroidManifest.xml，可以看到该应用程序的所有详细信息\n 管理应用\n导出应用程序图标，导出应用程序APK，共享应用程序，卸载应用程序，这非常方便您对应用程序执行任何操作\n- 悬浮监测器\n通过浮窗实时的监测设备状态，如fps、电流电压、cpu状态、信号强度等\n- 详尽的设备信息\n查看关于设备、系统、软件和硬件的详细信息\nAPP��案号：沪ICP备2021018942号-2A",
       "developer": "上海流舟科技有限公司",
       "versionName": "v3.1.0.6",
       "versionCode": 334,
@@ -24894,6 +24907,11 @@
         {
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a2a1ace72a92ec23d9a9469",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/96938a52-ae57-4a9e-954c-018b33d21258.apk",
           "isAvailable": true
         }
       ],
@@ -25165,13 +25183,13 @@
           "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xiaomi.xiaoailite/95d55f1875b12e3c-102012000.png",
           "category": "Tools",
           "tags": [],
-          "description": "经实测，除深度定制阉割过的系统外，都可流畅使用可（仅限安卓）\n此为旧版，但依然可以定闹钟，打开应用后台语音唤醒等",
+          "description": "经实测，除深度定制阉割过的系统外，都可流畅使用可（仅限安卓）\n此为旧版，但依然可以定闹钟，打开应用后台语音唤���等",
           "developer": "小米通讯技术有限公司",
           "versionName": "2.12.00",
           "versionCode": 102012000,
           "size": 81280167,
           "apkSize": 81280167,
-          "downloads": 116,
+          "downloads": 117,
           "rating": 5,
           "ratingCount": 1,
           "status": "active",
@@ -25202,7 +25220,7 @@
             "服务器管理",
             "服务器运维"
           ],
-          "description": "ServerBox是免费开源的服务器远程管理工具，具备SSH连接、文件传输���服务器性能监控、进程管理、Docker管理等功能，可以帮助你在手机端远程管理服务器。",
+          "description": "ServerBox是免费开源的服务器远程管理工具，具备SSH连接、文件传输、服务器性能监控、进程管理、Docker管理等功能，可以帮助你在手机端远程管理服务器。",
           "developer": "GT-610",
           "versionName": "1.0.1719",
           "versionCode": 171903,
@@ -25244,7 +25262,7 @@
           "versionCode": 699454722,
           "size": 46762015,
           "apkSize": 46762015,
-          "downloads": 63,
+          "downloads": 67,
           "rating": 5,
           "ratingCount": 1,
           "status": "active",
@@ -25314,7 +25332,7 @@
           "versionCode": 5310,
           "size": 70285024,
           "apkSize": 70285024,
-          "downloads": 38,
+          "downloads": 39,
           "rating": 5,
           "ratingCount": 5,
           "status": "active",
@@ -32928,6 +32946,11 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a242164a0f0d755270b284e",
           "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/0bf8d5f4-3f99-4277-8c84-d087c02d9c18.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
@@ -33000,13 +33023,13 @@
           "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.xiaomi.xiaoailite/95d55f1875b12e3c-102012000.png",
           "category": "Tools",
           "tags": [],
-          "description": "经实测，除深度定制阉割过的系统外，都可流畅使用可（仅限安卓）\n此为旧版，但依然可以定闹钟，打开应用后台语音唤醒等",
+          "description": "经实测，除深度定制阉割过的系��外，都可流畅使用可（仅限安卓）\n此为旧版，但依然可以定闹钟，打开应用后台语音唤醒等",
           "developer": "小米通讯技术有限公司",
           "versionName": "2.12.00",
           "versionCode": 102012000,
           "size": 81280167,
           "apkSize": 81280167,
-          "downloads": 116,
+          "downloads": 117,
           "rating": 5,
           "ratingCount": 1,
           "status": "active",
@@ -33035,9 +33058,9 @@
           "category": "Tools",
           "tags": [
             "服务器管理",
-            "��务器运维"
+            "服务器运维"
           ],
-          "description": "ServerBox是免费开源的服务器远程管理工具，具备SSH连接、文件传输、服务器性能监控、进程管理、Docker管理等功能，可以帮助你在手机端远程管理服务器。",
+          "description": "ServerBox是免费开源的服务器远程管理工具，具备SSH连接、文件传输、服务器性能监控、进程管理、Docker管理等功能，可以帮助你在手机���远程管理服务器。",
           "developer": "GT-610",
           "versionName": "1.0.1719",
           "versionCode": 171903,
@@ -33079,7 +33102,7 @@
           "versionCode": 699454722,
           "size": 46762015,
           "apkSize": 46762015,
-          "downloads": 63,
+          "downloads": 67,
           "rating": 5,
           "ratingCount": 1,
           "status": "active",
@@ -33149,7 +33172,7 @@
           "versionCode": 5310,
           "size": 70285024,
           "apkSize": 70285024,
-          "downloads": 38,
+          "downloads": 39,
           "rating": 5,
           "ratingCount": 5,
           "status": "active",
@@ -56483,6 +56506,11 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a163318ab7dc62715384188",
           "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/90a8e3eb-3d11-488d-bc3d-9c6eb9677d29.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
@@ -56608,7 +56636,7 @@
           "versionCode": 51,
           "size": 62334404,
           "apkSize": 62334404,
-          "downloads": 602,
+          "downloads": 615,
           "rating": 5,
           "ratingCount": 9,
           "status": "active",
@@ -56622,78 +56650,6 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ac473becafe6590f415c6cc?versionId=6ac473becafe6590f415c6cd"
-        },
-        {
-          "_id": "6ac46a65cafe6590f415c50e",
-          "name": "PVZAS（植物大战僵尸全明星版。）",
-          "packageName": "com.pvzcard.pvzlegend.egame",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoKey": "apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "category": "Games",
-          "tags": [
-            "Pvz"
-          ],
-          "description": "植物大战僵尸全明星版本的修复版本已破解内购。",
-          "developer": "宝开",
-          "versionName": "2.0.81",
-          "versionCode": 40,
-          "size": 163827304,
-          "apkSize": 163827304,
-          "downloads": 499,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-06T03:26:29.115Z",
-          "updatedAt": "2026-10-06T03:26:29.121Z",
-          "latestVersionAt": "2026-10-06T03:26:29.121Z",
-          "uploader": {
-            "_id": "6aa5fae32d630acd3f93627a",
-            "username": "齐正健",
-            "nickname": "333syj"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac46a65cafe6590f415c50e?versionId=6ac46a65cafe6590f415c50f"
-        },
-        {
-          "_id": "6ac25575cafe6590f4156160",
-          "name": "2D Strike",
-          "packageName": "kz.qqqschulz.strike2dpk",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoKey": "apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "category": "Games",
-          "tags": [
-            "射击竞技"
-          ],
-          "description": "玩家将以2d视角与敌人战斗.有多种武器和多种模式可选.玩法简单有趣",
-          "developer": "lvanqSchulz",
-          "versionName": "5.9.6",
-          "versionCode": 62,
-          "size": 11261256,
-          "apkSize": 11261256,
-          "downloads": 140,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-04T13:32:37.453Z",
-          "updatedAt": "2026-10-04T13:32:37.456Z",
-          "latestVersionAt": "2026-10-04T13:32:37.456Z",
-          "uploader": {
-            "_id": "6ab7afef9604347aa09b23bd",
-            "username": "名字",
-            "nickname": "昵称"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac25575cafe6590f4156160?versionId=6ac25575cafe6590f4156161"
         },
         {
           "_id": "6ac5fb8dcafe6590f41616e2",
@@ -56716,7 +56672,7 @@
           "versionCode": 1,
           "size": 47520552,
           "apkSize": 47520552,
-          "downloads": 237,
+          "downloads": 244,
           "rating": 4.666666666666667,
           "ratingCount": 3,
           "status": "active",
@@ -56752,7 +56708,7 @@
           "versionCode": 2026100600,
           "size": 127809417,
           "apkSize": 127809417,
-          "downloads": 223,
+          "downloads": 224,
           "rating": 4.666666666666667,
           "ratingCount": 6,
           "status": "active",
@@ -56806,6 +56762,76 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ab292fd66f82c44fb6684b7?versionId=6ad4e594616bbdb68a12d483"
+        },
+        {
+          "_id": "6ac42cc8cafe6590f415b6d5",
+          "name": "FlatMC",
+          "packageName": "com.BoYanEZ",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoKey": "apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "category": "Games",
+          "tags": [
+            "沙盒像素风格的游戏。"
+          ],
+          "description": "2D版的MC。目前版本在贝塔0.5之后嘛没有太多内容，但是增加了一点内容。",
+          "developer": "薄言EZ",
+          "versionName": "0.5.0_beta",
+          "versionCode": 1,
+          "size": 52922425,
+          "apkSize": 52922425,
+          "downloads": 407,
+          "rating": 4.285714285714286,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-10-05T23:03:36.893Z",
+          "updatedAt": "2026-10-05T23:03:36.897Z",
+          "latestVersionAt": "2026-10-05T23:03:36.897Z",
+          "uploader": {
+            "_id": "6a9d0964e511a3aa8f914456",
+            "username": "21",
+            "nickname": "21"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac42cc8cafe6590f415b6d5?versionId=6ac42cc8cafe6590f415b6d6"
+        },
+        {
+          "_id": "6a0176c8764a5273e6c7686d",
+          "name": "滑雪大冒险",
+          "packageName": "com.yodo1tier1.skiwest.telecom",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": "icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "logoKey": "apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "category": "Games",
+          "tags": [],
+          "description": "《滑雪大冒险》是一款由Yodo1开发的跑酷类手机游戏，玩家在雪崩中逃生，体验刺激的滑雪冒险。\n\n该版本为西游版，全新地图“天竺行”，风火轮、猪八戒、孙悟空、白龙马等全新载具。\n\n内购破解，商店付费一键购买，可购买全地图。词典笔等长屏设备很合适，视野超大。",
+          "developer": "游道易",
+          "versionName": "2.1.2",
+          "versionCode": 1000,
+          "size": 24696578,
+          "apkSize": 24696578,
+          "downloads": 584,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-11T06:27:20.288Z",
+          "updatedAt": "2026-07-28T10:04:21.849Z",
+          "latestVersionAt": "2026-05-11T06:27:20.284Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0176c8764a5273e6c7686d?versionId=6a0176c8764a5273e6c7686f"
         }
       ]
     },
@@ -60667,7 +60693,7 @@
       "versionCode": 1504,
       "size": 18449866,
       "apkSize": 18449866,
-      "downloads": 334,
+      "downloads": 335,
       "rating": 4.2,
       "ratingCount": 5,
       "status": "active",
@@ -60708,7 +60734,7 @@
           "iconKey": "apk-logos-v2/com.halfbrick.fruitninjahd/8b920ca0fadbf877-1504.png",
           "iconSource": "parsed",
           "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.halfbrick.fruitninjahd/8b920ca0fadbf877-1504.png",
-          "downloads": 334,
+          "downloads": 335,
           "createdAt": "2026-05-22T15:09:39.284Z"
         }
       ],
@@ -60721,6 +60747,11 @@
         {
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a1071b3766567fc7e51d8f6",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/fd554c01-55a4-46f4-b4da-a0d5fac3f54e.apk",
           "isAvailable": true
         }
       ],
@@ -60757,7 +60788,7 @@
           "versionCode": 51,
           "size": 62334404,
           "apkSize": 62334404,
-          "downloads": 602,
+          "downloads": 615,
           "rating": 5,
           "ratingCount": 9,
           "status": "active",
@@ -60771,78 +60802,6 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ac473becafe6590f415c6cc?versionId=6ac473becafe6590f415c6cd"
-        },
-        {
-          "_id": "6ac46a65cafe6590f415c50e",
-          "name": "PVZAS（植物大战僵尸全明星版。）",
-          "packageName": "com.pvzcard.pvzlegend.egame",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoKey": "apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "category": "Games",
-          "tags": [
-            "Pvz"
-          ],
-          "description": "植物大战僵尸全明星版本的修复版本已破解内购。",
-          "developer": "宝开",
-          "versionName": "2.0.81",
-          "versionCode": 40,
-          "size": 163827304,
-          "apkSize": 163827304,
-          "downloads": 499,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-06T03:26:29.115Z",
-          "updatedAt": "2026-10-06T03:26:29.121Z",
-          "latestVersionAt": "2026-10-06T03:26:29.121Z",
-          "uploader": {
-            "_id": "6aa5fae32d630acd3f93627a",
-            "username": "齐正健",
-            "nickname": "333syj"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac46a65cafe6590f415c50e?versionId=6ac46a65cafe6590f415c50f"
-        },
-        {
-          "_id": "6ac25575cafe6590f4156160",
-          "name": "2D Strike",
-          "packageName": "kz.qqqschulz.strike2dpk",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoKey": "apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "category": "Games",
-          "tags": [
-            "射击竞技"
-          ],
-          "description": "玩家将以2d视角与敌人战斗.有多种武器和多种模式可选.玩法简单有趣",
-          "developer": "lvanqSchulz",
-          "versionName": "5.9.6",
-          "versionCode": 62,
-          "size": 11261256,
-          "apkSize": 11261256,
-          "downloads": 140,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-04T13:32:37.453Z",
-          "updatedAt": "2026-10-04T13:32:37.456Z",
-          "latestVersionAt": "2026-10-04T13:32:37.456Z",
-          "uploader": {
-            "_id": "6ab7afef9604347aa09b23bd",
-            "username": "名字",
-            "nickname": "昵称"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac25575cafe6590f4156160?versionId=6ac25575cafe6590f4156161"
         },
         {
           "_id": "6ac5fb8dcafe6590f41616e2",
@@ -60865,7 +60824,7 @@
           "versionCode": 1,
           "size": 47520552,
           "apkSize": 47520552,
-          "downloads": 237,
+          "downloads": 244,
           "rating": 4.666666666666667,
           "ratingCount": 3,
           "status": "active",
@@ -60895,13 +60854,13 @@
           "tags": [
             "roguelike rpg"
           ],
-          "description": "魔绫的像素地牢是一款像素风格的随机地牢冒险游戏，玩家将以战士、法师等不同职业踏入充满未知的地牢，体验回合制战斗、随机武器掉落、丰富道具系统与成长养成所带来的多层策略乐趣。魔绫的像素地牢游戏中每次冒险的地图、敌人与奖励都会完全不同，既考验操作，也考验资源管理与职业搭配，让玩���在奇幻与危机并存的迷宫中不断突破自我，体验Roguelike探索的独特魅力。\n\n游戏特色\n1、地牢中充满来自恶魔深处的扭曲生物！请小心行事！\n\n2、当绝望降临到你身上的时候，你会知道什么叫做无助。\n\n3、挥舞手中的法杖，释放出绫火的力量，还可以合成魔杖哦！\n\n4、各种全新药剂，让你吐出龙王吐息！当然还有最爱的核子可乐。",
+          "description": "魔绫的像素地牢是一款像素风格的随机地牢冒险游戏，玩家将以战士、法师等不同职业踏入充满未知的地牢，体验回合制战斗、随机武器掉落、丰富道具系统与成长养成所带来的多层策略乐趣。魔绫的像素地牢游戏中每次冒险的地图、敌人与奖励都会完全不同，既考验操作，也考验资源管理与职业搭配，让玩家在奇幻与危机并存的迷宫中不断突破自我，体验Roguelike探索的独特魅力。\n\n游戏特色\n1、地牢中充满来自恶魔深处的扭曲生物！请小心行事！\n\n2、当绝望降临到你身上的时候，你会知道什么叫做无助。\n\n3、挥舞手中的法杖，释放出绫火的力量，还可以合成魔杖哦！\n\n4、各种全新药剂，让你吐出龙王吐息！当然还有最爱的核子可乐。",
           "developer": "辉梦工作室",
           "versionName": "0.9.6.5",
           "versionCode": 2026100600,
           "size": 127809417,
           "apkSize": 127809417,
-          "downloads": 223,
+          "downloads": 224,
           "rating": 4.666666666666667,
           "ratingCount": 6,
           "status": "active",
@@ -60955,6 +60914,76 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ab292fd66f82c44fb6684b7?versionId=6ad4e594616bbdb68a12d483"
+        },
+        {
+          "_id": "6ac42cc8cafe6590f415b6d5",
+          "name": "FlatMC",
+          "packageName": "com.BoYanEZ",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoKey": "apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "category": "Games",
+          "tags": [
+            "沙盒像素风格的游戏。"
+          ],
+          "description": "2D版的MC。目前版本在贝塔0.5之后嘛没有太多内容，但是增加了一点内容。",
+          "developer": "薄言EZ",
+          "versionName": "0.5.0_beta",
+          "versionCode": 1,
+          "size": 52922425,
+          "apkSize": 52922425,
+          "downloads": 407,
+          "rating": 4.285714285714286,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-10-05T23:03:36.893Z",
+          "updatedAt": "2026-10-05T23:03:36.897Z",
+          "latestVersionAt": "2026-10-05T23:03:36.897Z",
+          "uploader": {
+            "_id": "6a9d0964e511a3aa8f914456",
+            "username": "21",
+            "nickname": "21"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac42cc8cafe6590f415b6d5?versionId=6ac42cc8cafe6590f415b6d6"
+        },
+        {
+          "_id": "6a0176c8764a5273e6c7686d",
+          "name": "滑雪大冒险",
+          "packageName": "com.yodo1tier1.skiwest.telecom",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": "icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "logoKey": "apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "category": "Games",
+          "tags": [],
+          "description": "《滑雪大冒险》是一款由Yodo1开发的跑酷类手机游戏，玩家在雪崩中逃生，体验刺激的滑雪冒险。\n\n该版本为西游版，全新地图“天竺行”，风火轮、猪八戒、孙悟空、白龙马等全新载具。\n\n内购破解，商店付费一键购买，可购买全地图。词典笔等长屏设备很合适，视野超大。",
+          "developer": "游道易",
+          "versionName": "2.1.2",
+          "versionCode": 1000,
+          "size": 24696578,
+          "apkSize": 24696578,
+          "downloads": 584,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-11T06:27:20.288Z",
+          "updatedAt": "2026-07-28T10:04:21.849Z",
+          "latestVersionAt": "2026-05-11T06:27:20.284Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0176c8764a5273e6c7686d?versionId=6a0176c8764a5273e6c7686f"
         }
       ]
     },
@@ -227615,6 +227644,11 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a587dc3a50094624fa086af",
           "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/c804dd8b-7e30-468e-ad8f-3162db02b86d.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
@@ -227642,7 +227676,7 @@
           "versionCode": 2,
           "size": 13415,
           "apkSize": 13415,
-          "downloads": 67,
+          "downloads": 68,
           "rating": 5,
           "ratingCount": 2,
           "status": "active",
@@ -227772,7 +227806,7 @@
           "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.wengui.hook/416485a9055ecae8-18.png",
           "category": "Xposed",
           "tags": [],
-          "description": "模块介绍\n解锁会员、去除广告，适配应用90+\n通杀套壳、拦截弹窗、应用脱壳等\n来自小白的戏作一篇，还���包容",
+          "description": "模块介绍\n解锁会员、去除广告，适配应用90+\n通杀套壳、拦截弹窗、应用脱壳等\n来自小白的戏作一篇，还请包容",
           "developer": "文圭",
           "versionName": "0.5.2",
           "versionCode": 18,
@@ -227806,7 +227840,7 @@
           "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/deltazero.amarok/e5302b8d2bc9bd58-118.png",
           "category": "Xposed",
           "tags": [],
-          "description": "Amarok 是什么？\n「Amarok」是个轻量级隐私保护小工具，一键隐藏你的隐私文件和应用。\n\n我们的手机里不免有一些隐私文件和应用不想被他人看到。它们并不是机密资料，但是可能”不宜出现在工作场所”，不希望不小心被别人看见，或手滑发给错误的人。使用加密工具对它们加��，不仅是高射炮打蚊子，且往往加密大文件和应用花费的时间是无法接受的。",
+          "description": "Amarok 是什么？\n「Amarok」是个轻量级隐私保护小工具，一键隐藏你的隐私文件和应用。\n\n我们的手机里不免有一些隐私文件和应用不想被他人看到。它们并不是机密资料，但是可能”��宜出现在工作场所”，不希望不小心被别人看见，或手滑发给错误的人。使用加密工具对它们加密，不仅是高射炮打蚊子，且往往加密大文件和应用花费的时间是无法接受的。",
           "developer": "heruoxin",
           "versionName": "0.9.3",
           "versionCode": 118,
@@ -227848,7 +227882,7 @@
       "versionCode": 1177630,
       "size": 58212589,
       "apkSize": 58212589,
-      "downloads": 289,
+      "downloads": 294,
       "rating": 2.4285714285714284,
       "ratingCount": 7,
       "status": "active",
@@ -227890,7 +227924,7 @@
           "iconKey": "apk-logos-v2/com.microsoft.launcher/1553bc3354aaf661-1177630.png",
           "iconSource": "parsed",
           "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.microsoft.launcher/1553bc3354aaf661-1177630.png",
-          "downloads": 289,
+          "downloads": 294,
           "createdAt": "2026-05-15T23:31:15.922Z"
         }
       ],
@@ -227903,6 +227937,11 @@
         {
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a07acc344d220db9adc175b",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/05534db4-5eda-439e-b8f2-f944fa0bc24c.apk",
           "isAvailable": true
         }
       ],
@@ -228413,7 +228452,7 @@
           "versionCode": 84,
           "size": 10810350,
           "apkSize": 10810350,
-          "downloads": 434,
+          "downloads": 436,
           "rating": 5,
           "ratingCount": 5,
           "status": "active",
@@ -228483,7 +228522,7 @@
           "versionCode": 1,
           "size": 479717,
           "apkSize": 479717,
-          "downloads": 152,
+          "downloads": 153,
           "rating": 5,
           "ratingCount": 4,
           "status": "active",
@@ -228643,6 +228682,11 @@
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/69de23b6323db2fd87c3baa2",
           "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/73e1d43e-e7e1-4fe7-a5dd-638960b51af7.apk",
+          "isAvailable": true
         }
       ],
       "auditLog": [],
@@ -228684,7 +228728,7 @@
           "versionCode": 51,
           "size": 62334404,
           "apkSize": 62334404,
-          "downloads": 602,
+          "downloads": 615,
           "rating": 5,
           "ratingCount": 9,
           "status": "active",
@@ -228698,78 +228742,6 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ac473becafe6590f415c6cc?versionId=6ac473becafe6590f415c6cd"
-        },
-        {
-          "_id": "6ac46a65cafe6590f415c50e",
-          "name": "PVZAS（植物大战僵尸全明星版。）",
-          "packageName": "com.pvzcard.pvzlegend.egame",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoKey": "apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.pvzcard.pvzlegend.egame/7b9019157e3dee14-40.png",
-          "category": "Games",
-          "tags": [
-            "Pvz"
-          ],
-          "description": "植物大战僵尸全明星版本的修复版本已破解内购。",
-          "developer": "宝开",
-          "versionName": "2.0.81",
-          "versionCode": 40,
-          "size": 163827304,
-          "apkSize": 163827304,
-          "downloads": 499,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-06T03:26:29.115Z",
-          "updatedAt": "2026-10-06T03:26:29.121Z",
-          "latestVersionAt": "2026-10-06T03:26:29.121Z",
-          "uploader": {
-            "_id": "6aa5fae32d630acd3f93627a",
-            "username": "齐正健",
-            "nickname": "333syj"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac46a65cafe6590f415c50e?versionId=6ac46a65cafe6590f415c50f"
-        },
-        {
-          "_id": "6ac25575cafe6590f4156160",
-          "name": "2D Strike",
-          "packageName": "kz.qqqschulz.strike2dpk",
-          "variantKey": "default",
-          "variantName": "default",
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoKey": "apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/kz.qqqschulz.strike2dpk/d3be585e0145b8f4-62.png",
-          "category": "Games",
-          "tags": [
-            "射击竞技"
-          ],
-          "description": "玩家将以2d视角与敌人战斗.有多种武器和多种模式可选.玩法简单有趣",
-          "developer": "lvanqSchulz",
-          "versionName": "5.9.6",
-          "versionCode": 62,
-          "size": 11261256,
-          "apkSize": 11261256,
-          "downloads": 140,
-          "rating": 5,
-          "ratingCount": 4,
-          "status": "active",
-          "createdAt": "2026-10-04T13:32:37.453Z",
-          "updatedAt": "2026-10-04T13:32:37.456Z",
-          "latestVersionAt": "2026-10-04T13:32:37.456Z",
-          "uploader": {
-            "_id": "6ab7afef9604347aa09b23bd",
-            "username": "名字",
-            "nickname": "昵称"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6ac25575cafe6590f4156160?versionId=6ac25575cafe6590f4156161"
         },
         {
           "_id": "6ac5fb8dcafe6590f41616e2",
@@ -228792,7 +228764,7 @@
           "versionCode": 1,
           "size": 47520552,
           "apkSize": 47520552,
-          "downloads": 237,
+          "downloads": 244,
           "rating": 4.666666666666667,
           "ratingCount": 3,
           "status": "active",
@@ -228828,7 +228800,7 @@
           "versionCode": 2026100600,
           "size": 127809417,
           "apkSize": 127809417,
-          "downloads": 223,
+          "downloads": 224,
           "rating": 4.666666666666667,
           "ratingCount": 6,
           "status": "active",
@@ -228882,6 +228854,76 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6ab292fd66f82c44fb6684b7?versionId=6ad4e594616bbdb68a12d483"
+        },
+        {
+          "_id": "6ac42cc8cafe6590f415b6d5",
+          "name": "FlatMC",
+          "packageName": "com.BoYanEZ",
+          "variantKey": "default",
+          "variantName": "default",
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoKey": "apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.BoYanEZ/488e12dbf19f8e19-1.png",
+          "category": "Games",
+          "tags": [
+            "沙盒像素风格的游戏。"
+          ],
+          "description": "2D版的MC。目前版本在贝塔0.5之后嘛没有太多内容，但是增加了一点内容。",
+          "developer": "薄言EZ",
+          "versionName": "0.5.0_beta",
+          "versionCode": 1,
+          "size": 52922425,
+          "apkSize": 52922425,
+          "downloads": 407,
+          "rating": 4.285714285714286,
+          "ratingCount": 7,
+          "status": "active",
+          "createdAt": "2026-10-05T23:03:36.893Z",
+          "updatedAt": "2026-10-05T23:03:36.897Z",
+          "latestVersionAt": "2026-10-05T23:03:36.897Z",
+          "uploader": {
+            "_id": "6a9d0964e511a3aa8f914456",
+            "username": "21",
+            "nickname": "21"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6ac42cc8cafe6590f415b6d5?versionId=6ac42cc8cafe6590f415b6d6"
+        },
+        {
+          "_id": "6a0176c8764a5273e6c7686d",
+          "name": "滑雪大冒险",
+          "packageName": "com.yodo1tier1.skiwest.telecom",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": "icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "iconSource": "custom",
+          "iconUrl": "https://market.ziling.xin/download/icon/icons/com.yodo1tier1.skiwest.telecom/5be9cb61-7452-4227-ba95-eb2afb7f8ba7.png",
+          "logoKey": "apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.yodo1tier1.skiwest.telecom/b7f0cd0f012c935d-1000.png",
+          "category": "Games",
+          "tags": [],
+          "description": "《滑雪大冒险》是一款由Yodo1开发的跑酷类手机游戏，玩家在雪崩中逃生，体验刺激的滑雪冒险。\n\n该版本为西游版，全新地图“天竺行”，风火轮、猪八戒、孙悟空、白龙马等全新载具。\n\n内购破解，商店付费一键购买，可购买全地图。词典笔等长屏设备很合适，视野超大。",
+          "developer": "游道易",
+          "versionName": "2.1.2",
+          "versionCode": 1000,
+          "size": 24696578,
+          "apkSize": 24696578,
+          "downloads": 584,
+          "rating": 5,
+          "ratingCount": 4,
+          "status": "active",
+          "createdAt": "2026-05-11T06:27:20.288Z",
+          "updatedAt": "2026-07-28T10:04:21.849Z",
+          "latestVersionAt": "2026-05-11T06:27:20.284Z",
+          "uploader": {
+            "_id": "69d66cd825674e3066735666",
+            "username": "shisan",
+            "nickname": "拾三yu"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a0176c8764a5273e6c7686d?versionId=6a0176c8764a5273e6c7686f"
         }
       ]
     },
@@ -228956,6 +228998,11 @@
         {
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/6a3fe1dbdc4eb29bad77302b",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/cd2bea32-332a-41ac-b077-34e7a71bdc57.apk",
           "isAvailable": true
         }
       ],
@@ -229065,7 +229112,7 @@
           "versionCode": 102012000,
           "size": 81280167,
           "apkSize": 81280167,
-          "downloads": 116,
+          "downloads": 117,
           "rating": 5,
           "ratingCount": 1,
           "status": "active",
@@ -229138,7 +229185,7 @@
           "versionCode": 699454722,
           "size": 46762015,
           "apkSize": 46762015,
-          "downloads": 63,
+          "downloads": 67,
           "rating": 5,
           "ratingCount": 1,
           "status": "active",
@@ -229208,7 +229255,7 @@
           "versionCode": 5310,
           "size": 70285024,
           "apkSize": 70285024,
-          "downloads": 38,
+          "downloads": 39,
           "rating": 5,
           "ratingCount": 5,
           "status": "active",
@@ -229302,6 +229349,11 @@
         {
           "name": "CF加速线路",
           "url": "https://market.ziling.xin/download/cf/69e32187cd7e3d62df072afe",
+          "isAvailable": true
+        },
+        {
+          "name": "芯云德国线路",
+          "url": "https://ling.07v.org/apks/APK/0ae92bb4-58dd-4221-8607-ca2ca8638c13.apk",
           "isAvailable": true
         }
       ],
@@ -230453,13 +230505,13 @@
             "桌面启动器",
             "高流畅度"
           ],
-          "description": "X Launcher Pro 是一款高度模仿iOS风��的精简桌面启动器，为你带来流畅、简洁、优雅的iPhone式操作体验。它去除了冗余的安卓原生元素，提供经典的图标布局、平滑的过渡动画以及便捷的快捷操作，让你的安卓手机秒变iOS风格，同时保留安卓的个性化自定义能力。",
+          "description": "X Launcher Pro 是一款高度模仿iOS风格的精简桌面启动器，为你带来流畅、简洁、优雅的iPhone式操作体验。它去除了冗余的安卓原生元素，提供经典的图标布局、平滑的过渡动画以及便捷的快捷操作，让你的安卓手机秒变iOS风格，同时保留安卓的个性化自定义能力。",
           "developer": "X Launcher Team",
           "versionName": "3.4.4",
           "versionCode": 1123,
           "size": 4665359,
           "apkSize": 4665359,
-          "downloads": 393,
+          "downloads": 397,
           "rating": 5,
           "ratingCount": 7,
           "status": "active",
@@ -230493,7 +230545,7 @@
           "versionCode": 159,
           "size": 6073865,
           "apkSize": 6073865,
-          "downloads": 250,
+          "downloads": 254,
           "rating": 5,
           "ratingCount": 4,
           "status": "active",
@@ -230507,6 +230559,40 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/69d9b6496f4cf61734815481?versionId=69d9b6496f4cf61734815483"
+        },
+        {
+          "_id": "6a10e64c766567fc7e572eef",
+          "name": "Ko工具箱",
+          "packageName": "com.zcg.tools",
+          "variantKey": "default",
+          "variantName": null,
+          "iconKey": null,
+          "iconSource": "parsed",
+          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
+          "category": "System",
+          "tags": [],
+          "description": "专门KO各种电子垃圾的工具箱，有root和免root模式，可以强制旋转屏幕，调节屏幕dpi等",
+          "developer": "早茶光  可泺",
+          "versionName": "2.3",
+          "versionCode": 251101,
+          "size": 4472211,
+          "apkSize": 4472211,
+          "downloads": 237,
+          "rating": 5,
+          "ratingCount": 1,
+          "status": "active",
+          "createdAt": "2026-05-22T23:27:08.860Z",
+          "updatedAt": "2026-09-11T19:45:02.944Z",
+          "latestVersionAt": "2026-09-11T19:45:02.944Z",
+          "uploader": {
+            "_id": "6a768c7a4f71c43f9974fbee",
+            "username": "yuchivink",
+            "nickname": "侠义mo"
+          },
+          "isApks": false,
+          "downloadUrl": "https://market.ziling.xin/download/6a10e64c766567fc7e572eef?versionId=6aa45a3e63071608c3e4d7fb"
         },
         {
           "_id": "6a1a20a4ab7dc62715b4aef1",
@@ -230541,40 +230627,6 @@
           },
           "isApks": false,
           "downloadUrl": "https://market.ziling.xin/download/6a1a20a4ab7dc62715b4aef1?versionId=6a1a20a4ab7dc62715b4aef3"
-        },
-        {
-          "_id": "6a10e64c766567fc7e572eef",
-          "name": "Ko工具箱",
-          "packageName": "com.zcg.tools",
-          "variantKey": "default",
-          "variantName": null,
-          "iconKey": null,
-          "iconSource": "parsed",
-          "iconUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
-          "logoKey": "apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
-          "logoUrl": "https://market.ziling.xin/download/icon/apk-logos-v2/com.zcg.tools/d6f1e81adeb51232-251101.png",
-          "category": "System",
-          "tags": [],
-          "description": "专门KO各种电子垃圾的工具箱，有root和免root模式，可以强制旋转屏幕，调节屏幕dpi等",
-          "developer": "早茶光  可泺",
-          "versionName": "2.3",
-          "versionCode": 251101,
-          "size": 4472211,
-          "apkSize": 4472211,
-          "downloads": 236,
-          "rating": 5,
-          "ratingCount": 1,
-          "status": "active",
-          "createdAt": "2026-05-22T23:27:08.860Z",
-          "updatedAt": "2026-09-11T19:45:02.944Z",
-          "latestVersionAt": "2026-09-11T19:45:02.944Z",
-          "uploader": {
-            "_id": "6a768c7a4f71c43f9974fbee",
-            "username": "yuchivink",
-            "nickname": "侠义mo"
-          },
-          "isApks": false,
-          "downloadUrl": "https://market.ziling.xin/download/6a10e64c766567fc7e572eef?versionId=6aa45a3e63071608c3e4d7fb"
         },
         {
           "_id": "69da19ad3fc1e71efb61311e",
