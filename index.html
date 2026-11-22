@@ -2290,7 +2290,7 @@
             <button class="nav-link" data-page="donation" onclick="switchPage('donation')" data-page-node-id="IJxG7FBHncPinrr9PtDkUB">捐赠榜</button>
             <button class="nav-link" data-page="admin" onclick="switchPage('admin')" data-page-node-id="9PypRH74AvqXCswGJDdGC9">管理</button>
             <button class="nav-link" data-page="api" onclick="switchPage('api')" data-page-node-id="mAPc5etzWvPbJeR5DCqzj4">API演示</button>
-            <button class="nav-link" onclick="location.href='https://zgcp.github.io/hankmi-source/hankmi.html'" data-page-node-id="omDLf9rm93M4lUDWqMOngi">Source 数据</button>
+            <button class="nav-link" onclick="location.href='__LINGDATE_HANKMI_URL__'" data-page-node-id="omDLf9rm93M4lUDWqMOngi">Source 数据</button>
             <button class="nav-link" data-page="legal" onclick="switchPage('legal')" data-page-node-id="i6ZjeqnlK91vjMeKYgD6Gt">法律声明</button>
         </div>
         <div class="user-section" style="position:relative;" data-page-node-id="aIUIaCkDymgd2r66JeHtJm">
@@ -2864,9 +2864,11 @@
         })();
 
         // ========== 常量定义 ==========
-        // API 地址由 GitHub Actions 构建时从 Secret 注入（仓库源码不保留代理地址）
-        // 构建命令：node scripts/build.js（环境变量 API_BASE / SOURCE_DATE_URL）
-        const API_BASE = 'https://plus.tszxzy.dpdns.org/api/v3';
+        // API 地址由 GitHub Actions 构建时从 Secrets / Variables 注入（仓库源码不保留代理地址）
+        // 构建命令：node scripts/build.js（环境变量 API_BASE / HANKMI_URL）
+        const API_BASE = '__LINGDATE_API_BASE__';   // V3 接口根地址（构建时注入完整地址，如 https://xxx/api/v3）
+        // 业务接口（登录 / 评论 / 捐赠 / 上传 / 后台）仍走 V1
+        const API_V1 = API_BASE.replace(/\/api\/v\d+\/?$/, '/api/v1');
         const SRC_MARKET = 'https://market.ziling.xin';   // 官方源站（公开地址，不做隐藏）
         const SRC_MARKET_PORT = 'http://market.ziling.xin:443'; // 旧版带端口源站
         const SRC_OFFICIAL = 'https://ziling.xin';        // 官方站点（公开地址，不做隐藏）
@@ -3044,9 +3046,9 @@
                     }
                     if (isLoggedIn()) {
                         try {
-                            const recRes = await fetch(`${API_BASE}/apps/recommended`);
+                            const recRes = await fetch(`${API_BASE}/featured`);
                             const recData = await recRes.json();
-                            recommendedApps = recData.apps || [];
+                            recommendedApps = (recData.featured || []).map(f => f.app).filter(Boolean);
                         } catch(e) {
                             console.warn('推荐应用加载失败，使用本地排序:', e.message);
                             recommendedApps = [...allApps].sort((a,b) => b.downloads - a.downloads).slice(0,8);
@@ -3110,7 +3112,7 @@
                     categories = Array.isArray(c) ? c : ((c && (c.categories || c.data)) || []);
                 } catch(e) { console.warn('分类获取失败:', e.message); categories = []; }
                 if (!Array.isArray(categories)) categories = [];
-                try { recommendedApps = (await (await fetch(`${API_BASE}/apps/recommended`)).json()).apps || []; } catch(e) { console.warn('推荐应用获取失败:', e.message); recommendedApps = []; }
+                try { const fd = await (await fetch(`${API_BASE}/featured`)).json(); recommendedApps = (fd.featured || []).map(f => f.app).filter(Boolean); } catch(e) { console.warn('推荐应用获取失败:', e.message); recommendedApps = []; }
                 updateStats();
                 renderCategories();
                 renderApps();
@@ -3288,7 +3290,7 @@
 
         async function loadScreenshots(appId) {
             try {
-                const res = await fetch(`${API_BASE}/apps/${appId}/screenshots`);
+                const res = await fetch(`${API_V1}/apps/${appId}/screenshots`);
                 if (!res.ok) return [];
                 const data = await res.json();
                 return data.screenshots || [];
@@ -3499,7 +3501,7 @@
                 if (thisRequestId !== detailRequestId) return;
                 let comments = [];
                 try {
-                    const cr = await fetch(`${API_BASE}/apps/${appId}/comments`);
+                    const cr = await fetch(`${API_V1}/apps/${appId}/comments`);
                     comments = (await safeJson(cr)).comments || [];
                 } catch(e) { console.warn('评论加载失败:', appId, e.serverError ? '服务端错误 '+e.code : e.message); }
                 if (thisRequestId !== detailRequestId) return;
@@ -3661,7 +3663,7 @@
             if (donations.length > 0) { renderDonations(); return; }
             c.innerHTML = '<div class="loading">加载中...</div>';
             try {
-                const res = await fetch(`${API_BASE}/donations/leaderboard`);
+                const res = await fetch(`${API_V1}/donations/leaderboard`);
                 const data = await safeJson(res);
                 donations = data.leaderboard || [];
                 setCache('donations', donations);
@@ -3733,7 +3735,7 @@
             if (t) headers['Authorization'] = `Bearer ${t}`;
             if (opts.body && typeof opts.body === 'object' && !(opts.body instanceof FormData)) { headers['Content-Type'] = 'application/json'; opts.body = JSON.stringify(opts.body); }
             try {
-                const res = await fetch(`${API_BASE}${path}`, {...opts, headers});
+                const res = await fetch(`${API_V1}${path}`, {...opts, headers});
                 // 频率限制不重试，直接抛出
                 if (res.status === 429) {
                     throw { serverError: true, code: 429, message: '请求太频繁 [429]，请稍后重试' };
@@ -3807,7 +3809,7 @@
         async function loadUserProfile(userId) {
             const body = document.getElementById('userProfileBody');
             try {
-                const res = await fetch(`${API_BASE}/users/${userId}`);
+                const res = await fetch(`${API_V1}/users/${userId}`);
                 const data = await safeJson(res);
                 if (!data || !data.user) throw new Error('用户不存在');
                 const u = data.user;
@@ -4055,9 +4057,8 @@ async function loadDownloadLines(appId) {
 
     render(buildLines(null));   // 先渲染官方线路，避免等待时空白
     try {
-        const res = await apiFetch(`/apps/${appId}`);
-        if (!res.ok) return;
-        const data = await res.json();
+        // 多线路字段（downloadLines）来自 V3 详情
+        const data = await safeJson(await fetch(`${API_BASE}/apps/${appId}`));
         const app = data && (data.app || data);
         render(buildLines(app));
     } catch (e) {
